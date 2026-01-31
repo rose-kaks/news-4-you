@@ -3,6 +3,34 @@
 from PIL import Image, ImageDraw, ImageFont
 import time
 
+
+import requests
+from io import BytesIO
+
+
+def load_background(image_url, width=1080, height=1080):
+    try:
+        r = requests.get(image_url, timeout=10)
+        bg = Image.open(BytesIO(r.content)).convert("RGB")
+        return bg.resize((width, height))
+    except:
+        return Image.new("RGB", (width, height), (18, 18, 18))
+
+
+def apply_smart_gradient(img):
+    width, height = img.size
+    overlay = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    draw = ImageDraw.Draw(overlay)
+
+    start_y = int(height * 0.45)
+    for y in range(start_y, height):
+        alpha = int(235 * ((y - start_y) / (height - start_y)) ** 1.2)
+        draw.line([(0, y), (width, y)], fill=(0, 0, 0, alpha))
+
+    img = img.convert("RGBA")
+    return Image.alpha_composite(img, overlay).convert("RGB")
+
+
 def generate_carousel(article, topic):
     # uses your existing:
     # load_background
