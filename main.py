@@ -42,7 +42,13 @@ def main():
         dest = os.path.join(PUBLIC_SLIDES_DIR, filename)
         shutil.move(path, dest)
 
-        public_urls.append(f"{PUBLIC_BASE}/slides/{filename}")
+        from cloudinary_upload import upload_image
+
+        public_urls = []
+
+        for image_path in generated_images:
+            url = upload_image(image_path)
+            public_urls.append(url)
 
     print("🌍 Public image URLs:")
     for u in public_urls:

@@ -3,3 +3,4 @@ Pillow
 spacy
 scikit-learn
 numpy
+cloudinary
