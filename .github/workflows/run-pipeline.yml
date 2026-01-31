@@ -1,37 +1,43 @@
-name: Generate Insta Carousel
+name: Insta News Carousel Bot
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 * * * *"   # every hour
 
 jobs:
-  build:
+  run:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: "3.10"
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
 
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
-        python -m spacy download en_core_web_sm
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
 
-    - name: Run pipeline
-      env:
-        NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
-        GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
-        MEDIASTACK_KEY: ${{ secrets.MEDIASTACK_KEY }}
-      run: |
-        python main.py
+      - name: Run pipeline
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
+          MEDIASTACK_KEY: ${{ secrets.MEDIASTACK_KEY }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: |
+          python main.py
 
-    - name: Upload images
-      uses: actions/upload-artifact@v4
-      with:
-        name: carousel
-        path: slide_*.png
+      - name: Commit and push generated slides
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add docs/slides
+          git commit -m "auto: add carousel slides" || echo "No changes"
+          git push

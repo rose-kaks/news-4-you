@@ -1,6 +1,7 @@
 # news_pipeline.py
 
-import requests, spacy, json, os, time, hashlib
+import os, json, requests, hashlib
+import spacy
 from datetime import datetime, timezone, timedelta
 from collections import Counter
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -36,44 +37,59 @@ def score_article(article):
         score += 3
 
     if ":" in article.get("title",""): score += 1
-    if any(w in article["title"].lower() for w in ["breaking","announces","launches","wins"]):
+    if any(w in article["title"].lower()
+           for w in ["breaking","announces","launches","wins"]):
         score += 2
 
     return score
 
 # ---------------- FETCH ----------------
 def fetch_master_news(query):
-    all_articles, seen = [], set()
+    articles, seen = [], set()
 
     # NewsAPI
     url = f"https://newsapi.org/v2/top-headlines?q={query}&apiKey={newsapi_key}"
-    for art in requests.get(url).json().get("articles", []):
-        if art["url"] not in seen:
-            all_articles.append({
-                "title": art["title"],
-                "url": art["url"],
-                "desc": art.get("description",""),
-                "source": art["source"]["name"],
-                "image": art.get("urlToImage")
+    for a in requests.get(url).json().get("articles", []):
+        if a["url"] not in seen:
+            articles.append({
+                "title": a["title"],
+                "url": a["url"],
+                "desc": a.get("description",""),
+                "source": a["source"]["name"],
+                "image": a.get("urlToImage")
             })
-            seen.add(art["url"])
+            seen.add(a["url"])
 
     # GNews
     url = f"https://gnews.io/api/v4/top-headlines?q={query}&token={gnews_key}&lang=en"
-    for art in requests.get(url).json().get("articles", []):
-        if art["url"] not in seen:
-            all_articles.append({
-                "title": art["title"],
-                "url": art["url"],
-                "desc": art.get("description",""),
-                "source": art["source"]["name"],
-                "image": art.get("image")
+    for a in requests.get(url).json().get("articles", []):
+        if a["url"] not in seen:
+            articles.append({
+                "title": a["title"],
+                "url": a["url"],
+                "desc": a.get("description",""),
+                "source": a["source"]["name"],
+                "image": a.get("image")
             })
-            seen.add(art["url"])
+            seen.add(a["url"])
 
-    return all_articles
+    # Mediastack
+    if mstack_key:
+        url = f"http://api.mediastack.com/v1/news?access_key={mstack_key}&keywords={query}&languages=en"
+        for a in requests.get(url).json().get("data", []):
+            if a.get("url") and a["url"] not in seen:
+                articles.append({
+                    "title": a.get("title",""),
+                    "url": a["url"],
+                    "desc": a.get("description",""),
+                    "source": a.get("source","Mediastack"),
+                    "image": a.get("image")
+                })
+                seen.add(a["url"])
 
-# ---------------- NLP + CLUSTER ----------------
+    return articles
+
+# ---------------- NLP + SIMILARITY ----------------
 def normalize_topic(name):
     aliases = {
         "modi": "Narendra Modi",
@@ -83,42 +99,51 @@ def normalize_topic(name):
     return aliases.get(name.lower(), name.title())
 
 def cluster_articles(articles, threshold=0.55):
-    texts = [(a["title"]+" "+a["desc"]).lower() for a in articles]
-    tfidf = TfidfVectorizer(stop_words="english").fit_transform(texts)
-    sim = cosine_similarity(tfidf)
+    texts = [(a["title"] + " " + a["desc"]).lower() for a in articles]
+
+    vectorizer = TfidfVectorizer(stop_words="english")
+    tfidf_matrix = vectorizer.fit_transform(texts)
+
+    similarity_matrix = cosine_similarity(tfidf_matrix)
 
     clusters, used = [], set()
     for i in range(len(articles)):
-        if i in used: continue
+        if i in used:
+            continue
         group = [i]
         used.add(i)
-        for j in range(i+1, len(articles)):
-            if sim[i][j] >= threshold:
+        for j in range(i + 1, len(articles)):
+            if similarity_matrix[i][j] >= threshold:
                 group.append(j)
                 used.add(j)
         clusters.append(group)
-    return clusters
 
-# ---------------- MAIN PIPE ----------------
+    return clusters, similarity_matrix, tfidf_matrix
+
+# ---------------- MAIN ENTRY ----------------
 def get_next_article(query="technology india"):
-    db = load_db()
-
     raw = fetch_master_news(query)
 
     for a in raw:
         doc = nlp(a["title"] + " " + a["desc"])
         a["entities"] = [normalize_topic(e.text) for e in doc.ents]
 
-    clusters = cluster_articles(raw)
+    clusters, sim_matrix, tfidf_matrix = cluster_articles(raw)
+
     stories = []
     for c in clusters:
-        arts = [raw[i] for i in c]
-        best = max(arts, key=score_article)
-        stories.append(best)
+        group = [raw[i] for i in c]
+        stories.append(max(group, key=score_article))
 
     if not stories:
         return None
 
     chosen = max(stories, key=score_article)
-    save_db(db)
-    return chosen
+
+    return {
+        "article": chosen,
+        "clusters": clusters,
+        "similarity_matrix": sim_matrix,
+        "tfidf_matrix": tfidf_matrix,
+        "raw_articles": raw
+    }
