@@ -8,11 +8,12 @@ def main():
     result = get_next_article()
 
     if not result:
-        print("😴 No article selected")
+        print("😴 No fresh topics found (Topic Cooldown active).")
         return
 
     article = result["article"]
-    topic = article.get("entities", ["General"])[0]
+    # topic = article.get("entities", ["General"])[0]
+    topic=article["topic"]
 
     # 1. Generate carousel images
     slide_paths = generate_carousel(article, topic)
