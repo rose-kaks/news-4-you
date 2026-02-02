@@ -206,11 +206,17 @@ def normalize_topic(name, label=None):
 #     return name.title()
 
 
-def cluster_articles(articles, threshold=0.32):
-    texts = [
-        (a.get("title", "") + " " + a.get("title", "") + " " + a.get("desc", "")).lower()
-        for a in articles
-    ]
+def cluster_articles(articles, threshold=0.40):
+    # texts = [
+    #     (a.get("title", "") + " " + a.get("title", "") + " " + a.get("desc", "")).lower()
+    #     for a in articles
+    # ]
+
+    texts = []
+    for a in articles:
+        entity_blob = " ".join(a.get("entities", []))
+        combined = f"{a.get('title','')} {a.get('desc','')} {entity_blob} {entity_blob}"
+        texts.append(combined.lower())
 
     vectorizer = TfidfVectorizer(stop_words="english")
     tfidf_matrix = vectorizer.fit_transform(texts)
