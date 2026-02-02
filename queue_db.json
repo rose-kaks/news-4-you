@@ -57,20 +57,6 @@
             "added_time": "2026-02-02T12:20:27.326352+00:00"
         },
         {
-            "story_id": "b476ee8ccc00d0e7843beaf2e861b28c",
-            "topic": "India News",
-            "subtopics": [
-                "Budget 2026: Coconut, chocolate, cashew, other items get special attention. All you need to know"
-            ],
-            "title": "Budget 2026: Coconut, chocolate, cashew, other items get special attention. All you need to know",
-            "desc": "To help farmers earn more from their land, the Budget 2026-27 has prioritised diversification towards high-value crops.| India News",
-            "url": "https://www.hindustantimes.com/india-news/budget-2026-coconut-chocolate-cashew-other-items-get-special-attention-all-you-need-to-know-101769943408124.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/01/550x309/nirmalaaaaakka_1769942691063_1769942709154_1769943526661.png",
-            "source": "Hindustan Times",
-            "score": 4,
-            "added_time": "2026-02-02T12:20:27.326365+00:00"
-        },
-        {
             "story_id": "c43ef5a7e77342343600ed810be2081c",
             "topic": "Nirmala Sitharaman",
             "subtopics": [
@@ -139,6 +125,20 @@
             "source": "Hindustan Times",
             "score": 3,
             "added_time": "2026-02-02T14:47:50.699019+00:00"
+        },
+        {
+            "story_id": "d593c82c2e139e323d0fda5b1d162766",
+            "topic": "Uzbekistan",
+            "subtopics": [
+                "Market Strategy and Competitive Advantage in Uzbekistan\u2019s Renewable Energy Sector"
+            ],
+            "title": "Market Strategy and Competitive Advantage in Uzbekistan\u2019s Renewable Energy Sector",
+            "desc": "This study examines how international renewable energy firms design and execute non-market strategies to achieve competitive advantage in Uzbekistan\u2019s state-led energy transition. Through a qualitative multiple-case study analysis of leading developers operating under Uzbekistan\u2019s distinctive \u201cUzbek Model\u201d of reverse auctions and centralized procurement, the research identifies three core strategic domains: proactive institutional creation, pragmatic mitigation of institutional voids, and the management of paradoxical relationships with both the state and competitors. The findings introduce and develop the concept of orchestration strategy a firm-level dynamic capability to simultaneously compete within a state-defined arena while collaborating to build its institutional and operational foundations. The study contributes to non-market strategy and institutional theory by bridging macro-transition pathways with micro-level strategic action, and offers practical insights for firms and policymakers navigating similar state-orchestrated green energy transitions.",
+            "url": "https://www.scirp.org/journal/paperinformation?paperid=149298",
+            "image": "https://file.scirp.org/image/ojapps2016042115203396.jpg",
+            "source": "SCIRP Open Access",
+            "score": 3,
+            "added_time": "2026-02-02T15:41:40.873467+00:00"
         }
     ],
     "posted": [
@@ -183,11 +183,26 @@
             "source": "Times of India",
             "score": 4,
             "added_time": "2026-02-02T12:20:27.326358+00:00"
+        },
+        {
+            "story_id": "b476ee8ccc00d0e7843beaf2e861b28c",
+            "topic": "India News",
+            "subtopics": [
+                "Budget 2026: Coconut, chocolate, cashew, other items get special attention. All you need to know"
+            ],
+            "title": "Budget 2026: Coconut, chocolate, cashew, other items get special attention. All you need to know",
+            "desc": "To help farmers earn more from their land, the Budget 2026-27 has prioritised diversification towards high-value crops.| India News",
+            "url": "https://www.hindustantimes.com/india-news/budget-2026-coconut-chocolate-cashew-other-items-get-special-attention-all-you-need-to-know-101769943408124.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/01/550x309/nirmalaaaaakka_1769942691063_1769942709154_1769943526661.png",
+            "source": "Hindustan Times",
+            "score": 4,
+            "added_time": "2026-02-02T12:20:27.326365+00:00"
         }
     ],
     "recent_topics": {
         "Budget India Business News: Prices": "2026-02-02T12:20:27.326405+00:00",
         "India Business News:": "2026-02-02T13:11:56.935074+00:00",
-        "NASA": "2026-02-02T14:47:50.699033+00:00"
+        "NASA": "2026-02-02T14:47:50.699033+00:00",
+        "India News": "2026-02-02T15:41:40.873503+00:00"
     }
 }
