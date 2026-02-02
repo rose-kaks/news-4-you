@@ -90,8 +90,8 @@ def generate_carousel(article, topic):
     max_width = WIDTH - (2 * margin_x)
 
     title_font = get_font(68, bold=True)
-    subtitle_font = get_font(32)
-    body_font = get_font(44)
+    subtitle_font = get_font(32, bold=False)
+    body_font = get_font(44, bold=False)
     meta_font = get_font(30, bold=True)
 
     slide_paths = []
@@ -107,9 +107,13 @@ def generate_carousel(article, topic):
     draw.text((margin_x, y), topic.upper(), fill="#FFD700", font=meta_font)
     y += 55
 
+    title_text = article.get("title", "")
+    title_h, title_lines = calculate_text_height(draw, title_text, title_font, max_width, 15)
+
+
     y = draw_wrapped_text(
         draw,
-        article.get("title", ""),
+        title_text,
         title_font,
         margin_x,
         y,
