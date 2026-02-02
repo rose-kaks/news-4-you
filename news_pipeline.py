@@ -21,8 +21,14 @@ nlp = spacy.load("en_core_web_sm")
 def load_db():
     if not os.path.exists(DB_FILE):
         return {"queue": [], "posted": [], "recent_topics": {}}
-    with open(DB_FILE, "r") as f:
-        return json.load(f)
+
+    try:
+        with open(DB_FILE, "r") as f:
+            return json.load(f)
+    except json.JSONDecodeError:
+        print("⚠️ Corrupted queue_db.json detected, resetting DB")
+        return {"queue": [], "posted": [], "recent_topics": {}}
+
 
 def save_db(db):
     with open(DB_FILE, "w") as f:
