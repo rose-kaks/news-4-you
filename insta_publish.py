@@ -61,21 +61,24 @@ def create_carousel_container(children_ids, caption):
     return data.get("id")
 
 
-def publish_container(creation_id):
-    r = requests.post(
-        f"{GRAPH_API}/{INSTAGRAM_USER_ID}/media_publish",
-        data={
-            "creation_id": creation_id,
-            "access_token": ACCESS_TOKEN
-        }
-    )
+def publish_container(creation_id, retries=5):
+    for i in range(retries):
+        r = requests.post(
+            f"{GRAPH_API}/{INSTAGRAM_USER_ID}/media_publish",
+            data={
+                "creation_id": creation_id,
+                "access_token": ACCESS_TOKEN
+            }
+        )
 
-    # 🔒 SAFE HANDLING — NO CRASH
-    if not r.ok:
-        print("⚠️ Instagram publish warning (ignored):", r.text)
-        return None
+        if r.ok:
+            return r.json()
 
-    return r.json()
+        print(f"⚠️ Publish attempt {i+1} failed:", r.text)
+        time.sleep(10)
+
+    return None
+
 
 
 def post_carousel(image_urls, caption):
@@ -100,4 +103,10 @@ def post_carousel(image_urls, caption):
         raise Exception("Failed to create carousel container")
 
     # 4️⃣ publish (SAFE)
-    return publish_container(carousel_id)
+   
+    result = publish_container(carousel_id)
+
+    if not result:
+        return False
+
+    return True
