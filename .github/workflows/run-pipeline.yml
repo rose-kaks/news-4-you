@@ -10,7 +10,7 @@ permissions:
 
 concurrency:
   group: insta-news-queue
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   run:
