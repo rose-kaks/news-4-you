@@ -167,6 +167,20 @@
             "source": "CNN",
             "score": 3,
             "added_time": "2026-02-03T05:55:21.625642+00:00"
+        },
+        {
+            "story_id": "17c21ee6aa9e21bc91209cde44292ff3",
+            "topic": "Asx",
+            "subtopics": [
+                "ASX jumps on RBA day; Musk merges xAI, SpaceX to create $1.8 trillion giant"
+            ],
+            "title": "ASX jumps on RBA day; Musk merges xAI, SpaceX to create $1.8 trillion giant",
+            "desc": "The ASX has opened higher after wild swings that swept through financial markets eased overnight.",
+            "url": "https://www.theage.com.au/business/markets/asx-set-to-jump-on-rba-day-as-wall-street-rebounds-gold-silver-swing-oil-dives-20260203-p5nz0b.html",
+            "image": "https://static.ffx.io/images/$zoom_0.5602%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/a0715578adbd6e1851560a5b2b28717daa6cff76",
+            "source": "The Age",
+            "score": 2,
+            "added_time": "2026-02-03T12:22:29.329283+00:00"
         }
     ],
     "posted": [
