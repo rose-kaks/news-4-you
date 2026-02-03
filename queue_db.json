@@ -43,20 +43,6 @@
             "added_time": "2026-02-02T23:34:33.103620+00:00"
         },
         {
-            "story_id": "df133433e09ec37087d6328d592d46bb",
-            "topic": "Esg",
-            "subtopics": [
-                "ESG ratings - are they still relevant?"
-            ],
-            "title": "ESG ratings - are they still relevant?",
-            "desc": "Over the laste decade the ESG landscape has continue to advance. We explore the role of ESG ratings and if they are still relevant for the future.",
-            "url": "https://www.allianzgi.com/en/insights/outlook-and-commentary/sustainable-investing-esg-ratings-are-they-still-relevant",
-            "image": "https://www.allianzgi.com/-/media/allianzgi/globalagi/editorial/2026/sustainable-investing-esg-ratings-are-they-still-relevant/1920x980-sustainable-investing-esg-ratings-are-they-still-relevant.png?rev=183e732938e94e9ea4014d65834bd8f6&extension=webp%2cavif&hash=77A74DA26643DE29022FA114D79C28C2",
-            "source": "allianzgi.com",
-            "score": 3,
-            "added_time": "2026-02-03T02:37:49.791326+00:00"
-        },
-        {
             "story_id": "b99ba9ca638155a1682139131d5aba61",
             "topic": "Dixon",
             "subtopics": [
@@ -440,6 +426,20 @@
             "source": "SCIRP Open Access",
             "score": 3,
             "added_time": "2026-02-02T23:34:33.103657+00:00"
+        },
+        {
+            "story_id": "df133433e09ec37087d6328d592d46bb",
+            "topic": "Esg",
+            "subtopics": [
+                "ESG ratings - are they still relevant?"
+            ],
+            "title": "ESG ratings - are they still relevant?",
+            "desc": "Over the laste decade the ESG landscape has continue to advance. We explore the role of ESG ratings and if they are still relevant for the future.",
+            "url": "https://www.allianzgi.com/en/insights/outlook-and-commentary/sustainable-investing-esg-ratings-are-they-still-relevant",
+            "image": "https://www.allianzgi.com/-/media/allianzgi/globalagi/editorial/2026/sustainable-investing-esg-ratings-are-they-still-relevant/1920x980-sustainable-investing-esg-ratings-are-they-still-relevant.png?rev=183e732938e94e9ea4014d65834bd8f6&extension=webp%2cavif&hash=77A74DA26643DE29022FA114D79C28C2",
+            "source": "allianzgi.com",
+            "score": 3,
+            "added_time": "2026-02-03T02:37:49.791326+00:00"
         }
     ],
     "recent_topics": {
@@ -459,6 +459,7 @@
         "Uzbekistan": "2026-02-03T12:33:54.005611+00:00",
         "Ip": "2026-02-03T13:13:09.139109+00:00",
         "China": "2026-02-03T15:55:39.237290+00:00",
-        "Ibam": "2026-02-03T16:37:17.784644+00:00"
+        "Ibam": "2026-02-03T16:37:17.784644+00:00",
+        "Esg": "2026-02-03T17:09:35.944799+00:00"
     }
 }
