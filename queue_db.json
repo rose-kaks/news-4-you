@@ -1,20 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "11f4bd36f6d3fc386b38701a77555e1c",
-            "topic": "Etaf",
-            "subtopics": [
-                "Ethiopia Projects Regional Air Supremacy at Black Lion Expo 2026"
-            ],
-            "title": "Ethiopia Projects Regional Air Supremacy at Black Lion Expo 2026",
-            "desc": "The Black Lion Air Show and Aviation Expo 2026, held between January 23 and 27 in Bishoftu, marked a transformative milestone for the Ethiopian Air Force (EtAF). This event served as the official celebration of the 90th anniversary of the EtAF, transitioning the organization from its historical roots into a technologically advanced, modern aerial force.\u2026",
-            "url": "https://www.military.africa/2026/02/ethiopia-projects-regional-air-supremacy-at-black-lion-expo-2026/",
-            "image": "https://www.military.africa/wp-content/uploads/2026/02/Ethiopia-Aviation-Expo-and-Black-Lion-Air-Show-2026-6-scaled.jpg",
-            "source": "Military Africa",
-            "score": 3,
-            "added_time": "2026-02-02T12:20:27.326321+00:00"
-        },
-        {
             "story_id": "bc6d0651a33a0228b4ea2ac356603c4a",
             "topic": "B.C.",
             "subtopics": [
@@ -351,6 +337,20 @@
             "source": "Times Now",
             "score": 4,
             "added_time": "2026-02-03T02:37:49.791349+00:00"
+        },
+        {
+            "story_id": "11f4bd36f6d3fc386b38701a77555e1c",
+            "topic": "Etaf",
+            "subtopics": [
+                "Ethiopia Projects Regional Air Supremacy at Black Lion Expo 2026"
+            ],
+            "title": "Ethiopia Projects Regional Air Supremacy at Black Lion Expo 2026",
+            "desc": "The Black Lion Air Show and Aviation Expo 2026, held between January 23 and 27 in Bishoftu, marked a transformative milestone for the Ethiopian Air Force (EtAF). This event served as the official celebration of the 90th anniversary of the EtAF, transitioning the organization from its historical roots into a technologically advanced, modern aerial force.\u2026",
+            "url": "https://www.military.africa/2026/02/ethiopia-projects-regional-air-supremacy-at-black-lion-expo-2026/",
+            "image": "https://www.military.africa/wp-content/uploads/2026/02/Ethiopia-Aviation-Expo-and-Black-Lion-Air-Show-2026-6-scaled.jpg",
+            "source": "Military Africa",
+            "score": 3,
+            "added_time": "2026-02-02T12:20:27.326321+00:00"
         }
     ],
     "recent_topics": {
@@ -361,6 +361,7 @@
         "India": "2026-02-03T02:37:49.791380+00:00",
         "The Union Budget 2026": "2026-02-02T17:42:46.523435+00:00",
         "Nirmala Sitharaman": "2026-02-02T23:34:33.103675+00:00",
-        "Technology & Science, Times": "2026-02-03T04:36:19.329485+00:00"
+        "Technology & Science, Times": "2026-02-03T04:36:19.329485+00:00",
+        "Etaf": "2026-02-03T04:51:21.135375+00:00"
     }
 }
