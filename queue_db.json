@@ -15,20 +15,6 @@
             "added_time": "2026-02-02T12:20:27.326329+00:00"
         },
         {
-            "story_id": "908b892a78268c25a1114245b49e13c2",
-            "topic": "Karnataka",
-            "subtopics": [
-                "Karnataka is biggest gainer, Madhya Pradesh biggest loser under 16th Finance Commission formula"
-            ],
-            "title": "Karnataka is biggest gainer, Madhya Pradesh biggest loser under 16th Finance Commission formula",
-            "desc": "Large, population-heavy states also see reduced allocations. Uttar Pradesh loses Rs 4,884 crore, while West Bengal sees a cut of Rs 4,701 crore.",
-            "url": "https://www.moneycontrol.com/news/business/economy/karnataka-is-biggest-gainer-madhya-pradesh-biggest-loser-under-16th-finance-commission-formula-13803907.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260201114556_nirmala.png",
-            "source": "Moneycontrol",
-            "score": 3,
-            "added_time": "2026-02-02T12:20:27.326336+00:00"
-        },
-        {
             "story_id": "796c811f2818c5a9b097a9e95157dee1",
             "topic": "Apple",
             "subtopics": [
@@ -209,6 +195,20 @@
             "source": "FinancialContent",
             "score": 3,
             "added_time": "2026-02-03T04:36:19.329468+00:00"
+        },
+        {
+            "story_id": "d111c64473733ef51b8be2ec79b2f9d0",
+            "topic": "Narendra Modi",
+            "subtopics": [
+                "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil"
+            ],
+            "title": "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil",
+            "desc": "President Donald Trump on Monday announced he would reduce tariffs on Indian goods in exchange for, among other things, a promise to stop buying Russian oil.",
+            "url": "https://www.cnn.com/2026/02/02/business/india-russian-oil-trump-tariffs",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239374060.jpg?c=16x9&q=w_800,c_fill",
+            "source": "CNN",
+            "score": 3,
+            "added_time": "2026-02-03T05:55:21.625642+00:00"
         }
     ],
     "posted": [
@@ -351,6 +351,20 @@
             "source": "Military Africa",
             "score": 3,
             "added_time": "2026-02-02T12:20:27.326321+00:00"
+        },
+        {
+            "story_id": "908b892a78268c25a1114245b49e13c2",
+            "topic": "Karnataka",
+            "subtopics": [
+                "Karnataka is biggest gainer, Madhya Pradesh biggest loser under 16th Finance Commission formula"
+            ],
+            "title": "Karnataka is biggest gainer, Madhya Pradesh biggest loser under 16th Finance Commission formula",
+            "desc": "Large, population-heavy states also see reduced allocations. Uttar Pradesh loses Rs 4,884 crore, while West Bengal sees a cut of Rs 4,701 crore.",
+            "url": "https://www.moneycontrol.com/news/business/economy/karnataka-is-biggest-gainer-madhya-pradesh-biggest-loser-under-16th-finance-commission-formula-13803907.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260201114556_nirmala.png",
+            "source": "Moneycontrol",
+            "score": 3,
+            "added_time": "2026-02-02T12:20:27.326336+00:00"
         }
     ],
     "recent_topics": {
@@ -362,6 +376,7 @@
         "The Union Budget 2026": "2026-02-02T17:42:46.523435+00:00",
         "Nirmala Sitharaman": "2026-02-02T23:34:33.103675+00:00",
         "Technology & Science, Times": "2026-02-03T04:36:19.329485+00:00",
-        "Etaf": "2026-02-03T04:51:21.135375+00:00"
+        "Etaf": "2026-02-03T04:51:21.135375+00:00",
+        "Karnataka": "2026-02-03T05:55:21.625671+00:00"
     }
 }
