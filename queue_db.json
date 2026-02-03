@@ -43,20 +43,6 @@
             "added_time": "2026-02-02T23:34:33.103620+00:00"
         },
         {
-            "story_id": "05e46305f6747450926d03e997f8d531",
-            "topic": "Ibam",
-            "subtopics": [
-                "Limitations of Classical Models and the Need for New Continuous Analytical Approaches"
-            ],
-            "title": "Limitations of Classical Models and the Need for New Continuous Analytical Approaches",
-            "desc": "Earth-to-Air Energy Exchangers (EAEEs) represent a promising passive solution for air preconditioning in buildings, exploiting the ground\u2019s thermal inertia. However, conventional analytical models rely on simplifying assumptions: dry air, homogeneous soil, neglected vertical section, and ignored internal condensation. Although these assumptions are necessary for an analytical formulation, they limit the models\u2019 ability to faithfully represent real system behavior, particularly in tropical and semi-arid climates. Numerical approaches (CFD, finite element methods) offer increased physical realism but remain computationally expensive and difficult to apply in parametric studies or practical sizing. In this context, this article provides a critical analysis of existing models and discusses the need for alternative analytical approaches that reconcile physical realism with engineering practicality. The Initial Basis Analysis Method (IBAM) is introduced as a continuous analytical framework capable of solving the coupled energy and mass transport equations analytically, while incorporating thin-film condensation, the vertical section, atmospheric fluctuations, and thermal and hygrometric soil variability. Rather than presenting a new experimental validation campaign, the manuscript relies on comparisons with experimental results and prior work to discuss the validity domain and practical applicability of the proposed approach. This contribution aims to clarify the assumptions, contributions, and limitations of the IBAM method, and to provide a useful analytical framework for the modeling and design of earth-to-air energy exchange systems.",
-            "url": "https://www.scirp.org/journal/paperinformation?paperid=149312",
-            "image": "https://file.scirp.org/image/ampc2016062411150636.jpg",
-            "source": "SCIRP Open Access",
-            "score": 3,
-            "added_time": "2026-02-02T23:34:33.103657+00:00"
-        },
-        {
             "story_id": "df133433e09ec37087d6328d592d46bb",
             "topic": "Esg",
             "subtopics": [
@@ -440,6 +426,20 @@
             "source": "SCIRP Open Access",
             "score": 3,
             "added_time": "2026-02-02T23:34:33.103649+00:00"
+        },
+        {
+            "story_id": "05e46305f6747450926d03e997f8d531",
+            "topic": "Ibam",
+            "subtopics": [
+                "Limitations of Classical Models and the Need for New Continuous Analytical Approaches"
+            ],
+            "title": "Limitations of Classical Models and the Need for New Continuous Analytical Approaches",
+            "desc": "Earth-to-Air Energy Exchangers (EAEEs) represent a promising passive solution for air preconditioning in buildings, exploiting the ground\u2019s thermal inertia. However, conventional analytical models rely on simplifying assumptions: dry air, homogeneous soil, neglected vertical section, and ignored internal condensation. Although these assumptions are necessary for an analytical formulation, they limit the models\u2019 ability to faithfully represent real system behavior, particularly in tropical and semi-arid climates. Numerical approaches (CFD, finite element methods) offer increased physical realism but remain computationally expensive and difficult to apply in parametric studies or practical sizing. In this context, this article provides a critical analysis of existing models and discusses the need for alternative analytical approaches that reconcile physical realism with engineering practicality. The Initial Basis Analysis Method (IBAM) is introduced as a continuous analytical framework capable of solving the coupled energy and mass transport equations analytically, while incorporating thin-film condensation, the vertical section, atmospheric fluctuations, and thermal and hygrometric soil variability. Rather than presenting a new experimental validation campaign, the manuscript relies on comparisons with experimental results and prior work to discuss the validity domain and practical applicability of the proposed approach. This contribution aims to clarify the assumptions, contributions, and limitations of the IBAM method, and to provide a useful analytical framework for the modeling and design of earth-to-air energy exchange systems.",
+            "url": "https://www.scirp.org/journal/paperinformation?paperid=149312",
+            "image": "https://file.scirp.org/image/ampc2016062411150636.jpg",
+            "source": "SCIRP Open Access",
+            "score": 3,
+            "added_time": "2026-02-02T23:34:33.103657+00:00"
         }
     ],
     "recent_topics": {
@@ -458,6 +458,7 @@
         "Nirmala Sitharaman'S": "2026-02-03T09:51:28.720056+00:00",
         "Uzbekistan": "2026-02-03T12:33:54.005611+00:00",
         "Ip": "2026-02-03T13:13:09.139109+00:00",
-        "China": "2026-02-03T15:55:39.237290+00:00"
+        "China": "2026-02-03T15:55:39.237290+00:00",
+        "Ibam": "2026-02-03T16:37:17.784644+00:00"
     }
 }
