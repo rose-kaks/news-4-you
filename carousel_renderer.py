@@ -143,25 +143,9 @@ def generate_carousel(article, topic):
     # ---------- SLIDE 2 ----------
     img = Image.new("RGB", (WIDTH, HEIGHT), (18, 18, 18))
     draw = ImageDraw.Draw(img)
-    # Configuration for Dynamic Sizing
-    current_font_size = 44  # Starting size
-    min_font_size = 28      # Smallest readable size
-    max_text_height = 650   # Maximum vertical space allowed for text
     line_spacing = 22
-    description_text = article.get("desc", "")
+    description_text = (article.get("desc", "")[:200] + "...") if article.get("desc") else ""
 
-    # Dynamic Sizing Loop
-    while current_font_size >= min_font_size:
-        test_font = get_font(current_font_size, bold=False)
-        total_h, lines = calculate_text_height(draw, description_text, test_font, max_width, line_spacing)
-        
-        # Check if text fits within our height limit
-        if total_h <= max_text_height:
-            body_font = test_font
-            break
-        
-        # If it doesn't fit, shrink the font and try again
-        current_font_size -= 2
     draw_branding(draw, WIDTH, HEIGHT)
     draw.text((margin_x, 80), topic.upper(), fill="#888888", font=meta_font)
     draw.text(

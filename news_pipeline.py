@@ -83,6 +83,7 @@ def fetch_master_news(query):
     try:
         url = f"https://newsapi.org/v2/top-headlines?q={query}&apiKey={newsapi_key}"
         for a in requests.get(url).json().get("articles", []):
+            
             if a["url"] not in seen:
                 articles.append({
                     "title": a["title"],
@@ -266,8 +267,6 @@ def add_trends_to_queue(db, trends):
         if not topic_allowed(db, topic_name):
             continue
 
-        art["desc"] = summarize_text(art.get("desc", ""))
-
         db['queue'].append({
             "story_id": t["story_id"],
             "topic": topic_name,
@@ -283,8 +282,6 @@ def add_trends_to_queue(db, trends):
 
         existing_urls.add(art['url'])
         print("🧾 Queue size before posting:", len(db["queue"]))
-
-
 
 from datetime import timedelta
 
@@ -348,7 +345,6 @@ def get_next_article(query="technology india"):
     raw = fetch_master_news(query)
     
     for a in raw:
-        a["desc"] = summarize_text(a.get("desc", ""))
         doc = nlp(a["title"] + " " + a["desc"])
         entities = []
         for e in doc.ents:
