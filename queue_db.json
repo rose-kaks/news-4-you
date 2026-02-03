@@ -43,20 +43,6 @@
             "added_time": "2026-02-02T23:34:33.103620+00:00"
         },
         {
-            "story_id": "6cc2ae852c29570040d081f607996784",
-            "topic": "China",
-            "subtopics": [
-                "Strategies for Enhancing the Competitiveness of L Seed Company from an Innovation Perspective"
-            ],
-            "title": "Strategies for Enhancing the Competitiveness of L Seed Company from an Innovation Perspective",
-            "desc": "Innovation has become a key driver for seed enterprises to build core competitiveness. Taking L Seed Company as a case study, this paper constructs a three-dimensional analytical framework\u2014\u201ctechnological innovation-variety innovation-model innovation\u201d\u2014based on innovation theory. It delves into core issues within the enterprise regarding innovation resource allocation, innovation outcome transformation, and innovation collaboration mechanisms. The study proposes targeted and feasible strategies for enhancing competitiveness, offering practical pathways for China\u2019s seed industry to achieve innovation-driven high-quality development.",
-            "url": "https://www.scirp.org/journal/paperinformation?paperid=149325",
-            "image": "https://file.scirp.org/image/jss2015012714222187.jpg",
-            "source": "SCIRP Open Access",
-            "score": 3,
-            "added_time": "2026-02-02T23:34:33.103649+00:00"
-        },
-        {
             "story_id": "05e46305f6747450926d03e997f8d531",
             "topic": "Ibam",
             "subtopics": [
@@ -440,6 +426,20 @@
             "source": "The Hindu",
             "score": 7,
             "added_time": "2026-02-03T14:50:52.455904+00:00"
+        },
+        {
+            "story_id": "6cc2ae852c29570040d081f607996784",
+            "topic": "China",
+            "subtopics": [
+                "Strategies for Enhancing the Competitiveness of L Seed Company from an Innovation Perspective"
+            ],
+            "title": "Strategies for Enhancing the Competitiveness of L Seed Company from an Innovation Perspective",
+            "desc": "Innovation has become a key driver for seed enterprises to build core competitiveness. Taking L Seed Company as a case study, this paper constructs a three-dimensional analytical framework\u2014\u201ctechnological innovation-variety innovation-model innovation\u201d\u2014based on innovation theory. It delves into core issues within the enterprise regarding innovation resource allocation, innovation outcome transformation, and innovation collaboration mechanisms. The study proposes targeted and feasible strategies for enhancing competitiveness, offering practical pathways for China\u2019s seed industry to achieve innovation-driven high-quality development.",
+            "url": "https://www.scirp.org/journal/paperinformation?paperid=149325",
+            "image": "https://file.scirp.org/image/jss2015012714222187.jpg",
+            "source": "SCIRP Open Access",
+            "score": 3,
+            "added_time": "2026-02-02T23:34:33.103649+00:00"
         }
     ],
     "recent_topics": {
@@ -457,6 +457,7 @@
         "Singapore": "2026-02-03T07:50:20.014458+00:00",
         "Nirmala Sitharaman'S": "2026-02-03T09:51:28.720056+00:00",
         "Uzbekistan": "2026-02-03T12:33:54.005611+00:00",
-        "Ip": "2026-02-03T13:13:09.139109+00:00"
+        "Ip": "2026-02-03T13:13:09.139109+00:00",
+        "China": "2026-02-03T15:55:39.237290+00:00"
     }
 }
