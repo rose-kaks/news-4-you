@@ -43,20 +43,6 @@
             "added_time": "2026-02-02T23:34:33.103620+00:00"
         },
         {
-            "story_id": "fe43ccbeb4f5838f3fbbfd383928825a",
-            "topic": "Soul",
-            "subtopics": [
-                "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food"
-            ],
-            "title": "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food",
-            "desc": "/PRNewswire/ -- The 12th IIHM International Young Chef Olympiad (YCO) 2026 opened in Bengaluru with the kind of scale, theatre, and emotion that instantly...",
-            "url": "https://www.prnewswire.com/in/news-releases/iihms-young-chef-olympiad-2026-opens-in-bengaluru-with-spectacle-soul-and-a-shared-heart-for-food-302676395.html",
-            "image": "https://mma.prnewswire.com/media/2874623/IIHM_YCO_2026.jpg?p=facebook",
-            "source": "PR Newswire",
-            "score": 3,
-            "added_time": "2026-02-03T04:36:19.329443+00:00"
-        },
-        {
             "story_id": "fdbbdc9c7d8cb5655da89d2e9ba0d8f7",
             "topic": "General",
             "subtopics": [
@@ -797,6 +783,20 @@
             "source": "Moneycontrol",
             "score": 3,
             "added_time": "2026-02-03T02:37:49.791358+00:00"
+        },
+        {
+            "story_id": "fe43ccbeb4f5838f3fbbfd383928825a",
+            "topic": "Soul",
+            "subtopics": [
+                "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food"
+            ],
+            "title": "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food",
+            "desc": "/PRNewswire/ -- The 12th IIHM International Young Chef Olympiad (YCO) 2026 opened in Bengaluru with the kind of scale, theatre, and emotion that instantly...",
+            "url": "https://www.prnewswire.com/in/news-releases/iihms-young-chef-olympiad-2026-opens-in-bengaluru-with-spectacle-soul-and-a-shared-heart-for-food-302676395.html",
+            "image": "https://mma.prnewswire.com/media/2874623/IIHM_YCO_2026.jpg?p=facebook",
+            "source": "PR Newswire",
+            "score": 3,
+            "added_time": "2026-02-03T04:36:19.329443+00:00"
         }
     ],
     "recent_topics": {
@@ -817,6 +817,7 @@
         "Salman Khan": "2026-02-04T16:32:29.489003+00:00",
         "United States": "2026-02-04T17:39:06.936003+00:00",
         "World": "2026-02-04T17:50:22.948335+00:00",
-        "Dixon": "2026-02-04T17:56:05.032385+00:00"
+        "Dixon": "2026-02-04T17:56:05.032385+00:00",
+        "Soul": "2026-02-04T18:04:35.450926+00:00"
     }
 }
