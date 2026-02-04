@@ -71,21 +71,6 @@
             "added_time": "2026-02-03T12:33:54.005577+00:00"
         },
         {
-            "story_id": "0847102c15d1c9aa3d87ae045b1e8f6a",
-            "topic": "Rsv",
-            "subtopics": [
-                "SK bioscience Licenses RSV Monoclonal Antibody from Gates MRI for Global Development",
-                "SK bioscience In-Licenses RSV Preventive mAb Candidate from Gates Medical Research Institute"
-            ],
-            "title": "SK bioscience Licenses RSV Monoclonal Antibody from Gates MRI for Global Development",
-            "desc": "SK bioscience announced on February 3 that it will advance a novel respiratory syncytial virus (RSV) monoclonal antibody program under a license agreement with the Gates Medical Research Institute (Gates MRI).Under the agreement, SK bioscience has obtained rights to develop and commercialize a clini",
-            "url": "https://www.koreaittimes.com/news/articleView.html?idxno=150523",
-            "image": "https://www.koreaittimes.com/news/thumbnail/202602/150523_99938_3412_v150.jpg",
-            "source": "Korea IT Times",
-            "score": 3,
-            "added_time": "2026-02-03T20:23:32.987322+00:00"
-        },
-        {
             "story_id": "90a44faa5c5ef1127483b05e078f458a",
             "topic": "Iihm",
             "subtopics": [
@@ -797,6 +782,21 @@
             "source": "CNN",
             "score": 3,
             "added_time": "2026-02-03T05:55:21.625642+00:00"
+        },
+        {
+            "story_id": "0847102c15d1c9aa3d87ae045b1e8f6a",
+            "topic": "Rsv",
+            "subtopics": [
+                "SK bioscience Licenses RSV Monoclonal Antibody from Gates MRI for Global Development",
+                "SK bioscience In-Licenses RSV Preventive mAb Candidate from Gates Medical Research Institute"
+            ],
+            "title": "SK bioscience Licenses RSV Monoclonal Antibody from Gates MRI for Global Development",
+            "desc": "SK bioscience announced on February 3 that it will advance a novel respiratory syncytial virus (RSV) monoclonal antibody program under a license agreement with the Gates Medical Research Institute (Gates MRI).Under the agreement, SK bioscience has obtained rights to develop and commercialize a clini",
+            "url": "https://www.koreaittimes.com/news/articleView.html?idxno=150523",
+            "image": "https://www.koreaittimes.com/news/thumbnail/202602/150523_99938_3412_v150.jpg",
+            "source": "Korea IT Times",
+            "score": 3,
+            "added_time": "2026-02-03T20:23:32.987322+00:00"
         }
     ],
     "recent_topics": {
@@ -820,6 +820,7 @@
         "Dixon": "2026-02-04T17:56:05.032385+00:00",
         "Soul": "2026-02-04T18:04:35.450926+00:00",
         "General": "2026-02-04T18:40:50.330641+00:00",
-        "Narendra Modi": "2026-02-04T18:48:51.453795+00:00"
+        "Narendra Modi": "2026-02-04T18:48:51.453795+00:00",
+        "Rsv": "2026-02-04T18:54:25.755780+00:00"
     }
 }
