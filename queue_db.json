@@ -171,20 +171,6 @@
             "added_time": "2026-02-03T20:23:32.987373+00:00"
         },
         {
-            "story_id": "6b355a7a35891b869d43fd1640a4aba1",
-            "topic": "Nii",
-            "subtopics": [
-                "Bajaj Finance Q3 Results: Profit falls 6% YoY to Rs 4,066 crore on labour code impact, NII jumps 21%"
-            ],
-            "title": "Bajaj Finance Q3 Results: Profit falls 6% YoY to Rs 4,066 crore on labour code impact, NII jumps 21%",
-            "desc": "Bajaj Finance Q3 Results: Bajaj Finance on Tuesday reported a 6% year-on-year (YoY) decline in its consolidated net profit for the third quarter at Rs 4,066 crore. The drop in bottomline was mainly due to an accelerated ECL provision and one-time charge of new labour codes.",
-            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q3-results-profit-falls-6-yoy-to-rs-4066-crore-on-labour-code-impact-nii-jumps-21/articleshow/127885041.cms?from=mdr",
-            "image": "https://img.etimg.com/thumb/msid-127884987,width-1200,height-630,imgsize-55415,overlay-etmarkets/articleshow.jpg",
-            "source": "The Economic Times",
-            "score": 4,
-            "added_time": "2026-02-04T01:00:22.127211+00:00"
-        },
-        {
             "story_id": "073f7b982d2026367f751fe29a1d61ce",
             "topic": "Psl",
             "subtopics": [
@@ -596,6 +582,20 @@
             "source": "ELE Times",
             "score": 4,
             "added_time": "2026-02-03T20:23:32.987363+00:00"
+        },
+        {
+            "story_id": "6b355a7a35891b869d43fd1640a4aba1",
+            "topic": "Nii",
+            "subtopics": [
+                "Bajaj Finance Q3 Results: Profit falls 6% YoY to Rs 4,066 crore on labour code impact, NII jumps 21%"
+            ],
+            "title": "Bajaj Finance Q3 Results: Profit falls 6% YoY to Rs 4,066 crore on labour code impact, NII jumps 21%",
+            "desc": "Bajaj Finance Q3 Results: Bajaj Finance on Tuesday reported a 6% year-on-year (YoY) decline in its consolidated net profit for the third quarter at Rs 4,066 crore. The drop in bottomline was mainly due to an accelerated ECL provision and one-time charge of new labour codes.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q3-results-profit-falls-6-yoy-to-rs-4066-crore-on-labour-code-impact-nii-jumps-21/articleshow/127885041.cms?from=mdr",
+            "image": "https://img.etimg.com/thumb/msid-127884987,width-1200,height-630,imgsize-55415,overlay-etmarkets/articleshow.jpg",
+            "source": "The Economic Times",
+            "score": 4,
+            "added_time": "2026-02-04T01:00:22.127211+00:00"
         }
     ],
     "recent_topics": {
@@ -614,6 +614,7 @@
         "Ibam": "2026-02-03T16:37:17.784644+00:00",
         "Esg": "2026-02-03T17:09:35.944799+00:00",
         "Meta": "2026-02-03T20:23:32.987400+00:00",
-        "The Interface: Integrating Electronics": "2026-02-04T05:04:25.944929+00:00"
+        "The Interface: Integrating Electronics": "2026-02-04T05:04:25.944929+00:00",
+        "Nii": "2026-02-04T05:23:14.273833+00:00"
     }
 }
