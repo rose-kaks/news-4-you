@@ -203,6 +203,15 @@ def generate_carousel(article, topic):
         fill=(0, 0, 0)
     )
 
+    # HARD BLACK BAR BEHIND TOPIC (NO TRANSPARENCY)
+    TOPIC_BAR_HEIGHT = 70
+    
+    draw.rectangle(
+        (0, IMAGE_HEIGHT, WIDTH, IMAGE_HEIGHT + TOPIC_BAR_HEIGHT),
+        fill=(0, 0, 0)
+    )
+
+
     # ---------- SOLID IMAGE–TEXT DIVIDER ----------
     DIVIDER_HEIGHT = 8  # looks clean on Instagram
     
@@ -264,25 +273,28 @@ def generate_carousel(article, topic):
 
 
     # Draw background card
-    draw_text_background(
-        img,
-        TEXT_BLOCK_X,
-        TEXT_BLOCK_Y,
-        TEXT_BLOCK_WIDTH,
-        CARD_HEIGHT
-    )
+    # draw_text_background(
+    #     img,
+    #     TEXT_BLOCK_X,
+    #     TEXT_BLOCK_Y,
+    #     TEXT_BLOCK_WIDTH,
+    #     CARD_HEIGHT
+    # )
 
     # Draw text on top of card
-    y = TEXT_BLOCK_Y + CARD_PADDING
-
-    # Topic
+    # ---------------- TOPIC IN SOLID BLACK BAR ----------------
+    topic_y = IMAGE_HEIGHT + (TOPIC_BAR_HEIGHT - meta_font.size) // 2
+    
     draw.text(
-        (margin_x, y),
+        (margin_x, topic_y),
         topic.upper(),
         fill="#FFD700",
         font=meta_font
     )
-    y += 45
+
+    # Start title BELOW the black bar
+    y = IMAGE_HEIGHT + TOPIC_BAR_HEIGHT + 30
+
 
     # Title
     for line in title_lines:
