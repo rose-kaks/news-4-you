@@ -127,20 +127,6 @@
             "added_time": "2026-02-03T12:33:54.005577+00:00"
         },
         {
-            "story_id": "4ebc39773a2c6cc1ef2f4ab2dd3a779f",
-            "topic": "India",
-            "subtopics": [
-                "2027: Semiconductors, Manufacturing, and Tax Reforms"
-            ],
-            "title": "2027: Semiconductors, Manufacturing, and Tax Reforms",
-            "desc": "The India budget highlights ISM 2.0, deeper electronics localization, tax and customs reforms, and infrastructure spending to support long-term manufacturing growth.",
-            "url": "https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/",
-            "image": "https://www.eetimes.com/wp-content/uploads/AdobeStock_1394952095.jpeg?fit=2816%2C1536",
-            "source": "EE Times",
-            "score": 4,
-            "added_time": "2026-02-03T14:50:52.455929+00:00"
-        },
-        {
             "story_id": "0847102c15d1c9aa3d87ae045b1e8f6a",
             "topic": "Rsv",
             "subtopics": [
@@ -197,6 +183,76 @@
             "source": "EurAsian Times",
             "score": 3,
             "added_time": "2026-02-03T20:23:32.987373+00:00"
+        },
+        {
+            "story_id": "6b355a7a35891b869d43fd1640a4aba1",
+            "topic": "Nii",
+            "subtopics": [
+                "Bajaj Finance Q3 Results: Profit falls 6% YoY to Rs 4,066 crore on labour code impact, NII jumps 21%"
+            ],
+            "title": "Bajaj Finance Q3 Results: Profit falls 6% YoY to Rs 4,066 crore on labour code impact, NII jumps 21%",
+            "desc": "Bajaj Finance Q3 Results: Bajaj Finance on Tuesday reported a 6% year-on-year (YoY) decline in its consolidated net profit for the third quarter at Rs 4,066 crore. The drop in bottomline was mainly due to an accelerated ECL provision and one-time charge of new labour codes.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q3-results-profit-falls-6-yoy-to-rs-4066-crore-on-labour-code-impact-nii-jumps-21/articleshow/127885041.cms?from=mdr",
+            "image": "https://img.etimg.com/thumb/msid-127884987,width-1200,height-630,imgsize-55415,overlay-etmarkets/articleshow.jpg",
+            "source": "The Economic Times",
+            "score": 4,
+            "added_time": "2026-02-04T01:00:22.127211+00:00"
+        },
+        {
+            "story_id": "073f7b982d2026367f751fe29a1d61ce",
+            "topic": "Psl",
+            "subtopics": [
+                "PCB withholds PSL broadcast rights in India ahead of 11th edition"
+            ],
+            "title": "PCB withholds PSL broadcast rights in India ahead of 11th edition",
+            "desc": "PSL 11 is set to run from March 26 to May 3",
+            "url": "https://www.geosuper.tv/latest/53004-pcb-to-withhold-psl-broadcast-rights-in-india-ahead-of-11th-edition",
+            "image": "https://www.geosuper.tv/assets/uploads/updates/2026-02-03/l_53004_042323_updates.jpg",
+            "source": "Geo Super",
+            "score": 2,
+            "added_time": "2026-02-04T01:00:22.127236+00:00"
+        },
+        {
+            "story_id": "8643ab3db420685bcadaf7e0b9d6bc99",
+            "topic": "United States",
+            "subtopics": [
+                "Russia is ready for new world with no nuclear limits, senior diplomat says"
+            ],
+            "title": "Russia is ready for new world with no nuclear limits, senior diplomat says",
+            "desc": "MOSCOW: Russia is \u200bready for the new reality of a world with no US-Russian nuclear arms control limits after the New START treaty expires this week, Moscow\u2019s point man for arms control said on Tuesday. Unless the two sides reach a last-minute understanding, they will be left without any constraints on their long-range strategic nuclear arsenals for the first time in more than",
+            "url": "https://www.arabnews.pk/node/2631590/world",
+            "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/02/03/4681375-1824061538.jpg?itok=QcKDraxt",
+            "source": "Arab News PK",
+            "score": 3,
+            "added_time": "2026-02-04T01:00:22.127245+00:00"
+        },
+        {
+            "story_id": "54da9b804331a8b817b7d976214e1959",
+            "topic": "New Delhi'S",
+            "subtopics": [
+                "India US Trade Deal LIVE Updates: Kremlin reacts to Donald Trump's claim on New Delhi's Russian oil purchase"
+            ],
+            "title": "India US Trade Deal LIVE Updates: Kremlin reacts to Donald Trump's claim on New Delhi's Russian oil purchase",
+            "desc": "India US Trade Deal LIVE Updates: Day after India and the US reached a trade agreement and Trump claimed that India has agreed to stop purchasing Russian oil, Moody's said, \u201cIndia is unlikely to cease all purchases immediately which could be disruptive to India\u2019s economic growth\u201d.| India News",
+            "url": "https://www.hindustantimes.com/india-news/india-us-trade-deal-live-updates-pm-modi-donald-trump-tariffs-sergio-gor-stock-market-february-3-latest-news-101770083023496.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/03/550x309/Trump_Modi_1739543006952_1770100210547.jpg",
+            "source": "Hindustan Times",
+            "score": 4,
+            "added_time": "2026-02-04T01:00:22.127253+00:00"
+        },
+        {
+            "story_id": "71a0d4f26dcfb91886eedd8d930863d5",
+            "topic": "Tinubu",
+            "subtopics": [
+                "Tinubu's Foreign Trips Yield Investments for Nigeria"
+            ],
+            "title": "Tinubu's Foreign Trips Yield Investments for Nigeria",
+            "desc": "The APC chairman defends President Tinubu's foreign trips, stating they have secured over $50 billion in FDI commitments for Nigeria's economy.",
+            "url": "https://punchng.com/tinubus-foreign-trips-yielding-investments-for-nigeria-apc-chair/",
+            "image": "https://cdn.punchng.com/wp-content/uploads/2025/07/24150630/482223648_627125213270681_6620795270715423960_n-810x630.jpg",
+            "source": "Punch Newspapers",
+            "score": 3,
+            "added_time": "2026-02-04T01:00:22.127263+00:00"
         }
     ],
     "posted": [
@@ -512,14 +568,27 @@
             "source": "Hindustan Times",
             "score": 4,
             "added_time": "2026-02-03T20:23:32.987356+00:00"
+        },
+        {
+            "story_id": "4ebc39773a2c6cc1ef2f4ab2dd3a779f",
+            "topic": "India",
+            "subtopics": [
+                "2027: Semiconductors, Manufacturing, and Tax Reforms"
+            ],
+            "title": "2027: Semiconductors, Manufacturing, and Tax Reforms",
+            "desc": "The India budget highlights ISM 2.0, deeper electronics localization, tax and customs reforms, and infrastructure spending to support long-term manufacturing growth.",
+            "url": "https://www.eetimes.com/india-budget-2026-2027-semiconductors-manufacturing-and-tax-reforms/",
+            "image": "https://www.eetimes.com/wp-content/uploads/AdobeStock_1394952095.jpeg?fit=2816%2C1536",
+            "source": "EE Times",
+            "score": 4,
+            "added_time": "2026-02-03T14:50:52.455929+00:00"
         }
     ],
     "recent_topics": {
-        "Budget India Business News: Prices": "2026-02-02T12:20:27.326405+00:00",
         "India Business News:": "2026-02-02T13:11:56.935074+00:00",
         "NASA": "2026-02-02T14:47:50.699033+00:00",
         "India News": "2026-02-02T15:41:40.873503+00:00",
-        "India": "2026-02-03T14:50:52.455947+00:00",
+        "India": "2026-02-04T01:00:22.127308+00:00",
         "The Union Budget 2026": "2026-02-02T17:42:46.523435+00:00",
         "Nirmala Sitharaman": "2026-02-02T23:34:33.103675+00:00",
         "Technology & Science, Times": "2026-02-03T04:36:19.329485+00:00",
