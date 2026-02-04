@@ -71,21 +71,6 @@
             "added_time": "2026-02-03T12:33:54.005577+00:00"
         },
         {
-            "story_id": "90a44faa5c5ef1127483b05e078f458a",
-            "topic": "Iihm",
-            "subtopics": [
-                "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food",
-                "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food"
-            ],
-            "title": "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food",
-            "desc": "An arena of nations, a shared oath, and a single language\u2014food\u2014as YCO 2026 begins its global journey in India. BENGALURU, India, Feb. 2, 2026 /PRNewswire/ -- The 12th IIHM International Young Chef Olympiad (YCO) 2026 opened in Bengaluru with the...",
-            "url": "https://www.tribuneindia.com/news/business/iihms-young-chef-olympiad-2026-opens-in-bengaluru-with-spectacle-soul-and-a-shared-heart-for-food-2-2/",
-            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc4OWIxODIwLTAwY2EtMTFmMS05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
-            "source": "Tribune India",
-            "score": 3,
-            "added_time": "2026-02-03T20:23:32.987347+00:00"
-        },
-        {
             "story_id": "487151a6afe08fa84d38151222adc6b4",
             "topic": "Future Secured",
             "subtopics": [
@@ -797,11 +782,25 @@
             "source": "Korea IT Times",
             "score": 3,
             "added_time": "2026-02-03T20:23:32.987322+00:00"
+        },
+        {
+            "story_id": "90a44faa5c5ef1127483b05e078f458a",
+            "topic": "Iihm",
+            "subtopics": [
+                "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food",
+                "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food"
+            ],
+            "title": "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food",
+            "desc": "An arena of nations, a shared oath, and a single language\u2014food\u2014as YCO 2026 begins its global journey in India. BENGALURU, India, Feb. 2, 2026 /PRNewswire/ -- The 12th IIHM International Young Chef Olympiad (YCO) 2026 opened in Bengaluru with the...",
+            "url": "https://www.tribuneindia.com/news/business/iihms-young-chef-olympiad-2026-opens-in-bengaluru-with-spectacle-soul-and-a-shared-heart-for-food-2-2/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTc4OWIxODIwLTAwY2EtMTFmMS05ZTU3LWE1YjYwZTQ0ZTg4ZS5qcGc=",
+            "source": "Tribune India",
+            "score": 3,
+            "added_time": "2026-02-03T20:23:32.987347+00:00"
         }
     ],
     "recent_topics": {
         "India": "2026-02-04T01:00:22.127308+00:00",
-        "Apple": "2026-02-03T06:59:38.124757+00:00",
         "Singapore": "2026-02-03T07:50:20.014458+00:00",
         "Nirmala Sitharaman'S": "2026-02-03T09:51:28.720056+00:00",
         "Uzbekistan": "2026-02-03T12:33:54.005611+00:00",
@@ -821,6 +820,7 @@
         "Soul": "2026-02-04T18:04:35.450926+00:00",
         "General": "2026-02-04T18:40:50.330641+00:00",
         "Narendra Modi": "2026-02-04T18:48:51.453795+00:00",
-        "Rsv": "2026-02-04T18:54:25.755780+00:00"
+        "Rsv": "2026-02-04T18:54:25.755780+00:00",
+        "Iihm": "2026-02-04T19:01:39.744417+00:00"
     }
 }
