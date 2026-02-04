@@ -329,20 +329,6 @@
             "added_time": "2026-02-04T16:32:29.488922+00:00"
         },
         {
-            "story_id": "93e3bdccfb81604b9c50045aa38e99c2",
-            "topic": "World",
-            "subtopics": [
-                "The Black Wind: How India is becoming the World's Waste Tyre Furnace"
-            ],
-            "title": "The Black Wind: How India is becoming the World's Waste Tyre Furnace",
-            "desc": "India has witnessed a fivefold surge in waste tyre imports from developed countries over the past few years. Despite strict regulations for controlled imports and scientific disposal, enforcement gaps remain stark. Large quantities of imported tyres are processed in plants with inadequate safeguards resulting in adverse impact on the environment and communities.",
-            "url": "https://www.reporters-collective.in/trc/india-is-becoming-worlds-waste-tyre-furnace",
-            "image": "https://cdn.prod.website-files.com/600865f0dc1db856edc28cd0/6982b2ab9c9ad22fc9a47525_Tyre%20import%20HERO%202_1_11zon.webp",
-            "source": "The Reporters' Collective",
-            "score": 4,
-            "added_time": "2026-02-04T16:32:29.488959+00:00"
-        },
-        {
             "story_id": "6ac78549c9c96cff5bf4eee5d0459965",
             "topic": "Nikkei Inc.",
             "subtopics": [
@@ -797,6 +783,20 @@
             "source": "The Hindu",
             "score": 6,
             "added_time": "2026-02-04T17:39:06.935954+00:00"
+        },
+        {
+            "story_id": "93e3bdccfb81604b9c50045aa38e99c2",
+            "topic": "World",
+            "subtopics": [
+                "The Black Wind: How India is becoming the World's Waste Tyre Furnace"
+            ],
+            "title": "The Black Wind: How India is becoming the World's Waste Tyre Furnace",
+            "desc": "India has witnessed a fivefold surge in waste tyre imports from developed countries over the past few years. Despite strict regulations for controlled imports and scientific disposal, enforcement gaps remain stark. Large quantities of imported tyres are processed in plants with inadequate safeguards resulting in adverse impact on the environment and communities.",
+            "url": "https://www.reporters-collective.in/trc/india-is-becoming-worlds-waste-tyre-furnace",
+            "image": "https://cdn.prod.website-files.com/600865f0dc1db856edc28cd0/6982b2ab9c9ad22fc9a47525_Tyre%20import%20HERO%202_1_11zon.webp",
+            "source": "The Reporters' Collective",
+            "score": 4,
+            "added_time": "2026-02-04T16:32:29.488959+00:00"
         }
     ],
     "recent_topics": {
@@ -816,6 +816,7 @@
         "New Delhi'S": "2026-02-04T08:27:31.679946+00:00",
         "Amr": "2026-02-04T12:32:14.239675+00:00",
         "Salman Khan": "2026-02-04T16:32:29.489003+00:00",
-        "United States": "2026-02-04T17:39:06.936003+00:00"
+        "United States": "2026-02-04T17:39:06.936003+00:00",
+        "World": "2026-02-04T17:50:22.948335+00:00"
     }
 }
