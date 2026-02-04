@@ -313,6 +313,62 @@
             "source": "Geo News",
             "score": 3,
             "added_time": "2026-02-04T12:32:14.239654+00:00"
+        },
+        {
+            "story_id": "e50ee5447437455a3d5a34fa509c9e2e",
+            "topic": "Nifty50",
+            "subtopics": [
+                "SENSEX, NIFTY50 trade on a subdued note; IT shares plunge on Anthropic's new AI tool"
+            ],
+            "title": "SENSEX, NIFTY50 trade on a subdued note; IT shares plunge on Anthropic's new AI tool",
+            "desc": "IT shares came under heavy selling pressure as investors reacted sharply to new developments around Anthropic\u2019s new AI products.",
+            "url": "https://upstox.com/news/market-news/stocks/sensex-nifty-50-trade-on-a-subdued-note-it-shares-plunge-on-anthropic-s-new-ai-tool/article-188897/",
+            "image": "https://assets.upstox.com/content/assets/images/news/stockmarkettrade1111.webp",
+            "source": "Upstox",
+            "score": 3,
+            "added_time": "2026-02-04T16:32:29.488922+00:00"
+        },
+        {
+            "story_id": "93e3bdccfb81604b9c50045aa38e99c2",
+            "topic": "World",
+            "subtopics": [
+                "The Black Wind: How India is becoming the World's Waste Tyre Furnace"
+            ],
+            "title": "The Black Wind: How India is becoming the World's Waste Tyre Furnace",
+            "desc": "India has witnessed a fivefold surge in waste tyre imports from developed countries over the past few years. Despite strict regulations for controlled imports and scientific disposal, enforcement gaps remain stark. Large quantities of imported tyres are processed in plants with inadequate safeguards resulting in adverse impact on the environment and communities.",
+            "url": "https://www.reporters-collective.in/trc/india-is-becoming-worlds-waste-tyre-furnace",
+            "image": "https://cdn.prod.website-files.com/600865f0dc1db856edc28cd0/6982b2ab9c9ad22fc9a47525_Tyre%20import%20HERO%202_1_11zon.webp",
+            "source": "The Reporters' Collective",
+            "score": 4,
+            "added_time": "2026-02-04T16:32:29.488959+00:00"
+        },
+        {
+            "story_id": "6ac78549c9c96cff5bf4eee5d0459965",
+            "topic": "Nikkei Inc.",
+            "subtopics": [
+                "Entries open for 5th Nikkei Asia Award"
+            ],
+            "title": "Entries open for 5th Nikkei Asia Award",
+            "desc": "Deadline: 14-Jun-2026 The 5th Nikkei Asia Award recognizes outstanding innovation originating in Asia that drives social and economic transformation across the region. Sponsored by Nikkei Inc., the award honors individuals or groups whose work contributes to a free, prosperous, and future-oriented Asian society, with a prize of 5,000,000 yen. Overview The Nikkei Asia Award is",
+            "url": "https://www2.fundsforngos.org/community-development/entries-open-for-5th-nikkei-asia-award/",
+            "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
+            "source": "fundsforNGOs",
+            "score": 3,
+            "added_time": "2026-02-04T16:32:29.488967+00:00"
+        },
+        {
+            "story_id": "b5c189458157affa32a666dc339d2a8b",
+            "topic": "Viksit Bharat",
+            "subtopics": [
+                "Budget 2026 to benefit common man, US deal a \u2018big relief\u2019 to Indian exporters, says Sitharaman | Exclusive"
+            ],
+            "title": "Budget 2026 to benefit common man, US deal a \u2018big relief\u2019 to Indian exporters, says Sitharaman | Exclusive",
+            "desc": "The Union Budget aims for Viksit Bharat by 2047, emphasizing stability in policies and ongoing reforms, particularly for MSMEs, benefiting the common man.| India News",
+            "url": "https://www.hindustantimes.com/india-news/india-us-trade-deal-tariffs-reduction-nirmala-sitharaman-interview-donald-trump-china-pm-modi-union-budget-101770161394988.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/03/550x309/FM_Sitharaman_says_Budget_lays_roadmap_for_Viksit_1770161650813_1770161650996.jpg",
+            "source": "Hindustan Times",
+            "score": 3,
+            "added_time": "2026-02-04T16:32:29.488978+00:00"
         }
     ],
     "posted": [
@@ -698,6 +754,20 @@
             "source": "The Hindu",
             "score": 6,
             "added_time": "2026-02-04T12:32:14.239639+00:00"
+        },
+        {
+            "story_id": "11e67ac487c30ec4e43f535bd65134d6",
+            "topic": "Salman Khan",
+            "subtopics": [
+                "'Dhurandhar 2' Fact Check: Is Salman Khan playing Bade Sahab in the Ranveer Singh starrer? Viral pictures spark speculation"
+            ],
+            "title": "'Dhurandhar 2' Fact Check: Is Salman Khan playing Bade Sahab in the Ranveer Singh starrer? Viral pictures spark speculation",
+            "desc": "The buzz around Aditya Dhar's 'Dhurandhar 2' is massive. While it is set to arrive in March this year, the makers are currently shooting a few additio.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-fact-check-is-salman-khan-playing-bade-sahab-in-the-ranveer-singh-starrer-viral-pictures-spark-speculation/articleshow/127899219.cms",
+            "image": "https://static.toiimg.com/thumb/msid-127899219,width-1280,height-720,imgsize-33002,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 4,
+            "added_time": "2026-02-04T16:32:29.488950+00:00"
         }
     ],
     "recent_topics": {
@@ -717,6 +787,7 @@
         "The Interface: Integrating Electronics": "2026-02-04T05:04:25.944929+00:00",
         "Nii": "2026-02-04T05:23:14.273833+00:00",
         "New Delhi'S": "2026-02-04T08:27:31.679946+00:00",
-        "Amr": "2026-02-04T12:32:14.239675+00:00"
+        "Amr": "2026-02-04T12:32:14.239675+00:00",
+        "Salman Khan": "2026-02-04T16:32:29.489003+00:00"
     }
 }
