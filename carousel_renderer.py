@@ -31,12 +31,15 @@ def apply_smart_gradient(img):
     overlay = Image.new("RGBA", img.size, (0, 0, 0, 0))
     draw = ImageDraw.Draw(overlay)
 
-    start_y = int(height * 0.45)
+    # Start gradient at 75% height
+    start_y = int(height * 0.75)
+
     for y in range(start_y, height):
-        alpha = int(235 * ((y - start_y) / (height - start_y)) ** 1.2)
+        alpha = int(240 * ((y - start_y) / (height - start_y)) ** 1.3)
         draw.line([(0, y), (width, y)], fill=(0, 0, 0, alpha))
 
     return Image.alpha_composite(img.convert("RGBA"), overlay).convert("RGB")
+
 
 
 def draw_branding(draw, width, height):
@@ -44,7 +47,14 @@ def draw_branding(draw, width, height):
     font = get_font(26, bold=True)
     bbox = draw.textbbox((0, 0), text, font=font)
     tw = bbox[2] - bbox[0]
-    draw.text(((width - tw) / 2, height - 60), text, fill=(180, 180, 180), font=font)
+
+    # TOP CENTER instead of bottom
+    draw.text(
+        ((width - tw) / 2, 30),
+        text,
+        fill=(180, 180, 180),
+        font=font
+    )
 
 
 def calculate_text_height(draw, text, font, max_width, line_spacing):
@@ -99,6 +109,37 @@ def draw_wrapped_text(
 
     return cy
 
+def fit_text_in_box(
+    draw,
+    text,
+    font_size_start,
+    font_size_min,
+    bold,
+    max_width,
+    max_height,
+    line_spacing
+):
+    font_size = font_size_start
+
+    while font_size >= font_size_min:
+        font = get_font(font_size, bold=bold)
+        total_h, lines = calculate_text_height(
+            draw, text, font, max_width, line_spacing
+        )
+
+        if total_h <= max_height:
+            return font, lines, total_h
+
+        font_size -= 2  # smooth scaling
+
+    # fallback (smallest readable)
+    font = get_font(font_size_min, bold=bold)
+    total_h, lines = calculate_text_height(
+        draw, text, font, max_width, line_spacing
+    )
+    return font, lines, total_h
+
+
 
 def generate_carousel(article, topic):
     WIDTH, HEIGHT = 1080, 1080
@@ -113,41 +154,60 @@ def generate_carousel(article, topic):
     slide_paths = []
 
     # ---------- SLIDE 1 ----------
+
+       
     bg = load_background(article.get("image"))
     img = apply_smart_gradient(bg)
     draw = ImageDraw.Draw(img)
 
     draw_branding(draw, WIDTH, HEIGHT)
 
-    y = 420
-    draw.text((margin_x, y), topic.upper(), fill="#FFD700", font=meta_font)
-    y += 55
+    # Layout constants
+    TEXT_START_Y = int(HEIGHT * 0.75) + 40
+    TEXT_MARGIN_X = margin_x
+    TEXT_MAX_WIDTH = max_width
 
-    title_text = article.get("title", "")
-    title_h, title_lines = calculate_text_height(draw, title_text, title_font, max_width, 15)
-
-
-    y = draw_wrapped_text(
-        draw,
-        title_text,
-        title_font,
-        margin_x,
-        y,
-        max_width,
-        "white",
-        15
+    # Topic
+    draw.text(
+        (TEXT_MARGIN_X, TEXT_START_Y),
+        topic.upper(),
+        fill="#FFD700",
+        font=meta_font
     )
 
-    if y < 820:
-        y += 25
-        subtitle = (article.get("desc", "")[:110] + "...") if article.get("desc") else ""
+    y = TEXT_START_Y + 55
+
+    # ---------- TITLE (Dynamic Scaling) ----------
+    TITLE_BOX_HEIGHT = int(HEIGHT * 0.25) - 140
+
+    title_font, title_lines, title_height = fit_text_in_box(
+        draw=draw,
+        text=article.get("title", ""),
+        font_size_start=68,
+        font_size_min=42,
+        bold=True,
+        max_width=TEXT_MAX_WIDTH,
+        max_height=TITLE_BOX_HEIGHT,
+        line_spacing=14
+    )
+
+    cy = y
+    for line in title_lines:
+        draw.text((TEXT_MARGIN_X, cy), line, fill="white", font=title_font)
+        cy += title_font.getbbox(line)[3] + 14
+
+    y = cy
+
+    # ---------- Subtitle ----------
+    if y < HEIGHT - 120:
+        subtitle = (article.get("desc", "")[:90] + "...") if article.get("desc") else ""
         draw_wrapped_text(
             draw,
             subtitle,
             subtitle_font,
-            margin_x,
-            y,
-            max_width,
+            TEXT_MARGIN_X,
+            y + 18,
+            TEXT_MAX_WIDTH,
             "#E0E0E0",
             10
         )
@@ -155,6 +215,7 @@ def generate_carousel(article, topic):
     p1 = f"slide_1_{int(time.time())}.png"
     img.save(p1, quality=95)
     slide_paths.append(p1)
+
 
     # ---------- SLIDE 2 ----------
     img = Image.new("RGB", (WIDTH, HEIGHT), (18, 18, 18))
