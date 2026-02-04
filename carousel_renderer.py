@@ -203,10 +203,14 @@ def generate_carousel(article, topic):
         fill=(0, 0, 0)
     )
 
+    # ---------- SOLID IMAGE–TEXT DIVIDER ----------
+    DIVIDER_HEIGHT = 8  # looks clean on Instagram
+    
     draw.rectangle(
-    (0, IMAGE_HEIGHT - 4, WIDTH, IMAGE_HEIGHT),
-    fill=(25, 25, 25)
+        (0, IMAGE_HEIGHT - DIVIDER_HEIGHT, WIDTH, IMAGE_HEIGHT),
+        fill=(15, 15, 15)  # solid, clean break
     )
+
 
 
     draw_branding(draw, WIDTH, HEIGHT)
