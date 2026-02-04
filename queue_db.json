@@ -71,20 +71,6 @@
             "added_time": "2026-02-03T12:33:54.005577+00:00"
         },
         {
-            "story_id": "487151a6afe08fa84d38151222adc6b4",
-            "topic": "Future Secured",
-            "subtopics": [
-                "India\u2019s S-400, Su-57 Future Secured! Russia Kills China Threat Theory with 'Critical' Domestic Chip Production"
-            ],
-            "title": "India\u2019s S-400, Su-57 Future Secured! Russia Kills China Threat Theory with 'Critical' Domestic Chip Production",
-            "desc": "Microwave microchips for the Su-57 fighter and the S-500 Prometheus air-defence system are expected to be manufactured in Russia by the end of 2027. The governor of Sverdlovsk Oblast, Denis Pasler, recently announced that an enterprise has begun designing and constructing the country\u2019s first factory capable of serial production of microwave microchips across the full [\u2026]",
-            "url": "https://www.eurasiantimes.com/indias-s-400-su-57-future-defended-russia-kills-china/",
-            "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/02/SU-57-2.jpg",
-            "source": "EurAsian Times",
-            "score": 3,
-            "added_time": "2026-02-03T20:23:32.987373+00:00"
-        },
-        {
             "story_id": "073f7b982d2026367f751fe29a1d61ce",
             "topic": "Psl",
             "subtopics": [
@@ -283,6 +269,20 @@
             "source": "CNBC",
             "score": 3,
             "added_time": "2026-02-04T17:39:06.935975+00:00"
+        },
+        {
+            "story_id": "4aab0f4f3e154eacaa1208a4a16e1ca0",
+            "topic": "Software",
+            "subtopics": [
+                "Software sell-off over AI fears hits global stock markets, but FTSE 100 hits record on \u00a38bn insurance takeover - business live"
+            ],
+            "title": "Software sell-off over AI fears hits global stock markets, but FTSE 100 hits record on \u00a38bn insurance takeover - business live",
+            "desc": "Rolling coverage of the latest economic and financial news",
+            "url": "https://www.theguardian.com/business/live/2026/feb/04/software-stock-selloff-ai-led-disruption-jensen-huang-services-economy-business-live-news-updates",
+            "image": "https://i.guim.co.uk/img/media/cc21511a496ca3abf0d917fe5db08013f7607f6a/537_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=45e54a3559a0486d70540c03d40a3353",
+            "source": "The Guardian",
+            "score": 2,
+            "added_time": "2026-02-04T20:21:25.714010+00:00"
         }
     ],
     "posted": [
@@ -797,11 +797,24 @@
             "source": "Tribune India",
             "score": 3,
             "added_time": "2026-02-03T20:23:32.987347+00:00"
+        },
+        {
+            "story_id": "487151a6afe08fa84d38151222adc6b4",
+            "topic": "Future Secured",
+            "subtopics": [
+                "India\u2019s S-400, Su-57 Future Secured! Russia Kills China Threat Theory with 'Critical' Domestic Chip Production"
+            ],
+            "title": "India\u2019s S-400, Su-57 Future Secured! Russia Kills China Threat Theory with 'Critical' Domestic Chip Production",
+            "desc": "Microwave microchips for the Su-57 fighter and the S-500 Prometheus air-defence system are expected to be manufactured in Russia by the end of 2027. The governor of Sverdlovsk Oblast, Denis Pasler, recently announced that an enterprise has begun designing and constructing the country\u2019s first factory capable of serial production of microwave microchips across the full [\u2026]",
+            "url": "https://www.eurasiantimes.com/indias-s-400-su-57-future-defended-russia-kills-china/",
+            "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/02/SU-57-2.jpg",
+            "source": "EurAsian Times",
+            "score": 3,
+            "added_time": "2026-02-03T20:23:32.987373+00:00"
         }
     ],
     "recent_topics": {
         "India": "2026-02-04T01:00:22.127308+00:00",
-        "Singapore": "2026-02-03T07:50:20.014458+00:00",
         "Nirmala Sitharaman'S": "2026-02-03T09:51:28.720056+00:00",
         "Uzbekistan": "2026-02-03T12:33:54.005611+00:00",
         "Ip": "2026-02-03T13:13:09.139109+00:00",
@@ -821,6 +834,7 @@
         "General": "2026-02-04T18:40:50.330641+00:00",
         "Narendra Modi": "2026-02-04T18:48:51.453795+00:00",
         "Rsv": "2026-02-04T18:54:25.755780+00:00",
-        "Iihm": "2026-02-04T19:01:39.744417+00:00"
+        "Iihm": "2026-02-04T19:01:39.744417+00:00",
+        "Future Secured": "2026-02-04T20:21:25.714081+00:00"
     }
 }
