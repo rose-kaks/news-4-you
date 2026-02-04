@@ -43,20 +43,6 @@
             "added_time": "2026-02-02T23:34:33.103620+00:00"
         },
         {
-            "story_id": "d111c64473733ef51b8be2ec79b2f9d0",
-            "topic": "Narendra Modi",
-            "subtopics": [
-                "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil"
-            ],
-            "title": "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil",
-            "desc": "President Donald Trump on Monday announced he would reduce tariffs on Indian goods in exchange for, among other things, a promise to stop buying Russian oil.",
-            "url": "https://www.cnn.com/2026/02/02/business/india-russian-oil-trump-tariffs",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239374060.jpg?c=16x9&q=w_800,c_fill",
-            "source": "CNN",
-            "score": 3,
-            "added_time": "2026-02-03T05:55:21.625642+00:00"
-        },
-        {
             "story_id": "17c21ee6aa9e21bc91209cde44292ff3",
             "topic": "Asx",
             "subtopics": [
@@ -797,6 +783,20 @@
             "source": "FinancialContent",
             "score": 3,
             "added_time": "2026-02-03T04:36:19.329468+00:00"
+        },
+        {
+            "story_id": "d111c64473733ef51b8be2ec79b2f9d0",
+            "topic": "Narendra Modi",
+            "subtopics": [
+                "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil"
+            ],
+            "title": "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil",
+            "desc": "President Donald Trump on Monday announced he would reduce tariffs on Indian goods in exchange for, among other things, a promise to stop buying Russian oil.",
+            "url": "https://www.cnn.com/2026/02/02/business/india-russian-oil-trump-tariffs",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239374060.jpg?c=16x9&q=w_800,c_fill",
+            "source": "CNN",
+            "score": 3,
+            "added_time": "2026-02-03T05:55:21.625642+00:00"
         }
     ],
     "recent_topics": {
@@ -819,6 +819,7 @@
         "World": "2026-02-04T17:50:22.948335+00:00",
         "Dixon": "2026-02-04T17:56:05.032385+00:00",
         "Soul": "2026-02-04T18:04:35.450926+00:00",
-        "General": "2026-02-04T18:40:50.330641+00:00"
+        "General": "2026-02-04T18:40:50.330641+00:00",
+        "Narendra Modi": "2026-02-04T18:48:51.453795+00:00"
     }
 }
