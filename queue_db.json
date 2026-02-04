@@ -43,20 +43,6 @@
             "added_time": "2026-02-02T23:34:33.103620+00:00"
         },
         {
-            "story_id": "fdbbdc9c7d8cb5655da89d2e9ba0d8f7",
-            "topic": "General",
-            "subtopics": [
-                "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten"
-            ],
-            "title": "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten",
-            "desc": "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten",
-            "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-2-2-industrial-resurgence-iron-ore-prices-surge-224-as-global-demand-forecasts-brighten",
-            "image": "https://images.financialcontent.com/investcenter/favicon.svg",
-            "source": "FinancialContent",
-            "score": 3,
-            "added_time": "2026-02-03T04:36:19.329468+00:00"
-        },
-        {
             "story_id": "d111c64473733ef51b8be2ec79b2f9d0",
             "topic": "Narendra Modi",
             "subtopics": [
@@ -797,6 +783,20 @@
             "source": "PR Newswire",
             "score": 3,
             "added_time": "2026-02-03T04:36:19.329443+00:00"
+        },
+        {
+            "story_id": "fdbbdc9c7d8cb5655da89d2e9ba0d8f7",
+            "topic": "General",
+            "subtopics": [
+                "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten"
+            ],
+            "title": "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten",
+            "desc": "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten",
+            "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-2-2-industrial-resurgence-iron-ore-prices-surge-224-as-global-demand-forecasts-brighten",
+            "image": "https://images.financialcontent.com/investcenter/favicon.svg",
+            "source": "FinancialContent",
+            "score": 3,
+            "added_time": "2026-02-03T04:36:19.329468+00:00"
         }
     ],
     "recent_topics": {
@@ -818,6 +818,7 @@
         "United States": "2026-02-04T17:39:06.936003+00:00",
         "World": "2026-02-04T17:50:22.948335+00:00",
         "Dixon": "2026-02-04T17:56:05.032385+00:00",
-        "Soul": "2026-02-04T18:04:35.450926+00:00"
+        "Soul": "2026-02-04T18:04:35.450926+00:00",
+        "General": "2026-02-04T18:40:50.330641+00:00"
     }
 }
