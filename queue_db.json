@@ -327,20 +327,6 @@
             "added_time": "2026-02-05T01:02:18.135537+00:00"
         },
         {
-            "story_id": "551d36c77c6db29daea345fbc02b0232",
-            "topic": "Ai",
-            "subtopics": [
-                "George Clooney as Amitabh Bachchan, Meryl Streep into Jaya Bachchan's shoes, Tom Cruise as Shah Rukh Khan: AI reimagines 'K3G' cast, Karan Johar reacts"
-            ],
-            "title": "George Clooney as Amitabh Bachchan, Meryl Streep into Jaya Bachchan's shoes, Tom Cruise as Shah Rukh Khan: AI reimagines 'K3G' cast, Karan Johar reacts",
-            "desc": "Filmmaker Karan Johar recently shared his reaction to an AI-generated video that recasts Hollywood stars as characters from his landmark film 'Kabhi K.",
-            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/george-clooney-as-amitabh-bachchan-meryl-streep-into-jaya-bachchans-shoes-tom-cruise-as-shah-rukh-khan-ai-reimagines-k3g-cast-karan-johar-reacts/articleshow/127908275.cms",
-            "image": "https://static.toiimg.com/thumb/msid-127908452,width-1280,height-720,imgsize-63868,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "source": "Times of India",
-            "score": 4,
-            "added_time": "2026-02-05T01:02:18.135545+00:00"
-        },
-        {
             "story_id": "4719c204982c582d4552799448f55323",
             "topic": "Blackrock",
             "subtopics": [
@@ -395,6 +381,62 @@
             "source": "CNA",
             "score": 3,
             "added_time": "2026-02-05T01:02:18.135575+00:00"
+        },
+        {
+            "story_id": "285517fa9f7c0674aac580c43f98ee7d",
+            "topic": "Prof Dr Khalid Mahmood",
+            "subtopics": [
+                "Pakistan\u2019s stability a must to resolve Kashmir I"
+            ],
+            "title": "Pakistan\u2019s stability a must to resolve Kashmir I",
+            "desc": "LAHORE: (Wednesday, February 04, 2026): Punjab University Vice Chancellor Prof Dr Muhammad Ali has said that Pakistan\u2019s stability is a must to resolve the Kashmir Issue which is not possible without development in the education sector. He expressed these views while addressing a seminar on \u201cEchoes of the Battle for Truth, the Contemporary Global World and the Kashmir Issue\u201d organized by the Punjab University Faculty of Arts and Humanities. On this occasion, Pro-Vice Chancellor Prof Dr Khalid Mahmood, senior journalist Salman Ghani, Dean Faculty of Arts and Humanities Prof Dr Mehboob Hussain, Chairman Department of Kashmir Studies Dr Khawaja Zahid Aziz, faculty members and a large number of students were present. In his address, Prof Dr Muhammad Ali said that every year Pakistan renews its pledge that the hearts of Pakistanis beat with Kashmir and that the entire nation stands with the Kashmiris until they achieve their right to self-determination. He said that the \u2018Battle for Truth\u2019 has given Pakistan remarkable diplomatic successes and international recognition. He added that this is the best opportunity to become the voice of the Kashmiris, but unity in thought and ideas is essential. He said that just as Pakistan defeated India in war through technology; it must also strengthen itself in science and technology for the cause of Kashmir. He emphasized that Pakistan\u2019s stance on Kashmir is rightful, while India is making illegitimate demands. He further stated that Kashmiris and Palestinians are among the most oppressed people in the world. Prof Dr Khalid Mahmood stressed that nations are heard at the global level only when they strengthen themselves in education and technology. He said that in the present era, academic and technological progress forms the basis of national dignity and an effective global role. He said that PU is fully expressing solidarity with its Kashmiri brothers and sisters, and that the university has always played a responsible role at national and international levels by consistently supporting the Kashmiri people\u2019s right to self-determination. Senior journalist Salman Ghani said that from 1990 to the present day, all political leaders of Pakistan have played an active role in highlighting the importance of the Kashmir issue. He said that Kashmiris know that Pakistan\u2019s strength is essential to free them from Indian oppression. He remarked that the martyrdom of Burhan Muzaffar Wani instilled fear among Indians, who began seeing Burhan Wani in every Kashmiri youth. He described the Pahalgam incident as an Indian conspiracy, stating that India became trapped in its own plot. He said that when the nation stood united with the Pakistan Army; a power six times stronger was pushed back, resulting in a clear victory. He added that the Pakistan Air Force was declared the \u201cQueen of the Skies,\u201d which was made possible through unity and harmony. He emphasized that the entire nation must remain united to resolve the Kashmir issue and to confront enemies like India and Israel. He said that PU is not only an educational institution but also an excellent platform for highlighting national issues. Prof Dr Mehboob Hussain said that the Kashmir issue is a national matter on which not only all political parties of Pakistan but the entire nation is united and in agreement, with no differences whatsoever. He said that all political parties are aligned on the point that joint and organized efforts must be made for the Kashmiri people\u2019s right to self-determination. He stated that national unity on the Kashmir issue is Pakistan\u2019s greatest strength. He added that Pakistan has now emerged on the global stage with a new and positive image, and the world is listening to Pakistan\u2019s voice. He reaffirmed Pakistan\u2019s commitment to continue playing an effective and responsible role at international forums for a just resolution of the Kashmir issue. Dr Khawaja Zahid Aziz highlighted the historical importance of the Kashmir issue. He exposed India\u2019s reprehensible role on the Kashmir issue at the United Nations. He said that Pakistan and India have already fought four wars over Kashmir. He added that the Kashmiri people have made immense and unforgettable sacrifices for their right to self-determination. He said that the purpose of organizing the seminar was to convey that Kashmir remains a living and unresolved issue.",
+            "url": "https://www.pu.edu.pk/home/section/press/16854",
+            "image": "https://pu.edu.pk/new/images/1.jpg",
+            "source": "University of the Punjab",
+            "score": 3,
+            "added_time": "2026-02-05T05:12:17.027222+00:00"
+        },
+        {
+            "story_id": "a0c81e83f2d5e3ab24d964d88135a46a",
+            "topic": "General",
+            "subtopics": [
+                "Learning about longevity from long"
+            ],
+            "title": "Learning about longevity from long",
+            "desc": "The secrets to extending human lifespans might lie in the animals that can already live for centuries.",
+            "url": "https://worksinprogress.co/issue/the-perks-of-being-a-mole-rat/",
+            "image": "https://wip.gatspress.com/wp-content/uploads/2026/02/WIP_Tiger_HQ2-1-AWK-1-scaled.jpg",
+            "source": "Works in Progress Magazine",
+            "score": 2,
+            "added_time": "2026-02-05T05:12:17.027251+00:00"
+        },
+        {
+            "story_id": "30fa1db0296284a3cb8e9bbfbbcb0b7a",
+            "topic": "United States",
+            "subtopics": [
+                "India's Modi praised for US trade deal as opposition questions impact on agriculture"
+            ],
+            "title": "India's Modi praised for US trade deal as opposition questions impact on agriculture",
+            "desc": "NEW DELHI (AP) \u2014 Indian lawmakers from the ruling coalition praised Prime Minister Narendra Modi on Tuesday for striking a deal with the U.S. that seeks to...",
+            "url": "https://mb.com.ph/2026/02/04/indias-modi-praised-for-us-trade-deal-as-opposition-questions-impact-on-agriculture",
+            "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/02/04/76865.webp",
+            "source": "Manila Bulletin",
+            "score": 3,
+            "added_time": "2026-02-05T05:12:17.027263+00:00"
+        },
+        {
+            "story_id": "ca8be906eaa4377b135a2b46929360fd",
+            "topic": "Myanmar",
+            "subtopics": [
+                "Myanmar elections draw attention to its digital surveillance record"
+            ],
+            "title": "Myanmar elections draw attention to its digital surveillance record",
+            "desc": "The country\u2019s digital surveillance systems, which rely on digital ID technology and facial recognition products supplied by Chinese and Indian companies.",
+            "url": "https://www.biometricupdate.com/202602/myanmar-elections-draw-attention-to-its-digital-surveillance-record",
+            "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/16135058/cctv-surveillance-scaled.jpg",
+            "source": "Biometric Update",
+            "score": 3,
+            "added_time": "2026-02-05T05:12:17.027270+00:00"
         }
     ],
     "posted": [
@@ -938,14 +980,24 @@
             "source": "The Economic Times",
             "score": 4,
             "added_time": "2026-02-05T01:02:18.135502+00:00"
+        },
+        {
+            "story_id": "551d36c77c6db29daea345fbc02b0232",
+            "topic": "Ai",
+            "subtopics": [
+                "George Clooney as Amitabh Bachchan, Meryl Streep into Jaya Bachchan's shoes, Tom Cruise as Shah Rukh Khan: AI reimagines 'K3G' cast, Karan Johar reacts"
+            ],
+            "title": "George Clooney as Amitabh Bachchan, Meryl Streep into Jaya Bachchan's shoes, Tom Cruise as Shah Rukh Khan: AI reimagines 'K3G' cast, Karan Johar reacts",
+            "desc": "Filmmaker Karan Johar recently shared his reaction to an AI-generated video that recasts Hollywood stars as characters from his landmark film 'Kabhi K.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/george-clooney-as-amitabh-bachchan-meryl-streep-into-jaya-bachchans-shoes-tom-cruise-as-shah-rukh-khan-ai-reimagines-k3g-cast-karan-johar-reacts/articleshow/127908275.cms",
+            "image": "https://static.toiimg.com/thumb/msid-127908452,width-1280,height-720,imgsize-63868,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 4,
+            "added_time": "2026-02-05T01:02:18.135545+00:00"
         }
     ],
     "recent_topics": {
         "India": "2026-02-05T01:02:18.135603+00:00",
-        "Ip": "2026-02-03T13:13:09.139109+00:00",
-        "China": "2026-02-03T15:55:39.237290+00:00",
-        "Ibam": "2026-02-03T16:37:17.784644+00:00",
-        "Esg": "2026-02-03T17:09:35.944799+00:00",
         "Meta": "2026-02-03T20:23:32.987400+00:00",
         "The Interface: Integrating Electronics": "2026-02-04T05:04:25.944929+00:00",
         "Nii": "2026-02-04T05:23:14.273833+00:00",
@@ -960,6 +1012,7 @@
         "Narendra Modi": "2026-02-04T18:48:51.453795+00:00",
         "Rsv": "2026-02-04T18:54:25.755780+00:00",
         "Iihm": "2026-02-04T19:01:39.744417+00:00",
-        "Future Secured": "2026-02-04T20:21:25.714081+00:00"
+        "Future Secured": "2026-02-04T20:21:25.714081+00:00",
+        "Ai": "2026-02-05T05:12:17.027294+00:00"
     }
 }
