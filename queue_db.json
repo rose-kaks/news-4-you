@@ -453,20 +453,6 @@
             "added_time": "2026-02-05T08:29:32.452813+00:00"
         },
         {
-            "story_id": "a437023fa884e8222739aa2a49f8b565",
-            "topic": "Australia",
-            "subtopics": [
-                "Is it possible in India?"
-            ],
-            "title": "Is it possible in India?",
-            "desc": "Some Indian states have said they are examining Australia's law curbing social media for children.",
-            "url": "https://www.bbc.com/news/articles/c9qpr37d84qo",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a1a6/live/09ac66a0-0262-11f1-b7e1-afb6d0884c18.jpg",
-            "source": "BBC",
-            "score": 5,
-            "added_time": "2026-02-05T16:32:50.366718+00:00"
-        },
-        {
             "story_id": "8fa67ca6e1dfebe4f5d110034397072a",
             "topic": "Blackrock Blackrock",
             "subtopics": [
@@ -607,6 +593,48 @@
             "source": "ScienceDaily",
             "score": 3,
             "added_time": "2026-02-05T20:20:51.274688+00:00"
+        },
+        {
+            "story_id": "e61e839c9d748b27575ff6495a959707",
+            "topic": "Shifaa",
+            "subtopics": [
+                "Cancer is curable if early detected, Dar Hospital experts insist"
+            ],
+            "title": "Cancer is curable if early detected, Dar Hospital experts insist",
+            "desc": "DAR ES SALAAM: TANZANIAN citizens have been urged to abandon the belief that cancer is incurable and instead seek medical testing as soon as they notice unusual symptoms, as early detection significantly increases the chances of successful treatment. The call was made today in Dar es Salaam by a cancer specialist at the Kinondoni-based Shifaa",
+            "url": "https://dailynews.co.tz/cancer-is-curable-if-early-detected-dar-hospital-experts-insist/",
+            "image": "https://dailynews.co.tz/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-16.28.12.jpeg",
+            "source": "dailynews.co.tz",
+            "score": 3,
+            "added_time": "2026-02-06T01:00:22.865248+00:00"
+        },
+        {
+            "story_id": "1e638577d5b1571c44a745c65a313734",
+            "topic": "The Shipping Technicality Holding Back Circular Fashion Circular",
+            "subtopics": [
+                "The Shipping Technicality Holding Back Circular Fashion"
+            ],
+            "title": "The Shipping Technicality Holding Back Circular Fashion",
+            "desc": "Circular fashion innovators are struggling with shipping codes designed for a linear system. The outdated system is stalling progress on upcycling and recycling.",
+            "url": "https://www.vogue.com/article/the-shipping-technicality-holding-back-circular-fashion",
+            "image": "https://assets.vogue.com/photos/69836276f89e2eeef05ed8c9/16:9/w_1280,c_limit/shipping-vogue-business-social-newsletter.jpg",
+            "source": "Vogue",
+            "score": 3,
+            "added_time": "2026-02-06T01:00:22.865269+00:00"
+        },
+        {
+            "story_id": "405b6e5c84dff3ced5ed389c34f5673f",
+            "topic": "The Galaxy S26 Ultra",
+            "subtopics": [
+                "Samsung teases camera upgrades for Galaxy S26 Ultra in latest videos: Here\u2019s what's coming"
+            ],
+            "title": "Samsung teases camera upgrades for Galaxy S26 Ultra in latest videos: Here\u2019s what's coming",
+            "desc": "Samsung has released short teaser videos that hint at camera changes coming to the Galaxy S26 Ultra ahead of its official launch globally.| Technology News",
+            "url": "https://www.hindustantimes.com/technology/samsung-teases-camera-upgrades-for-galaxy-s26-ultra-in-latest-videos-here-s-whats-coming-101770279660681.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/05/550x309/Samsung_Galaxy_S26_Ultra_1770279877281_1770279877420.png",
+            "source": "Hindustan Times",
+            "score": 4,
+            "added_time": "2026-02-06T01:00:22.865285+00:00"
         }
     ],
     "posted": [
@@ -1206,12 +1234,24 @@
             "source": "NDTV Profit",
             "score": 7,
             "added_time": "2026-02-05T20:20:51.274681+00:00"
+        },
+        {
+            "story_id": "a437023fa884e8222739aa2a49f8b565",
+            "topic": "Australia",
+            "subtopics": [
+                "Is it possible in India?"
+            ],
+            "title": "Is it possible in India?",
+            "desc": "Some Indian states have said they are examining Australia's law curbing social media for children.",
+            "url": "https://www.bbc.com/news/articles/c9qpr37d84qo",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/a1a6/live/09ac66a0-0262-11f1-b7e1-afb6d0884c18.jpg",
+            "source": "BBC",
+            "score": 5,
+            "added_time": "2026-02-05T16:32:50.366718+00:00"
         }
     ],
     "recent_topics": {
         "India": "2026-02-05T01:02:18.135603+00:00",
-        "New Delhi'S": "2026-02-04T08:27:31.679946+00:00",
-        "Amr": "2026-02-04T12:32:14.239675+00:00",
         "Salman Khan": "2026-02-04T16:32:29.489003+00:00",
         "United States": "2026-02-04T17:39:06.936003+00:00",
         "World": "2026-02-04T17:50:22.948335+00:00",
@@ -1223,6 +1263,7 @@
         "Iihm": "2026-02-04T19:01:39.744417+00:00",
         "Future Secured": "2026-02-04T20:21:25.714081+00:00",
         "Ai": "2026-02-05T20:20:51.274746+00:00",
-        "Bse": "2026-02-05T08:29:32.452836+00:00"
+        "Bse": "2026-02-05T08:29:32.452836+00:00",
+        "Australia": "2026-02-06T01:00:22.865315+00:00"
     }
 }
