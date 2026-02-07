@@ -819,6 +819,62 @@
             "source": "Positive News",
             "score": 4,
             "added_time": "2026-02-07T01:00:08.141651+00:00"
+        },
+        {
+            "story_id": "0c50e0f1f71794798746fbfdeb67d012",
+            "topic": "United States",
+            "subtopics": [
+                "China Secretly Testing Nuclear Weapons And Covering Its Tracks, U.S. Alleges (Updated)"
+            ],
+            "title": "China Secretly Testing Nuclear Weapons And Covering Its Tracks, U.S. Alleges (Updated)",
+            "desc": "The new U.S. accusations about China come at a turbulent moment for nuclear arms control globally.",
+            "url": "https://www.twz.com/nuclear/china-secretly-testing-nuclear-weapons-and-covering-its-tracks-u-s-alleges",
+            "image": "https://www.twz.com/wp-content/uploads/2026/02/Nuclear-China.jpg?w=1200",
+            "source": "The War Zone",
+            "score": 2,
+            "added_time": "2026-02-07T08:17:42.380591+00:00"
+        },
+        {
+            "story_id": "b3f799a5b23c7edd79a28ac62e71bbd1",
+            "topic": "Rf-Based Vru Safety Platforms Positioned For Institutional-Scale Growth",
+            "subtopics": [
+                "RF-Based VRU Safety Platforms Positioned for Institutional-Scale Growth"
+            ],
+            "title": "RF-Based VRU Safety Platforms Positioned for Institutional-Scale Growth",
+            "desc": "/PRNewswire/ -- Market News Updates News Commentary - The Vulnerable Road User (VRU) RF sensing platform market focuses on technology that helps vehicles and...",
+            "url": "https://www.prnewswire.com/news-releases/rf-based-vru-safety-platforms-positioned-for-institutional-scale-growth-302680721.html",
+            "image": "https://mma.prnewswire.com/media/2852558/Market_News_Updates_Logo.jpg?p=facebook",
+            "source": "PR Newswire",
+            "score": 3,
+            "added_time": "2026-02-07T08:17:42.380599+00:00"
+        },
+        {
+            "story_id": "2f59df94f0d850b56c23435e89d8d272",
+            "topic": "Lunar Explo",
+            "subtopics": [
+                "bound again: 4 astronauts will fly farther than anyone since 1970s"
+            ],
+            "title": "bound again: 4 astronauts will fly farther than anyone since 1970s",
+            "desc": "Science News: Four Artemis-II astronauts will return for a 10-day deep-space mission that\u2019ll test new spacecraft, new partnerships and a new approach to lunar explo.",
+            "url": "https://timesofindia.indiatimes.com/science/moonbound-again-4-astronauts-will-fly-farther-than-anyone-since-1970s/articleshow/127982304.cms",
+            "image": "https://static.toiimg.com/thumb/msid-127988641,width-1280,height-720,imgsize-1331804,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 4,
+            "added_time": "2026-02-07T08:17:42.380606+00:00"
+        },
+        {
+            "story_id": "784b5a0c266cf3414feb7ff86cd46c77",
+            "topic": "Google",
+            "subtopics": [
+                "Google, Amazon, Meta, Microsoft spending more on AI in 2026 than India will spend on entire country"
+            ],
+            "title": "Google, Amazon, Meta, Microsoft spending more on AI in 2026 than India will spend on entire country",
+            "desc": "Whether AI is a boom or bust is something we don\u2019t know yet. But what has become clear is that tech companies are going all in on AI. Only four of them \u2014 Google, Meta, Amazon and Microsoft \u2014 are set to spend nearly $650 billion on AI in 2026. It is almost as much as the Indian government will spend on the entire country this year!",
+            "url": "https://www.indiatoday.in/technology/news/story/google-amazon-meta-microsoft-spending-more-on-ai-in-2026-than-india-will-spend-on-entire-country-2864194-2026-02-06",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/meta--amazon--google--ai-065416286-16x9_0.jpg?VersionId=d5rSijDoMqWFvooQ7tN1pbFIrW13bkQP",
+            "source": "India Today",
+            "score": 3,
+            "added_time": "2026-02-07T08:17:42.380614+00:00"
         }
     ],
     "posted": [
@@ -1460,13 +1516,29 @@
             "source": "RushLane",
             "score": 5,
             "added_time": "2026-02-07T01:00:08.141609+00:00"
+        },
+        {
+            "story_id": "8157f15caf8625a0e656d51e35a2311e",
+            "topic": "Mediatek",
+            "subtopics": [
+                "MediaTek Launches Dimensity 9500s and 8500 Chipsets for Smartphones",
+                "MediaTek Unveils Dimensity 9500s and Dimensity 8500 to Propel Performance, Gaming and Efficiency in Flagship and Premium Smartphones at MediaTek Tech Day",
+                "Oppo, Poco to launch smartphones powered by Dimensity 9500s flagship chipset: MediaTek"
+            ],
+            "title": "MediaTek Launches Dimensity 9500s and 8500 Chipsets for Smartphones",
+            "desc": "MediaTek presents its latest Dimensity 9500s and 8500 chipsets, enhancing performance and gaming in flagship smartphones, during Tech Day in Delhi.",
+            "url": "https://www.indianewsnetwork.com/en/mediatek-launches-dimensity-9500s-8500-chipsets-smartphones-20260207",
+            "image": "https://cdn.optcms.com/www.indianewsnetwork.com/assets/2026/202602/20260207-img-20260207-5e94ea9a39f8e8cd.png",
+            "source": "India News Network",
+            "score": 5,
+            "added_time": "2026-02-07T08:17:42.380570+00:00"
         }
     ],
     "recent_topics": {
-        "General": "2026-02-05T16:32:50.366788+00:00",
         "Ai": "2026-02-05T20:20:51.274746+00:00",
         "Australia": "2026-02-06T01:00:22.865315+00:00",
         "Mann Ki Baat": "2026-02-06T12:31:17.163777+00:00",
-        "Ev": "2026-02-07T01:00:08.141684+00:00"
+        "Ev": "2026-02-07T01:00:08.141684+00:00",
+        "Mediatek": "2026-02-07T08:17:42.380649+00:00"
     }
 }
