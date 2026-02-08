@@ -453,20 +453,6 @@
             "added_time": "2026-02-05T16:32:50.366735+00:00"
         },
         {
-            "story_id": "3c2e2d894b406b04c15acae6a30e4e17",
-            "topic": "Kumar Sanu",
-            "subtopics": [
-                "Vivek Oberoi: After Abhishek and Aishwarya Rai Bachchan, Kumar Sanu, R Madhavan, Salman Khan, Vivek Oberoi moves to court for protection of personality rights"
-            ],
-            "title": "Vivek Oberoi: After Abhishek and Aishwarya Rai Bachchan, Kumar Sanu, R Madhavan, Salman Khan, Vivek Oberoi moves to court for protection of personality rights",
-            "desc": "Actor turned entrepreneur Vivek Oberoi has approached the Delhi High Court seeking legal protection of his personality rights, thus to avoid the rampa.",
-            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-abhishek-and-aishwarya-rai-bachchan-kumar-sanu-r-madhavan-salman-khan-vivek-oberoi-also-moves-to-court-for-protection-of-his-personality-rights/articleshow/127912720.cms",
-            "image": "https://static.toiimg.com/thumb/msid-127912883,width-1280,height-720,imgsize-21034,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "source": "Times of India",
-            "score": 4,
-            "added_time": "2026-02-05T16:32:50.366754+00:00"
-        },
-        {
             "story_id": "15586465d13d36955fd751017cbcb0c2",
             "topic": "Review Q3Fy26 Financial Results&Nbsp;&Nbsp;Scanx.Tradekaynes Technology Board Meeting",
             "subtopics": [
@@ -973,6 +959,34 @@
             "source": "Businessday NG",
             "score": 4,
             "added_time": "2026-02-08T07:57:45.882643+00:00"
+        },
+        {
+            "story_id": "020759b832179ebb31322ab163f14725",
+            "topic": "Hollywood",
+            "subtopics": [
+                "Chris Hemsworth and Elsa Pataky open up about raising their three children in Australia"
+            ],
+            "title": "Chris Hemsworth and Elsa Pataky open up about raising their three children in Australia",
+            "desc": "Chris Hemsworth and Elsa Pataky say raising their family in Australia has been a positive experience.The Hollywood couple recently shared rare details about life with their three children, including...",
+            "url": "https://www.thenews.com.pk/latest/1391465-chris-hemsworth-and-elsa-pataky-open-up-about-raising-their-three-children-in-australia",
+            "image": "https://www.thenews.com.pk/assets/uploads/2026-02-08/1391465_052439_updates.jpg",
+            "source": "The News International",
+            "score": 3,
+            "added_time": "2026-02-08T12:22:57.955995+00:00"
+        },
+        {
+            "story_id": "b0666adf17271a4ea3fb29febaa789dc",
+            "topic": "Bill Gates",
+            "subtopics": [
+                "Nuclear sees tipping point as Meta makes deals with Bill Gates\u2019 TerraPower, Sam Altman-backed Oklo"
+            ],
+            "title": "Nuclear sees tipping point as Meta makes deals with Bill Gates\u2019 TerraPower, Sam Altman-backed Oklo",
+            "desc": "Meta, Google, Amazon, and more all hope to lean on a nuclear construction boom to power AI.",
+            "url": "https://fortune.com/2026/02/07/next-gen-nuclear-tipping-point-meta-hyperscalers-bill-gates-terrapower-sam-altman-oklo/",
+            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2215966935-e1770338435600.jpg?resize=1200,600",
+            "source": "Fortune",
+            "score": 2,
+            "added_time": "2026-02-08T12:22:57.956023+00:00"
         }
     ],
     "posted": [
@@ -1672,6 +1686,20 @@
             "source": "The Economic Times",
             "score": 4,
             "added_time": "2026-02-05T16:32:50.366745+00:00"
+        },
+        {
+            "story_id": "3c2e2d894b406b04c15acae6a30e4e17",
+            "topic": "Kumar Sanu",
+            "subtopics": [
+                "Vivek Oberoi: After Abhishek and Aishwarya Rai Bachchan, Kumar Sanu, R Madhavan, Salman Khan, Vivek Oberoi moves to court for protection of personality rights"
+            ],
+            "title": "Vivek Oberoi: After Abhishek and Aishwarya Rai Bachchan, Kumar Sanu, R Madhavan, Salman Khan, Vivek Oberoi moves to court for protection of personality rights",
+            "desc": "Actor turned entrepreneur Vivek Oberoi has approached the Delhi High Court seeking legal protection of his personality rights, thus to avoid the rampa.",
+            "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-abhishek-and-aishwarya-rai-bachchan-kumar-sanu-r-madhavan-salman-khan-vivek-oberoi-also-moves-to-court-for-protection-of-his-personality-rights/articleshow/127912720.cms",
+            "image": "https://static.toiimg.com/thumb/msid-127912883,width-1280,height-720,imgsize-21034,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 4,
+            "added_time": "2026-02-05T16:32:50.366754+00:00"
         }
     ],
     "recent_topics": {
@@ -1679,6 +1707,7 @@
         "Mediatek": "2026-02-07T08:17:42.380649+00:00",
         "Apa Psycarticles": "2026-02-08T07:57:45.882679+00:00",
         "Blackrock Blackrock": "2026-02-08T08:09:25.633531+00:00",
-        "Mukesh Ambani": "2026-02-08T08:19:24.020486+00:00"
+        "Mukesh Ambani": "2026-02-08T08:19:24.020486+00:00",
+        "Kumar Sanu": "2026-02-08T12:22:57.956059+00:00"
     }
 }
