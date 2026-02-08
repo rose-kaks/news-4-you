@@ -101,3 +101,54 @@ Pipeline will:
 ✔ Post to Instagram
 
 ---
+
+## 📌 Output Example
+
+Each run produces:
+
+```
+slide_1_x.png
+slide_content_1_x.png
+slide_content_2_x.png
+```
+
+Then publishes a **carousel post** automatically.
+
+---
+
+
+## 📂 Important Files
+
+| File                   | Purpose                       |
+| ---------------------- | ----------------------------- |
+| `news_pipeline.py`     | AI story detection + ranking  |
+| `carousel_renderer.py` | Slide generation engine       |
+| `cloudinary_upload.py` | Image hosting                 |
+| `insta_publish.py`     | Instagram posting             |
+| `queue_db.json`        | Story memory + cooldown logic |
+
+---
+
+## 🔁 Smart Features
+
+* Topic cooldown prevents spam posts
+* Duplicate story detection
+* Auto font scaling
+* Works even if some APIs fail
+* Entity normalization
+* Entity Weighted similarity scouting
+* Sentence embedding + clustering = better story grouping
+
+---
+
+## 🧩 Use Cases
+
+* AI news pages
+* Automated media accounts
+* Research on story clustering
+* NLP + CV integration project
+
+---
+
+If something fails: check API keys first 🔑
+**Made with ♡**
