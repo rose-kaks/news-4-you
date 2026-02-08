@@ -342,11 +342,22 @@ def generate_carousel(article, topic):
         page_label = f" ({i+1}/{len(description_chunks)})" if len(description_chunks) > 1 else ""
         draw.text((margin_x, 80), topic.upper() + page_label, fill="#888888", font=meta_font)
 
-        # Draw the text chunk centered
-        # This function handles the actual wrapping within the slide
+        # 1. Calculate the height first using your measurement helper
+        total_h, _ = calculate_text_height(draw, chunk, body_font, max_width, 22)
+
+        # 2. Do the centering math here: (Canvas Height - Text Height) / 2
+        centered_y = (HEIGHT - total_h) // 2
+
+        # 3. Pass that calculated 'centered_y' into your original function
         draw_wrapped_text(
-            draw, chunk, body_font, margin_x, 0, max_width, 
-            "white", 22,True, canvas_height=HEIGHT
+            draw, 
+            chunk, 
+            body_font, 
+            margin_x, 
+            centered_y,  # Pass the calculated Y instead of 0
+            max_width, 
+            "white", 
+            22
         )
 
         # Accent Bar
