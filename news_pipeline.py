@@ -410,7 +410,12 @@ def get_next_post(db):
     if not db["queue"]:
         return None
     # Sort by score + recency
-    sorted_queue = sorted(db["queue"], key=lambda x: (-x["score"], x["added_time"]))
+    # sorted_queue = sorted(db["queue"], key=lambda x: (-x["score"], x["added_time"]))
+    sorted_queue = sorted(
+        db["queue"],
+        key=lambda x: (-x["score"], datetime.fromisoformat(x["added_time"]))
+    )
+
 
     for item in sorted_queue:
         if topic_allowed(db, item["topic"]):
