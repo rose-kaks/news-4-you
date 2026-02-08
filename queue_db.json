@@ -425,20 +425,6 @@
             "added_time": "2026-02-05T05:12:17.027270+00:00"
         },
         {
-            "story_id": "30e0691aba1e11cfd7c207060071946f",
-            "topic": "Apa Psycarticles",
-            "subtopics": [
-                "Effect of Digital Health Interventions on College Students\u2019 Lifestyle Behaviors: Systematic Review"
-            ],
-            "title": "Effect of Digital Health Interventions on College Students\u2019 Lifestyle Behaviors: Systematic Review",
-            "desc": "Background: College students undergo a critical transition from adolescence to adulthood, during which lifestyle behaviors such as physical activity, sedentary behavior, diet, and sleep are key determinants of long-term health. Digital health interventions (DHIs) are increasingly recognized as a promising strategy for improving these behaviors among college students.\nObjective: This systematic review aims to evaluate the effectiveness and applicability of DHIs targeting lifestyle behaviors among college students by analyzing intervention objectives, modalities, functionalities, outcomes, and other key characteristics.\nMethods: In accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines, multiple scientific databases, including Scopus, Web of Science, PubMed, MEDLINE, PsycINFO, SPORTDiscus, ProQuest Central, APA PsycArticles, ERIC, and Academic Search Premier, were searched for studies published between January 2010 and December 2025 (initial search: August 5, 2025; updated search: December 27, 2025). The inclusion criteria were original empirical studies on DHIs targeting lifestyle behaviors (physical activity, sedentary behavior, diet, and sleep) among college students, published in English. Studies focusing on nondigital interventions, lacking sufficient methodological details, or not reporting lifestyle behavior\u2013related outcomes were excluded. Quality assessment was conducted in 2 stages: all studies were first evaluated using the Mixed Methods Appraisal Tool (2018 version), followed by Risk of Bias 2 for randomized controlled trials and Joanna Briggs Institute critical appraisal tools for nonrandomized studies. A narrative synthesis was used to present and synthesize the findings.\nResults: A total of 2998 records were retrieved, of which 46 publications met the inclusion criteria. These included 30 (65%) studies related to physical activity, 26 (57%) studies to diet, 10 (22%) studies related to sedentary behavior, and 6 (13%) studies related to sleep. This review enabled an examination of the effects of DHIs on college students\u2019 lifestyle behaviors. DHIs primarily used mobile apps, web-based platforms, and mobile communication technologies, with core functionalities such as education, guidance, monitoring, and prompting. DHIs were more effective in improving physical activity and diet; however, evidence for reducing sedentary behavior and improving sleep remained limited. Of the 46 studies, 31 (67%) reported positive effects, with larger sample sizes and intervention durations of 8-16 weeks being associated with more favorable outcomes.\nConclusions: This review focuses on college students, addressing a gap in the literature that often centers on general adult populations. Unlike previous reviews that focus on a single behavior, this study integrates multiple lifestyle behaviors and evaluates DHIs across diverse modalities and functionalities. These contributions help refine future DHIs for college students and inform health promotion strategies in higher education. Although DHIs show potential for improving lifestyle behaviors, evidence of their long-term effectiveness remains limited. Future interventions should prioritize multibehavior integration, interactivity, and population-differentiated design to enhance precision, sustainability, and equity. This study has several limitations, including issues related to sample representativeness, intervention refinement, and methodological rigor.\nTrial Registration: PROSPERO CRD420251119078; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251119078",
-            "url": "https://www.jmir.org/2026/1/e82192",
-            "image": "https://asset.jmir.pub/assets/0395c79956e31f6349483453220de421.png",
-            "source": "Journal of Medical Internet Research",
-            "score": 4,
-            "added_time": "2026-02-05T08:29:32.452790+00:00"
-        },
-        {
             "story_id": "c5fbeda9f055efdd62fb8a469ee22e0b",
             "topic": "Ethiopia",
             "subtopics": [
@@ -875,6 +861,146 @@
             "source": "India Today",
             "score": 3,
             "added_time": "2026-02-07T08:17:42.380614+00:00"
+        },
+        {
+            "story_id": "1b28364417028879d94b583521585b76",
+            "topic": "Herbal",
+            "subtopics": [
+                "CDMMM: a comprehensive platform of traditional Indian medicinal plant DNA barcodes and metabolite fingerprints database"
+            ],
+            "title": "CDMMM: a comprehensive platform of traditional Indian medicinal plant DNA barcodes and metabolite fingerprints database",
+            "desc": "Herbal medicines, derived from medicinal plants, are in high demand due to global population growth and the increasing prevalence of chronic diseases; however, the use of substitutes or adulterants can compromise the quality of these medicines. DNA barcoding and metabolite fingerprinting are used to identify plants and ensure the safety of drugs. The effectiveness of authentication methods depends on the availability and coverage of the reference library. However, reference DNA barcodes and metabolite fingerprint libraries for traditional Indian medicinal plants are lacking, which hinders the authentication of herbal drugs and the elucidation of the therapeutic effects of secondary metabolites. In the present study, we developed a user-friendly \u2018Comprehensive Database of Medicinal Plants, Molecular Markers, and Metabolite Fingerprinting (CDMMM)\u2019 that provides extensive details on traditional Indian medicinal plants used in drug formulations, DNA barcode sequences, metabolites, and their therapeutic targets associated with diseases. CDMMM is an expandable data resource comprising 89 experimentally obtained DNA barcode accessions from 67 plant species, 3033 annotated plant metabolites, and 1414 therapeutic targets associated with 441 diseases from 20 plant species. The ever-expanding CDMMM resource is available at https://slsdb.manipal.edu/cdmmm/. Overall, it is a powerful platform for taxonomy, systematics, species identification, and drug discovery, promoting knowledge and addressing taxonomic uncertainties.",
+            "url": "https://www.nature.com/articles/s41598-026-37812-4?error=cookies_not_supported&code=274743d4-f69a-4c71-ae60-19df05edab38",
+            "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+            "source": "Nature",
+            "score": 4,
+            "added_time": "2026-02-08T07:57:45.882563+00:00"
+        },
+        {
+            "story_id": "3313a9172abb8c63fbdc2646eab2db23",
+            "topic": "Wrist\u2011Worn",
+            "subtopics": [
+                "Doctors Welcome WHO Focus On Wearables"
+            ],
+            "title": "Doctors Welcome WHO Focus On Wearables",
+            "desc": "Reacting to discussions at the WHO\u2019s Montreal meeting, physicians said wrist\u2011worn devices offered a more reliable alternative to traditional self\u2011reported surveys, which often underestimate physical inactivity.",
+            "url": "https://www.deccanchronicle.com/southern-states/telangana/doctors-welcome-who-focus-on-wearables-1935735",
+            "image": "https://www.deccanchronicle.com/h-upload/2026/02/07/2007864-dc-cover-oiomedap4i18l94k3gil8rehn5-20180929051401medi.jpg",
+            "source": "Deccan Chronicle",
+            "score": 3,
+            "added_time": "2026-02-08T07:57:45.882585+00:00"
+        },
+        {
+            "story_id": "4f966d52b1f707051f6e0615b9173d75",
+            "topic": "Samsung Galaxy M36",
+            "subtopics": [
+                "Samsung Galaxy M36 vs iQOO Z10R: Which is the better smartphone?"
+            ],
+            "title": "Samsung Galaxy M36 vs iQOO Z10R: Which is the better smartphone?",
+            "desc": "The competition in the sub-\u20b920,000 smartphone market intensifies as both the Samsung Galaxy M36 and the iQOO Z10R arrive with robust chipsets, decent battery capacity, vlog-ready cameras, and more.",
+            "url": "https://tech.sportskeeda.com/mobiles/galaxy-m36-vs-iqoo-z10r-which-better-smartphone",
+            "image": "https://staticg.sportskeeda.com/editor/2026/02/1bcdc-17704653651149-1920.jpg",
+            "source": "Sportskeeda Tech",
+            "score": 4,
+            "added_time": "2026-02-08T07:57:45.882594+00:00"
+        },
+        {
+            "story_id": "e4ed87af38357a512f5ccacc10a68d72",
+            "topic": "Islamabad",
+            "subtopics": [
+                "Thousands mourn victims of suicide bombing in Islamabad, as four arrests made"
+            ],
+            "title": "Thousands mourn victims of suicide bombing in Islamabad, as four arrests made",
+            "desc": "ISLAMABAD - Thousands of mourners gathered in Islamabad on Saturday to start burying the 32 people killed in a suicide bombing at a Shi'ite Muslim mosque during Friday prayers, as the city tightened security and authorities arrested four people believed to have helped the bomber.",
+            "url": "https://www.gmanetwork.com/news/topstories/world/975775/thousands-mourn-victims-of-suicide-bombing-in-islamabad-as-four-arrests-made/story/",
+            "image": "https://images.gmanews.tv/webpics/2026/02/islamabad_bombing_funeral_2026_02_07_23_53_39.jpg",
+            "source": "GMA Network",
+            "score": 3,
+            "added_time": "2026-02-08T07:57:45.882602+00:00"
+        },
+        {
+            "story_id": "869335644e269a1e36281aeb594bc8ad",
+            "topic": "Andhra Pradesh",
+            "subtopics": [
+                "AP Quantum Valley: 1st Step In History!"
+            ],
+            "title": "AP Quantum Valley: 1st Step In History!",
+            "desc": "Andhra Pradesh has taken a significant step towards quantum computing and its future prospects. Chief Minister Chandrababu Naidu and Union Minister",
+            "url": "https://www.gulte.com/featured/395133/ap-quantum-valley-1st-step-in-history",
+            "image": "https://cdn.gulte.com/wp-content/uploads/2026/02/chandrababu-quantum-valley-.jpg",
+            "source": "Gulte",
+            "score": 4,
+            "added_time": "2026-02-08T07:57:45.882608+00:00"
+        },
+        {
+            "story_id": "37c7ac0dd0df8abdf8c85c8bc95db2e1",
+            "topic": "Zanzibar",
+            "subtopics": [
+                "Why Zanzibar\u2019s executives can not ignore Artificial Intelligence in real life"
+            ],
+            "title": "Why Zanzibar\u2019s executives can not ignore Artificial Intelligence in real life",
+            "desc": "ZANZIBAR: AT around 9.30am local time, in the morning, inside a quiet conference hall at Madinat al Bahri Hotel in Zanzibar, senior government officials-Principal Secretaries (PS) sat not to discuss budgets or policies, but to confront a different kind of future, one shaped by algorithms, data, and machines that can learn. For many of them,",
+            "url": "https://dailynews.co.tz/why-zanzibars-executives-can-not-ignore-artificial-intelligence-in-real-life/",
+            "image": "https://dailynews.co.tz/wp-content/uploads/2026/02/ZENAA.png",
+            "source": "dailynews.co.tz",
+            "score": 3,
+            "added_time": "2026-02-08T07:57:45.882617+00:00"
+        },
+        {
+            "story_id": "3f96c6b67d7a119dae4655df455545e9",
+            "topic": "Malaysia",
+            "subtopics": [
+                "'Our Ties With Malaysia Scaling New Heights': PM Modi Highlights Shared Values In Kuala Lumpur"
+            ],
+            "title": "'Our Ties With Malaysia Scaling New Heights': PM Modi Highlights Shared Values In Kuala Lumpur",
+            "desc": "PM Modi highlighted that Malaysia had the second-highest Indian community in the world and placed a particular emphasis on Tamil linkages between the two nations.",
+            "url": "https://www.news18.com/india/our-ties-with-malaysia-scaling-new-heights-pm-modi-highlights-shared-values-in-kuala-lumpur-9886745.html",
+            "image": "https://images.news18.com/ibnlive/uploads/2026/02/modi-1-2026-02-b5ab6c2300a032a900f3ca1ceab4a195-16x9.jpg",
+            "source": "News18",
+            "score": 4,
+            "added_time": "2026-02-08T07:57:45.882624+00:00"
+        },
+        {
+            "story_id": "15583fbd73a63ffaf8b391253058f87d",
+            "topic": "New Delhi",
+            "subtopics": [
+                "Trump wants India to stop buying Russian oil - what if New Delhi says no? What the interim trade pact says"
+            ],
+            "title": "Trump wants India to stop buying Russian oil - what if New Delhi says no? What the interim trade pact says",
+            "desc": "India Business News: US President Donald Trump has lifted the additional 25 per cent tariff imposed on Indian imports over New Delhi\u2019s purchases of Russian oil. The move f.",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/trump-wants-india-to-stop-buying-russian-oil-what-if-new-delhi-says-no-what-the-interim-trade-pact-says/articleshow/128029143.cms",
+            "image": "https://static.toiimg.com/thumb/msid-128029191,width-1280,height-720,imgsize-609603,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 3,
+            "added_time": "2026-02-08T07:57:45.882630+00:00"
+        },
+        {
+            "story_id": "b86854a4316d32784adf2fe00919a735",
+            "topic": "New Iit Bombay Research Improves Recovery Of T",
+            "subtopics": [
+                "New IIT Bombay Research Improves Recovery of T"
+            ],
+            "title": "New IIT Bombay Research Improves Recovery of T",
+            "desc": "Immunotherapy is transforming cancer care by mobilising the body\u2019s own immune system to eliminate tumours. Among the most promising advances is CAR T-cell therapy, which involves genetically engineering a patient\u2019s [\u2026]",
+            "url": "https://theindianpractitioner.com/new-iit-bombay-research-improves-recovery-of-t-cells-for-advanced-cancer-care/",
+            "image": "https://theindianpractitioner.com/wp-content/uploads/2026/02/New-IIT-Bombay-Research-Improves-Recovery-of-T-Cells-for-Advanced-Cancer-Care.png",
+            "source": "The Indian Practitioner",
+            "score": 3,
+            "added_time": "2026-02-08T07:57:45.882637+00:00"
+        },
+        {
+            "story_id": "bf7ddd35f5fb1350d6870b229c3416b2",
+            "topic": "General",
+            "subtopics": [
+                "Degrees without debt: 10 countries redefining affordable education in 2026"
+            ],
+            "title": "Degrees without debt: 10 countries redefining affordable education in 2026",
+            "desc": "Studying abroad remains a major goal for many students around the world. However, high tuition fees and the cost of living in popular...",
+            "url": "https://businessday.ng/bd-weekender/article/degrees-without-debt-10-countries-redefining-affordable-education-in-2026/",
+            "image": "https://cdn.businessday.ng/wp-content/uploads/2026/02/Students-can-study-abroad-without-debt-Top-10-countries-for-2026.png",
+            "source": "Businessday NG",
+            "score": 4,
+            "added_time": "2026-02-08T07:57:45.882643+00:00"
         }
     ],
     "posted": [
@@ -1532,13 +1658,25 @@
             "source": "India News Network",
             "score": 5,
             "added_time": "2026-02-07T08:17:42.380570+00:00"
+        },
+        {
+            "story_id": "30e0691aba1e11cfd7c207060071946f",
+            "topic": "Apa Psycarticles",
+            "subtopics": [
+                "Effect of Digital Health Interventions on College Students\u2019 Lifestyle Behaviors: Systematic Review"
+            ],
+            "title": "Effect of Digital Health Interventions on College Students\u2019 Lifestyle Behaviors: Systematic Review",
+            "desc": "Background: College students undergo a critical transition from adolescence to adulthood, during which lifestyle behaviors such as physical activity, sedentary behavior, diet, and sleep are key determinants of long-term health. Digital health interventions (DHIs) are increasingly recognized as a promising strategy for improving these behaviors among college students.\nObjective: This systematic review aims to evaluate the effectiveness and applicability of DHIs targeting lifestyle behaviors among college students by analyzing intervention objectives, modalities, functionalities, outcomes, and other key characteristics.\nMethods: In accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 guidelines, multiple scientific databases, including Scopus, Web of Science, PubMed, MEDLINE, PsycINFO, SPORTDiscus, ProQuest Central, APA PsycArticles, ERIC, and Academic Search Premier, were searched for studies published between January 2010 and December 2025 (initial search: August 5, 2025; updated search: December 27, 2025). The inclusion criteria were original empirical studies on DHIs targeting lifestyle behaviors (physical activity, sedentary behavior, diet, and sleep) among college students, published in English. Studies focusing on nondigital interventions, lacking sufficient methodological details, or not reporting lifestyle behavior\u2013related outcomes were excluded. Quality assessment was conducted in 2 stages: all studies were first evaluated using the Mixed Methods Appraisal Tool (2018 version), followed by Risk of Bias 2 for randomized controlled trials and Joanna Briggs Institute critical appraisal tools for nonrandomized studies. A narrative synthesis was used to present and synthesize the findings.\nResults: A total of 2998 records were retrieved, of which 46 publications met the inclusion criteria. These included 30 (65%) studies related to physical activity, 26 (57%) studies to diet, 10 (22%) studies related to sedentary behavior, and 6 (13%) studies related to sleep. This review enabled an examination of the effects of DHIs on college students\u2019 lifestyle behaviors. DHIs primarily used mobile apps, web-based platforms, and mobile communication technologies, with core functionalities such as education, guidance, monitoring, and prompting. DHIs were more effective in improving physical activity and diet; however, evidence for reducing sedentary behavior and improving sleep remained limited. Of the 46 studies, 31 (67%) reported positive effects, with larger sample sizes and intervention durations of 8-16 weeks being associated with more favorable outcomes.\nConclusions: This review focuses on college students, addressing a gap in the literature that often centers on general adult populations. Unlike previous reviews that focus on a single behavior, this study integrates multiple lifestyle behaviors and evaluates DHIs across diverse modalities and functionalities. These contributions help refine future DHIs for college students and inform health promotion strategies in higher education. Although DHIs show potential for improving lifestyle behaviors, evidence of their long-term effectiveness remains limited. Future interventions should prioritize multibehavior integration, interactivity, and population-differentiated design to enhance precision, sustainability, and equity. This study has several limitations, including issues related to sample representativeness, intervention refinement, and methodological rigor.\nTrial Registration: PROSPERO CRD420251119078; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251119078",
+            "url": "https://www.jmir.org/2026/1/e82192",
+            "image": "https://asset.jmir.pub/assets/0395c79956e31f6349483453220de421.png",
+            "source": "Journal of Medical Internet Research",
+            "score": 4,
+            "added_time": "2026-02-05T08:29:32.452790+00:00"
         }
     ],
     "recent_topics": {
-        "Ai": "2026-02-05T20:20:51.274746+00:00",
-        "Australia": "2026-02-06T01:00:22.865315+00:00",
-        "Mann Ki Baat": "2026-02-06T12:31:17.163777+00:00",
         "Ev": "2026-02-07T01:00:08.141684+00:00",
-        "Mediatek": "2026-02-07T08:17:42.380649+00:00"
+        "Mediatek": "2026-02-07T08:17:42.380649+00:00",
+        "Apa Psycarticles": "2026-02-08T07:57:45.882679+00:00"
     }
 }
