@@ -215,6 +215,37 @@ def get_weighted_embeddings(articles, entity_weight=0.8):
     final_emb = final_emb / np.linalg.norm(final_emb, axis=1, keepdims=True)
     return final_emb
 
+# 3. Utility: Convert Noise (-1) to individual clusters
+def convert_noise_to_clusters(labels):
+    new_labels = labels.copy()
+    # Start new IDs from the current max label + 1
+    max_label = max(labels) if len(labels) > 0 else 0
+
+    for i, label in enumerate(labels):
+        if label == -1:
+            max_label += 1
+            new_labels[i] = max_label
+    return new_labels
+
+def cluster_hdbscan_emb(articles):
+    embeddings = get_weighted_embeddings(articles)
+
+    clusterer = hdbscan.HDBSCAN(
+        min_cluster_size=2,
+        min_samples=2,
+        metric='euclidean',
+        cluster_selection_method='leaf' # 'leaf' is tighter for news
+    )
+
+    labels = clusterer.fit_predict(embeddings)
+    labels = convert_noise_to_clusters(labels)
+    
+    # Re-grouping into list of indices
+    clusters_dict = defaultdict(list)
+    for i, label in enumerate(labels):
+        clusters_dict[label].append(i)
+    
+    return list(clusters_dict.values())
 
 def cluster_articles(articles, threshold=0.40):
     texts = []
