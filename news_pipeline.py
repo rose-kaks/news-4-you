@@ -197,7 +197,7 @@ def normalize_topic(name, label=None):
 # 1. Initialize Model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# 2. Embedding Logic
+# 2. Extract Sentence Embedding Logic
 def get_weighted_embeddings(articles, entity_weight=0.8):
     texts, entity_texts = [], []
 
