@@ -16,6 +16,11 @@ except LookupError:
 from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 from rapidfuzz import process, fuzz
+from sentence_transformers import SentenceTransformer
+import numpy as np
+from sentence_transformers import SentenceTransformer
+import hdbscan
+from collections import defaultdict
 
 
 DB_FILE = "queue_db.json"
@@ -128,6 +133,8 @@ def fetch_master_news(query):
 
 # ---------------- NLP + SIMILARITY ----------------
 
+# Entity Normalization
+
 lemmatizer = WordNetLemmatizer()
 
 KNOWN_ENTITIES = [
@@ -184,6 +191,8 @@ def normalize_topic(name, label=None):
 
     # Fallback formatting
     return name.title()
+
+# Article Clustering into Stories
 
 def cluster_articles(articles, threshold=0.40):
     texts = []
