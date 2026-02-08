@@ -5,7 +5,10 @@ An end-to-end AI system that:
 **Fetches news → Clusters into stories → Picks best article → Designs Instagram carousel → Auto-posts**
 
 Built for fully automated news storytelling!
+
 Check out our instagram handle [@news4you2026](https://www.instagram.com/news4you2026)
+
+Have some questions?: rose.harshita.priya.pearl@gmail.com
 
 ---
 
@@ -151,4 +154,5 @@ Then publishes a **carousel post** automatically.
 ---
 
 If something fails: check API keys first 🔑
+
 **Made with ♡**
