@@ -58,14 +58,14 @@ def wait_until_ready(creation_id, timeout=120):
 def create_carousel_container(children_ids, caption):
     payload = {
         "media_type": "CAROUSEL",
-        "children": ",".join(children_ids),
+        "children": children_ids, # Pass as a list, not a joined string
         "caption": caption,
         "access_token": ACCESS_TOKEN
     }
 
     r = requests.post(
         f"{GRAPH_API}/{INSTAGRAM_USER_ID}/media",
-        data=payload
+        json=payload
     )
     data = r.json()
     print("INSTAGRAM RESPONSE:", data)
@@ -97,6 +97,15 @@ def publish_container(creation_id, retries=3):
 
 
 def post_carousel(image_urls, caption):
+    if len(image_urls) > 10:
+        print(f"⚠️ Warning: {len(image_urls)} slides provided. Capping at 10.")
+        image_urls = image_urls[:10]
+        
+    # Instagram's minimum is 2
+    if len(image_urls) < 2:
+        print("❌ Not enough slides for a carousel.")
+        return False
+    
     child_ids = []
 
     # 1️⃣ create child containers

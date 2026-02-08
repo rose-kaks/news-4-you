@@ -330,7 +330,10 @@ def generate_carousel(article, topic):
     
     # 2. Split it into pages (chunks of ~400 chars)
     # If desc is 1200 chars, this creates 3 chunks
-    description_chunks = split_text_into_slides(full_desc, max_chars=400)
+    description_chunks = split_text_into_slides(full_desc, max_chars=300)
+
+    if not description_chunks and full_desc:
+        description_chunks = [full_desc]
 
     for i, chunk in enumerate(description_chunks):
         # Create a fresh dark slide for each chunk
@@ -377,6 +380,10 @@ def generate_carousel(article, topic):
         slide_paths.append(p_name)
         time.sleep(0.1) # Unique timestamps
 
+        if len(slide_paths) > 10:
+            print(f"✂️ Truncating {len(slide_paths)} slides down to 10")
+            slide_paths = slide_paths[:10]
+            
     return slide_paths
   
 
