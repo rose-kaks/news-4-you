@@ -26,20 +26,20 @@ mstack_key = os.getenv("MEDIASTACK_KEY")
 
 nlp = spacy.load("en_core_web_sm")
 
-#---------summarize text -----------------
-def summarize_text(text, max_sentences=2):
-    if not text or len(text) <= 200:
-        return text
+# #---------summarize text -----------------
+# def summarize_text(text, max_sentences=2):
+#     if not text or len(text) <= 200:
+#         return text
     
-    doc = nlp(text)
-    sentences = [sent.text.strip() for sent in doc.sents]
+#     doc = nlp(text)
+#     sentences = [sent.text.strip() for sent in doc.sents]
     
-    summary = " ".join(sentences[:max_sentences])
+#     summary = " ".join(sentences[:max_sentences])
     
-    if len(summary) > 200:
-        summary = summary[:200] + "..."
+#     if len(summary) > 200:
+#         summary = summary[:200] + "..."
         
-    return summary
+#     return summary
 
 # ---------------- DB ----------------
 def load_db():
