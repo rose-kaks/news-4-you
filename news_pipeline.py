@@ -380,6 +380,9 @@ def clean_recent_topics(db):
 
     db["recent_topics"] = new_recent
 
+
+QUEUE_TTL_HOURS = 24   # Auto-delete queue items older than this
+
 def get_next_post(db):
     if not db["queue"]:
         return None
