@@ -186,11 +186,6 @@ def normalize_topic(name, label=None):
     return name.title()
 
 def cluster_articles(articles, threshold=0.40):
-    # texts = [
-    #     (a.get("title", "") + " " + a.get("title", "") + " " + a.get("desc", "")).lower()
-    #     for a in articles
-    # ]
-
     texts = []
     for a in articles:
         entity_blob = " ".join(a.get("entities", []))
