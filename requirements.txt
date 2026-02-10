@@ -9,3 +9,5 @@ numpy
 requests
 Pillow
 cloudinary
+transformers
+datasets
