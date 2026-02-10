@@ -15,20 +15,6 @@
             "added_time": "2026-02-10T06:54:29.553822+00:00"
         },
         {
-            "story_id": "d070f0a1a110f1961cc50d50c9afed9b",
-            "topic": "Vikram Misri",
-            "subtopics": [
-                "Now foreign secretary Vikram Misri asked about Russian oil imports. He explains"
-            ],
-            "title": "Now foreign secretary Vikram Misri asked about Russian oil imports. He explains",
-            "desc": "The external affairs ministry has long maintained that national interest and ensuring the country\u2019s energy security are the main factors of energy sourcing| India News",
-            "url": "https://www.hindustantimes.com/india-news/now-foreign-secretary-vikram-misri-asked-about-russian-oil-imports-he-explains-101770648713452.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/09/550x309/Foreign-secretary-Vikram-Misri--ANI-_1770648707582.jpg",
-            "source": "Hindustan Times",
-            "score": 3,
-            "added_time": "2026-02-10T06:54:29.553831+00:00"
-        },
-        {
             "story_id": "a143571885196c01538c7201f58daa31",
             "topic": "Pwc",
             "subtopics": [
@@ -111,23 +97,23 @@
             "source": "openPR.com",
             "score": 3,
             "added_time": "2026-02-10T06:54:29.553880+00:00"
+        },
+        {
+            "story_id": "20e1d820872ecc40c322e9662dcec0b3",
+            "topic": "Insights Daily Current Affairs Insights Daily Current Affairs",
+            "subtopics": [
+                "INSIGHTS Daily Current Affairs"
+            ],
+            "title": "INSIGHTS Daily Current Affairs",
+            "desc": "INSIGHTS Daily Current Affairs for 9 February 2026 covering GS I\u2013IV topics including social media ban, NbS, AI Summit, Project Tiger, KFD, trade, and mapping.",
+            "url": "https://www.insightsonindia.com/2026/02/09/upsc-current-affairs-9-february-2026/",
+            "image": "https://www.insightsonindia.com/wp-content/uploads/2026/02/Social-Media-Ban.jpg",
+            "source": "INSIGHTS IAS",
+            "score": 3,
+            "added_time": "2026-02-10T08:39:25.419163+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "53da2fa05da4d38ef87c2e65b4a2dbd1",
-            "topic": "India",
-            "subtopics": [
-                "21-Year Tax Holiday, Rs 2,000 Crore Safe Harbour: India's Data Centre Bet"
-            ],
-            "title": "21-Year Tax Holiday, Rs 2,000 Crore Safe Harbour: India's Data Centre Bet",
-            "desc": "India has offered foreign companies providing cloud services a 21-year tax holiday in return for setting up data centres in the country, in an announcement designed to boost the growth of the information technology and artificial intelligence spaces.",
-            "url": "https://www.ndtv.com/india-news/union-budget-2026-news-tax-holiday-til-2047-for-artificial-intelligence-data-centres-in-india-10929254",
-            "image": "https://c.ndtvimg.com/2024-05/evpggus_data-centre-generic_625x300_15_May_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-            "source": "NDTV",
-            "score": 7,
-            "added_time": "2026-02-02T16:49:42.853094+00:00"
-        },
         {
             "story_id": "0441d9c8d79dfb1540fbdeece0834774",
             "topic": "The Union Budget 2026",
@@ -824,10 +810,25 @@
             "source": "The Economic Times",
             "score": 4,
             "added_time": "2026-02-10T06:54:29.553801+00:00"
+        },
+        {
+            "story_id": "d070f0a1a110f1961cc50d50c9afed9b",
+            "topic": "Vikram Misri",
+            "subtopics": [
+                "Now foreign secretary Vikram Misri asked about Russian oil imports. He explains"
+            ],
+            "title": "Now foreign secretary Vikram Misri asked about Russian oil imports. He explains",
+            "desc": "The external affairs ministry has long maintained that national interest and ensuring the country\u2019s energy security are the main factors of energy sourcing| India News",
+            "url": "https://www.hindustantimes.com/india-news/now-foreign-secretary-vikram-misri-asked-about-russian-oil-imports-he-explains-101770648713452.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/09/550x309/Foreign-secretary-Vikram-Misri--ANI-_1770648707582.jpg",
+            "source": "Hindustan Times",
+            "score": 3,
+            "added_time": "2026-02-10T06:54:29.553831+00:00"
         }
     ],
     "recent_topics": {
         "India": "2026-02-10T06:54:29.553896+00:00",
-        "Deeptech": "2026-02-10T07:04:43.483789+00:00"
+        "Deeptech": "2026-02-10T07:04:43.483789+00:00",
+        "Vikram Misri": "2026-02-10T08:39:25.419196+00:00"
     }
 }
