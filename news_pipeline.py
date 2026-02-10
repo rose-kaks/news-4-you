@@ -52,8 +52,8 @@ def summarize(text):
     if len(text) < 70:
         return text
     
-    inputs = tokenizer.encode("summarize: " + text, return_tensors="pt", max_length=1024, truncation=True)
-    summary_ids = model_summary.generate(inputs, max_new_tokens=25, length_penalty=0.6, num_beams=5, early_stopping=False, no_repeat_ngram_size=2)
+    inputs = tokenizer.encode("headline: " + text, return_tensors="pt", max_length=1024, truncation=True)
+    summary_ids = model_summary.generate(inputs, max_new_tokens=40, length_penalty=1, num_beams=5, do_sample=False, early_stopping=False, eos_token_id=tokenizer.eos_token_id, length_penalty=1.0 )     
     return tokenizer.decode(summary_ids[0], skip_special_tokens=True)
 
 # --------------------------------------------------
