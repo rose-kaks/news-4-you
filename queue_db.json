@@ -115,20 +115,6 @@
     ],
     "posted": [
         {
-            "story_id": "0441d9c8d79dfb1540fbdeece0834774",
-            "topic": "The Union Budget 2026",
-            "subtopics": [
-                "Budget 2026 Highlights LIVE Updates: FM Nirmala Sitharaman Union Budget Speech & Key Highlights"
-            ],
-            "title": "Budget 2026 Highlights LIVE Updates: FM Nirmala Sitharaman Union Budget Speech & Key Highlights",
-            "desc": "Budget 2026 Highlights | FM Nirmala Sitharaman Union Budget Speech, Key Highlights Live updates: Check out the key focus areas areas of the Union Budget 2026 speech by FM Nirmala Sitharaman, highlights, summaries, income tax slabs, policy announcements and economic outlook in real time.",
-            "url": "https://indianexpress.com/article/india/budget-2026-live-updates-nirmala-sitharaman-union-budget-highlights-income-tax-slabs-goods-cost-10505936/",
-            "image": "https://images.indianexpress.com/2026/02/Union-Budget-2026-Nirmala-Sitharaman.jpg.jpeg",
-            "source": "The Indian Express",
-            "score": 7,
-            "added_time": "2026-02-02T16:49:42.853119+00:00"
-        },
-        {
             "story_id": "c43ef5a7e77342343600ed810be2081c",
             "topic": "Nirmala Sitharaman",
             "subtopics": [
@@ -824,11 +810,26 @@
             "source": "Hindustan Times",
             "score": 3,
             "added_time": "2026-02-10T06:54:29.553831+00:00"
+        },
+        {
+            "story_id": "c02ce135bb522410273ddaabd3357821",
+            "topic": "Toi",
+            "subtopics": [
+                "Read, think, don't scroll: PM Modi recalls learning from TOI in Pariksha Pe Charcha"
+            ],
+            "title": "PM Modi recalls learning from TOI in Pariksha",
+            "desc": "India News: NEW DELHI: Long before smartphones, search engines and AI entered classrooms, PM Modi said one habit shaped his thinking as a student - reading the ne.",
+            "url": "https://timesofindia.indiatimes.com/india/read-think-dont-scroll-pm-modi-recalls-learning-from-toi-in-pariksha-pe-charcha/articleshow/128132083.cms",
+            "image": "https://static.toiimg.com/thumb/msid-128132210,width-1280,height-720,imgsize-1251457,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 4,
+            "added_time": "2026-02-10T10:54:22.816520+00:00"
         }
     ],
     "recent_topics": {
         "India": "2026-02-10T06:54:29.553896+00:00",
         "Deeptech": "2026-02-10T07:04:43.483789+00:00",
-        "Vikram Misri": "2026-02-10T08:39:25.419196+00:00"
+        "Vikram Misri": "2026-02-10T08:39:25.419196+00:00",
+        "Toi": "2026-02-10T10:54:22.816628+00:00"
     }
 }
