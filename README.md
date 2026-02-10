@@ -63,7 +63,7 @@ Have some questions?: rose.harshita.priya.pearl@gmail.com
 ### 1️⃣ Install Dependencies (requirements.txt is provided)
 
 ```bash
-pip install spacy sentence-transformers hdbscan rapidfuzz nltk pillow cloudinary requests scikit-learn
+pip install spacy sentence-transformers hdbscan rapidfuzz nltk pillow cloudinary requests scikit-learn torch numpy
 python -m spacy download en_core_web_sm
 ```
 
