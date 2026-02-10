@@ -128,22 +128,20 @@ def split_text_into_slides(text, max_chars=400):
     words = text.split()
     slides = []
     current = []
-    length = 0
+    current_len = 0
 
     for w in words:
-        if length + len(w) + 1 <= max_chars:
+        # +1 for the space
+        if current_len + len(w) + 1 <= max_chars:
             current.append(w)
-            length += len(w) + 1
+            current_len += len(w) + 1
         else:
             slides.append(" ".join(current))
             current = [w]
-            length = len(w)
-
+            current_len = len(w)
     if current:
         slides.append(" ".join(current))
-
     return slides
-
 
 # --------------------------------------------------
 # MAIN
@@ -205,26 +203,61 @@ def generate_carousel(article, topic):
     img.save(p1, quality=95, optimize=True)
     slide_paths.append(p1)
 
-    chunks = split_text_into_slides(article.get("desc", ""), 400)
+# ================= SLIDE 2+ (DESCRIPTION PAGES) =================
 
-    for i, chunk in enumerate(chunks):
+    # 1. Get the FULL description (no cutting in news_pipeline.py!)
+    full_desc = article.get("desc", "").strip()
+
+    # 2. Split it into pages (chunks of ~400 chars)
+    # If desc is 1200 chars, this creates 3 chunks
+    description_chunks = split_text_into_slides(full_desc, max_chars=400)
+    
+    if not description_chunks and full_desc:
+        description_chunks = [full_desc]
+
+    for i, chunk in enumerate(description_chunks):
+        # Create a fresh dark slide for each chunk
         img = Image.new("RGB", (WIDTH, HEIGHT), (18, 18, 18))
         draw = ImageDraw.Draw(img)
         draw_branding(draw, WIDTH, HEIGHT)
 
-        label = f"{topic.upper()} ({i+1}/{len(chunks)})" if len(chunks) > 1 else topic.upper()
-        draw.text((margin_x, 80), label, fill="#888888", font=meta_font)
+        # Header: Topic + Page Number (e.g., TECHNOLOGY 1/3)
+        page_label = f" ({i+1}/{len(description_chunks)})" if len(description_chunks) > 1 else ""
+        draw.text((margin_x, 80), topic.upper() + page_label, fill="#888888", font=meta_font)
 
+        # 1. Calculate the height first using your measurement helper
         total_h, _ = calculate_text_height(draw, chunk, body_font, max_width, 22)
+
+        # 2. Do the centering math here: (Canvas Height - Text Height) / 2
         centered_y = (HEIGHT - total_h) // 2
 
-        draw_wrapped_text(draw, chunk, body_font, margin_x, centered_y, max_width, "white", 22)
+        # 3. Pass that calculated 'centered_y' into your original function
+        draw_wrapped_text(
+            draw, 
+            chunk, 
+            body_font, 
+            margin_x, 
+            centered_y,  # Pass the calculated Y instead of 0
+            max_width, 
+            "white", 
+            22
+        )
 
-        p = f"slide_content_{i}_{int(time.time())}.png"
-        img.save(p, quality=95, optimize=True)
-        slide_paths.append(p)
+    
+        # Footer Source (Only on the very last slide)
+        if i == len(description_chunks) - 1:
+            draw.text((margin_x, HEIGHT - 130), f"Source: {article.get('source', 'News')}", fill="#666666", font=meta_font)
+        else:
+            # Optional: Add "Continued..." or an Arrow on intermediate slides
+            arrow_font = get_font(50, bold=True)
+            draw.text((WIDTH - 150, HEIGHT - 150), "→", fill="#3aa0ff", font=arrow_font)
 
-        if len(slide_paths) >= 10:
-            break
+        p_name = f"slide_content_{i}_{int(time.time())}.png"
+        img.save(p_name, quality=95, optimize=True)
+        slide_paths.append(p_name)
+        time.sleep(0.1) # Unique timestamps
 
+        if len(slide_paths) > 10:
+            print(f"✂️ Truncating {len(slide_paths)} slides down to 10")
+            slide_paths = slide_paths[:10]
     return slide_paths
