@@ -41,23 +41,93 @@
             "source": "INSIGHTS IAS",
             "score": 3,
             "added_time": "2026-02-10T08:39:25.419163+00:00"
+        },
+        {
+            "story_id": "e41fd2e07483ee61d1dd7f254b1a527e",
+            "topic": "Ai",
+            "subtopics": [
+                "Telstra to axe more than 200 jobs amid AI rollout"
+            ],
+            "title": "Telstra to axe more than 200 jobs amid AI rollout",
+            "desc": "Some jobs will be moved offshore in wake of telco\u2019s $700m joint venture with tech consultancy Accenture",
+            "url": "https://www.theguardian.com/business/2026/feb/10/telstra-ai-job-cuts-offshore-workforce",
+            "image": "https://i.guim.co.uk/img/media/18f1e2d8bf1c992ff57d47f06323278cf9b04575/497_0_4974_3980/master/4974.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=80a290829cbf66263e61b0322fe8a9a2",
+            "source": "The Guardian",
+            "score": 2,
+            "added_time": "2026-02-10T20:35:52.384890+00:00"
+        },
+        {
+            "story_id": "a91002a984257706af8d994b3f8a3431",
+            "topic": "Opv",
+            "subtopics": [
+                "Improved immunisation key to tackling variant poliovirus strains"
+            ],
+            "title": "Improved immunisation key to tackling variant poliovirus strains",
+            "desc": "In areas with persistently poor vaccine coverage, variant strains can emerge, primarily through viral recombination events between OPV strains and other enteroviruses.",
+            "url": "https://www.tribuneindia.com/news/health/improved-immunisation-key-to-tackling-variant-poliovirus-strains/",
+            "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU5MjlkZjMwLTA2NTEtMTFmMS04MzhhLTdiNTZlMzViOTYwMC5qcGc=",
+            "source": "Tribune India",
+            "score": 3,
+            "added_time": "2026-02-10T20:35:53.456667+00:00"
+        },
+        {
+            "story_id": "25fa35286c109d59fc1137836ff25217",
+            "topic": "Discover",
+            "subtopics": [
+                "No more, no less: how the conversation around cancer surgery has changed"
+            ],
+            "title": ": No more, no less: how the conversation around cancer surgery has changed",
+            "desc": "Discover how advancements in cancer surgery prioritize tailored treatments, preserving patient quality of life while effectively targeting tumors.",
+            "url": "https://www.thehindu.com/sci-tech/health/no-more-no-less-how-the-conversation-around-cancer-surgery-has-changed/article70599658.ece",
+            "image": "https://th-i.thgim.com/public/incoming/2rhw0v/article70613973.ece/alternates/LANDSCAPE_1200/IMG_iStock-1375287155_2_1_VBCGUHCS.jpg",
+            "source": "thehindu.com",
+            "score": 4,
+            "added_time": "2026-02-10T20:35:53.944650+00:00"
+        },
+        {
+            "story_id": "778704d4a376cdfff946a0a0cb43e9e8",
+            "topic": "The Ministry Of Home Affairs",
+            "subtopics": [
+                "Digital Arrests | MHA Proposes SOP Before Supreme Court, RBI To Consider Staff Accountability & Liability Framework"
+            ],
+            "title": "Supreme Court, RBI To Consider Staff Accountability & Liability Framework, RBI To Consider Staff Accountability & Responsability & Liability Framework, RBI To Consider Staff Accountability",
+            "desc": "In the suo motu case taken up by the Supreme Court over \\\"digital arrest scams\\\", the Ministry of Home Affairs has filed a status report proposing a Standard Operating Procedure to strengthen...",
+            "url": "https://www.livelaw.in/top-stories/supreme-court-digital-arrest-scam-suo-motu-mha-status-report-sop-rbi-cbi-dot-meity-victim-compensation-liability-framework-522549",
+            "image": "https://www.livelaw.in/h-upload/2025/10/17/626542-digital-arrest.jpg",
+            "source": "Live Law",
+            "score": 3,
+            "added_time": "2026-02-10T20:35:55.017506+00:00"
+        },
+        {
+            "story_id": "539e59f8bee7eddabcfca31e25dda732",
+            "topic": "Nothing Phone 4A",
+            "subtopics": [
+                "Nothing Phone 4a series new colour options teased ahead of March 2026 launch"
+            ],
+            "title": "Nothing Phone 4a series new colour options teased ahead of March 2026 launch",
+            "desc": "Nothing Phone 4a series smartphones are set to make their debut soon in India and other global markets.\u00a0| Technology News",
+            "url": "https://www.hindustantimes.com/technology/nothing-phone-4a-series-new-colour-options-teased-ahead-of-march-2026-launch-101770706035192.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/10/550x309/Nothing_Phone_4a_series_1770706424760_1770706424987.jpg",
+            "source": "Hindustan Times",
+            "score": 3,
+            "added_time": "2026-02-10T20:35:55.533000+00:00"
+        },
+        {
+            "story_id": "90261b00c266ba8f67efe472d44cfd88",
+            "topic": "The United States",
+            "subtopics": [
+                "US and Bangladesh strike new trade deal - key terms of the agreement"
+            ],
+            "title": "US and Bangladesh strike new trade deal - key terms of the agreement",
+            "desc": "International Business News: The United States and Bangladesh on Monday finalised the United States\u2013Bangladesh Agreement on Reciprocal Trade, wrapping up negotiations as both coun.",
+            "url": "https://timesofindia.indiatimes.com/business/international-business/us-and-bangladesh-strike-new-trade-deal-key-terms-of-the-agreement/articleshow/128138647.cms",
+            "image": "https://static.toiimg.com/thumb/msid-128138700,width-1280,height-720,imgsize-2953622,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "The Times of India",
+            "score": 3,
+            "added_time": "2026-02-10T20:35:55.533033+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "796c811f2818c5a9b097a9e95157dee1",
-            "topic": "Apple",
-            "subtopics": [
-                "Apple iPhone 18 Pro, Pro Max could arrive with bigger batteries and new A20 Pro chip"
-            ],
-            "title": "Apple iPhone 18 Pro, Pro Max could arrive with bigger batteries and new A20 Pro chip",
-            "desc": "Apple\u2019s iPhone 18 Pro and Pro Max are tipped for a September 2026 launch with camera upgrades, a new A20 Pro chip, bigger battery and refined design. India availability is expected soon after, alongside rumours of Apple\u2019s first foldable iPhone. Here's all you expect on the upcoming Apple flagships.",
-            "url": "https://www.livemint.com/technology/tech-news/apple-iphone-18-pro-pro-max-could-arrive-with-bigger-batteries-and-new-a20-pro-chip-11769952364506.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/02/01/1600x900/logo/Gemini_Generated_Image_s8bpi8s8bpi8s8bp_1761963085_1769952688059_1769952688174.png",
-            "source": "Mint",
-            "score": 3,
-            "added_time": "2026-02-02T12:20:27.326352+00:00"
-        },
         {
             "story_id": "7876cc7457a83ea7ba699af89cf5bed5",
             "topic": "Singapore",
@@ -754,6 +824,20 @@
             "source": "openPR.com",
             "score": 3,
             "added_time": "2026-02-10T06:54:29.553880+00:00"
+        },
+        {
+            "story_id": "3866f3f418ddd3f70ddf7fbc571ad4d0",
+            "topic": "Ncdex, Metropolitan Stock Exchange",
+            "subtopics": [
+                "SEBI stalls entry of NCDEX, Metropolitan Stock Exchange into options market: Report"
+            ],
+            "title": "SEBI stalls entry of NCDEX, Metropolitan Stock Exchange into options market: Report",
+            "desc": "SEBI stops two exchanges from offering equity options; regulator wants exchanges to build share-trading businesses first, says report",
+            "url": "https://www.moneycontrol.com/news/business/markets/sebi-stalls-entry-of-ncdex-metropolitan-stock-exchange-into-options-market-report-13821353.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251031065616_SEBI2.jpg",
+            "source": "Moneycontrol",
+            "score": 4,
+            "added_time": "2026-02-10T20:35:53.456633+00:00"
         }
     ],
     "recent_topics": {
@@ -765,6 +849,7 @@
         "Roberts": "2026-02-10T11:40:05.197683+00:00",
         "Hpv": "2026-02-10T12:02:06.111948+00:00",
         "Sustainable Development Goals": "2026-02-10T12:46:09.798995+00:00",
-        "Invensense": "2026-02-10T16:53:37.184287+00:00"
+        "Invensense": "2026-02-10T16:53:37.184287+00:00",
+        "Ncdex, Metropolitan Stock Exchange": "2026-02-10T20:35:55.533062+00:00"
     }
 }
