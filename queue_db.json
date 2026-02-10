@@ -29,20 +29,6 @@
             "added_time": "2026-02-10T06:54:29.553866+00:00"
         },
         {
-            "story_id": "506ac1d355b974f791943de65acb861e",
-            "topic": "Invensense",
-            "subtopics": [
-                "Wearables Inertial Measurement Unit Market Set"
-            ],
-            "title": "Wearables Inertial Measurement Unit Market Set",
-            "desc": "Press release - Coherent Market Insights Pvt. Ltd - Wearables Inertial Measurement Unit Market Set for Transformation Through 2033 | Bosch Sensortec ? STMicroelectronics ? InvenSense - published on openPR.com",
-            "url": "https://www.openpr.com/news/4382175/wearables-inertial-measurement-unit-market-set",
-            "image": "https://cdn.open-pr.com/L/2/L209761705_g.jpg",
-            "source": "openPR.com",
-            "score": 3,
-            "added_time": "2026-02-10T06:54:29.553880+00:00"
-        },
-        {
             "story_id": "20e1d820872ecc40c322e9662dcec0b3",
             "topic": "Insights Daily Current Affairs Insights Daily Current Affairs",
             "subtopics": [
@@ -58,20 +44,6 @@
         }
     ],
     "posted": [
-        {
-            "story_id": "908b892a78268c25a1114245b49e13c2",
-            "topic": "Karnataka",
-            "subtopics": [
-                "Karnataka is biggest gainer, Madhya Pradesh biggest loser under 16th Finance Commission formula"
-            ],
-            "title": "Karnataka is biggest gainer, Madhya Pradesh biggest loser under 16th Finance Commission formula",
-            "desc": "Large, population-heavy states also see reduced allocations. Uttar Pradesh loses Rs 4,884 crore, while West Bengal sees a cut of Rs 4,701 crore.",
-            "url": "https://www.moneycontrol.com/news/business/economy/karnataka-is-biggest-gainer-madhya-pradesh-biggest-loser-under-16th-finance-commission-formula-13803907.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260201114556_nirmala.png",
-            "source": "Moneycontrol",
-            "score": 3,
-            "added_time": "2026-02-02T12:20:27.326336+00:00"
-        },
         {
             "story_id": "796c811f2818c5a9b097a9e95157dee1",
             "topic": "Apple",
@@ -768,6 +740,20 @@
             "source": "Nature",
             "score": 3,
             "added_time": "2026-02-10T06:54:29.553859+00:00"
+        },
+        {
+            "story_id": "506ac1d355b974f791943de65acb861e",
+            "topic": "Invensense",
+            "subtopics": [
+                "Wearables Inertial Measurement Unit Market Set"
+            ],
+            "title": "Wearables Inertial Measurement Unit Market Set",
+            "desc": "Press release - Coherent Market Insights Pvt. Ltd - Wearables Inertial Measurement Unit Market Set for Transformation Through 2033 | Bosch Sensortec ? STMicroelectronics ? InvenSense - published on openPR.com",
+            "url": "https://www.openpr.com/news/4382175/wearables-inertial-measurement-unit-market-set",
+            "image": "https://cdn.open-pr.com/L/2/L209761705_g.jpg",
+            "source": "openPR.com",
+            "score": 3,
+            "added_time": "2026-02-10T06:54:29.553880+00:00"
         }
     ],
     "recent_topics": {
@@ -778,6 +764,7 @@
         "Pwc": "2026-02-10T11:05:52.628898+00:00",
         "Roberts": "2026-02-10T11:40:05.197683+00:00",
         "Hpv": "2026-02-10T12:02:06.111948+00:00",
-        "Sustainable Development Goals": "2026-02-10T12:46:09.798995+00:00"
+        "Sustainable Development Goals": "2026-02-10T12:46:09.798995+00:00",
+        "Invensense": "2026-02-10T16:53:37.184287+00:00"
     }
 }
