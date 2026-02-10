@@ -1,1065 +1,133 @@
 {
     "queue": [
         {
-            "story_id": "bc6d0651a33a0228b4ea2ac356603c4a",
-            "topic": "B.C.",
+            "story_id": "b4d7f119c7bf2558c46ae22e1565874a",
+            "topic": "Deeptech",
             "subtopics": [
-                "Owner of B.C. ghost town wants to turn Kitsault into energy hub"
+                "India can no longer rely on IT service exports; need to move focus to deeptech, hardware: Nithin Kamath"
             ],
-            "title": "Owner of B.C. ghost town wants to turn Kitsault into energy hub",
-            "desc": "Krishnan Suthanthiran wants two pipelines connecting Alberta to the coast to export oil and natural gas",
-            "url": "https://www.theglobeandmail.com/business/article-kitsault-bc-energy-krishnan-suthanthiran/",
-            "image": "https://www.theglobeandmail.com/resizer/v2/N77FB4ZMFNGD7PGUCRNKLYGJLE.JPG?auth=d31769ae3a4046ece5f8cb3d847d0cf0b36f55cb5a941e37278912620373f753&width=1200&height=800&quality=80&smart=true",
-            "source": "The Globe and Mail",
-            "score": 2,
-            "added_time": "2026-02-02T12:20:27.326329+00:00"
-        },
-        {
-            "story_id": "6547b1f42657f94578da9c1d45deec76",
-            "topic": "India",
-            "subtopics": [
-                "More lethal than BrahMos, smarter than Agni-5 missile, will first lock its target, then confirm, then go for kill\u2026 IAF\u2019s next-generation Cruise Missile to\u2026"
-            ],
-            "title": "More lethal than BrahMos, smarter than Agni-5 missile, will first lock its target, then confirm, then go for kill\u2026 IAF\u2019s next-generation Cruise Missile to\u2026",
-            "desc": "India is continuously adding weapons to its arsenal that utilize cutting-edge technology. Along with developing 5th and 6th generation technology, India is also very serious about missile technology.",
-            "url": "https://www.india.com/news/india/more-lethal-than-brahmos-smarter-than-agni-5-missile-will-first-lock-its-target-then-confirm-then-go-for-kill-iafs-next-generation-cruise-missile-to-8237985/",
-            "image": null,
-            "source": "India.com",
-            "score": 1,
-            "added_time": "2026-02-02T12:20:27.326391+00:00"
-        },
-        {
-            "story_id": "fbb562bdb98a9cd02a94e63b7b07bef5",
-            "topic": "India",
-            "subtopics": [
-                "India courts Big Tech with long\u2011term tax breaks as it doubles down on AI ambitions"
-            ],
-            "title": "India courts Big Tech with long\u2011term tax breaks as it doubles down on AI ambitions",
-            "desc": "India woos global cloud service companies with tax holiday for 20 years.",
-            "url": "https://www.cnbc.com/2026/02/02/india-tax-breaks-hyperscalers-ai-bet.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108259927-1769949310081-gettyimages-2258754659-20260201_dli-ay-mn_budget-21b.jpeg?v=1769949536&w=1920&h=1080",
-            "source": "CNBC",
-            "score": 2,
-            "added_time": "2026-02-02T23:34:33.103620+00:00"
-        },
-        {
-            "story_id": "17c21ee6aa9e21bc91209cde44292ff3",
-            "topic": "Asx",
-            "subtopics": [
-                "ASX jumps on RBA day; Musk merges xAI, SpaceX to create $1.8 trillion giant"
-            ],
-            "title": "ASX jumps on RBA day; Musk merges xAI, SpaceX to create $1.8 trillion giant",
-            "desc": "The ASX has opened higher after wild swings that swept through financial markets eased overnight.",
-            "url": "https://www.theage.com.au/business/markets/asx-set-to-jump-on-rba-day-as-wall-street-rebounds-gold-silver-swing-oil-dives-20260203-p5nz0b.html",
-            "image": "https://static.ffx.io/images/$zoom_0.5602%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/a0715578adbd6e1851560a5b2b28717daa6cff76",
-            "source": "The Age",
-            "score": 2,
-            "added_time": "2026-02-03T12:22:29.329283+00:00"
-        },
-        {
-            "story_id": "b4fd067fdf3de06eae8d3bb43e4b5793",
-            "topic": "General",
-            "subtopics": [
-                "Changing the \u2018soap molecule\u2019 surfactin\u2019s tail length changes how it fights pollution, shows study"
-            ],
-            "title": "Changing the \u2018soap molecule\u2019 surfactin\u2019s tail length changes how it fights pollution, shows study",
-            "desc": "Computer simulations reveal that increasing the tail length of the biosurfactant surfactin creates more stable, spherical clusters but unexpectedly makes the molecule less efficient at covering water s...",
-            "url": "https://researchmatters.in/news/changing-soap-molecule-surfactins-tail-length-changes-how-it-fights-pollution-shows-study",
-            "image": "https://researchmatters.in/sites/researchmatters/files/February_Aishwarya.jpg",
-            "source": "Research Matters",
-            "score": 3,
-            "added_time": "2026-02-03T12:33:54.005577+00:00"
-        },
-        {
-            "story_id": "073f7b982d2026367f751fe29a1d61ce",
-            "topic": "Psl",
-            "subtopics": [
-                "PCB withholds PSL broadcast rights in India ahead of 11th edition"
-            ],
-            "title": "PCB withholds PSL broadcast rights in India ahead of 11th edition",
-            "desc": "PSL 11 is set to run from March 26 to May 3",
-            "url": "https://www.geosuper.tv/latest/53004-pcb-to-withhold-psl-broadcast-rights-in-india-ahead-of-11th-edition",
-            "image": "https://www.geosuper.tv/assets/uploads/updates/2026-02-03/l_53004_042323_updates.jpg",
-            "source": "Geo Super",
-            "score": 2,
-            "added_time": "2026-02-04T01:00:22.127236+00:00"
-        },
-        {
-            "story_id": "8643ab3db420685bcadaf7e0b9d6bc99",
-            "topic": "United States",
-            "subtopics": [
-                "Russia is ready for new world with no nuclear limits, senior diplomat says"
-            ],
-            "title": "Russia is ready for new world with no nuclear limits, senior diplomat says",
-            "desc": "MOSCOW: Russia is \u200bready for the new reality of a world with no US-Russian nuclear arms control limits after the New START treaty expires this week, Moscow\u2019s point man for arms control said on Tuesday. Unless the two sides reach a last-minute understanding, they will be left without any constraints on their long-range strategic nuclear arsenals for the first time in more than",
-            "url": "https://www.arabnews.pk/node/2631590/world",
-            "image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2026/02/03/4681375-1824061538.jpg?itok=QcKDraxt",
-            "source": "Arab News PK",
-            "score": 3,
-            "added_time": "2026-02-04T01:00:22.127245+00:00"
-        },
-        {
-            "story_id": "71a0d4f26dcfb91886eedd8d930863d5",
-            "topic": "Tinubu",
-            "subtopics": [
-                "Tinubu's Foreign Trips Yield Investments for Nigeria"
-            ],
-            "title": "Tinubu's Foreign Trips Yield Investments for Nigeria",
-            "desc": "The APC chairman defends President Tinubu's foreign trips, stating they have secured over $50 billion in FDI commitments for Nigeria's economy.",
-            "url": "https://punchng.com/tinubus-foreign-trips-yielding-investments-for-nigeria-apc-chair/",
-            "image": "https://cdn.punchng.com/wp-content/uploads/2025/07/24150630/482223648_627125213270681_6620795270715423960_n-810x630.jpg",
-            "source": "Punch Newspapers",
-            "score": 3,
-            "added_time": "2026-02-04T01:00:22.127263+00:00"
-        },
-        {
-            "story_id": "5b8a1608316ff307f39e79271a6d3b5f",
-            "topic": "Hydroponic",
-            "subtopics": [
-                "Cape Town project tests what hydroponic farming can do in urban spaces"
-            ],
-            "title": "Cape Town project tests what hydroponic farming can do in urban spaces",
-            "desc": "Hydroponic farming is a good way to grow fresh fruit and vegetables in South African cities where high levels of unemployment and poverty make these unaffordable.",
-            "url": "https://theconversation.com/cape-town-project-tests-what-hydroponic-farming-can-do-in-urban-spaces-252958",
-            "image": "https://images.theconversation.com/files/660738/original/file-20250409-56-rbglzi.jpg?ixlib=rb-4.1.0&rect=0%2C1385%2C4571%2C2285&q=45&auto=format&w=1356&h=668&fit=crop",
-            "source": "The Conversation",
-            "score": 3,
-            "added_time": "2026-02-04T05:04:25.944872+00:00"
-        },
-        {
-            "story_id": "8ab0215716dd857e6e79ea1a6564e94f",
-            "topic": "China",
-            "subtopics": [
-                "China creates blood-based diagnostic kit for early lung cancer detection"
-            ],
-            "title": "China creates blood-based diagnostic kit for early lung cancer detection",
-            "desc": "Chinese researchers have developed a blood-based diagnostic kit that improves early detection of lung cancer, identifying key biomarkers and showing higher accuracy than traditional screening methods.",
-            "url": "https://tvbrics.com/en/news/china-develops-diagnostic-kit-for-early-detection-of-lung-cancer/",
-            "image": "https://tvbrics.com/upload/dev2fun.imagecompress/webp/resize_cache/iblock/4cc/300_300_1/47qnwkbpw9k4o4vqymmyhsoippjqp05p.webp",
-            "source": "TV BRICS",
-            "score": 3,
-            "added_time": "2026-02-04T08:27:31.679894+00:00"
-        },
-        {
-            "story_id": "acbd16a4b9f344f3787a518ddd23f588",
-            "topic": "India",
-            "subtopics": [
-                "ChrysCapital acquires minority stake in Bengaluru-based Nash Industries",
-                "India\u2019s U.S. and EU trade deals: Who will gain",
-                "Jaishankar meets Bessent, Rubio in DC as India-US trade ties gain momentum"
-            ],
-            "title": "ChrysCapital acquires minority stake in Bengaluru-based Nash Industries",
-            "desc": "Leveraging the new US-India trade deal and EU FTA, Nash Industries aims to use ChrysCapital\u2019s backing to transition from a domestic leader to a multi-geographical powerhouse.",
-            "url": "https://www.livemint.com/companies/news/chryscapital-acquires-minority-stake-in-bengaluru-based-nash-industries-11770119207642.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/02/03/1600x900/logo/2-0-1411322937-iStock-1060489592-0_1679755387573_1770129878363.jpg",
-            "source": "Mint",
-            "score": 3,
-            "added_time": "2026-02-04T12:32:14.239599+00:00"
-        },
-        {
-            "story_id": "adcb18df25208625504d7735629e6c68",
-            "topic": "Leonardo",
-            "subtopics": [
-                "Adani arm ties up with Italian firm to build copters in India",
-                "Adani arm ties up with Italian firm to build copters in India"
-            ],
-            "title": "Adani arm ties up with Italian firm to build copters in India",
-            "desc": "India News: NEW DELHI: Just days after the Indo-EU trade and defence deal, Italian defence major Leonardo, which offers helicopter products and services globally,.",
-            "url": "https://timesofindia.indiatimes.com/india/adani-arm-ties-up-with-italian-firm-to-build-copters-in-india/articleshow/127894826.cms",
-            "image": "https://static.toiimg.com/thumb/msid-127894835,width-1280,height-720,imgsize-51100,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "source": "Times of India",
-            "score": 3,
-            "added_time": "2026-02-04T12:32:14.239621+00:00"
-        },
-        {
-            "story_id": "90c4c721cd03d37fcee089df6bd8fd6b",
-            "topic": "United States",
-            "subtopics": [
-                "Pakistan\u2019s burgeoning arms industry is a strategic opportunity for the US",
-                "Pakistan\u2019s burgeoning arms industry is a strategic opportunity for the US"
-            ],
-            "title": "Pakistan\u2019s burgeoning arms industry is a strategic opportunity for the US",
-            "desc": "A defense-industrial partnership could benefit the Pentagon while mitigating Chinese influence.",
-            "url": "https://www.defenseone.com/ideas/2026/02/pakistans-burgeoning-arms-industry-strategic-opportunity-us/411168/",
-            "image": "https://cdn.defenseone.com/media/img/cd/2026/02/03/Military_officials_g_2500/open-graph.jpg",
-            "source": "Defense One",
-            "score": 2,
-            "added_time": "2026-02-04T12:32:14.239631+00:00"
-        },
-        {
-            "story_id": "39176640046021072886c366b4462000",
-            "topic": "India",
-            "subtopics": [
-                "India's Varaha bags $20M to scale carbon removal from the Global South"
-            ],
-            "title": "India's Varaha bags $20M to scale carbon removal from the Global South",
-            "desc": "Varaha's fresh funding is part of a $45 million Series B round led by WestBridge Capital.",
-            "url": "https://techcrunch.com/2026/02/03/indias-varaha-bags-20m-to-scale-carbon-removal-from-the-global-south/",
-            "image": "https://techcrunch.com/wp-content/uploads/2026/02/varaha-farm-work.jpg?resize=1200,800",
-            "source": "TechCrunch",
-            "score": 2,
-            "added_time": "2026-02-04T12:32:14.239648+00:00"
-        },
-        {
-            "story_id": "586aaad743f824f1cb77ca64f677afdf",
-            "topic": "The Pakistan Super League 11",
-            "subtopics": [
-                "PCB withholds PSL 11 broadcast rights in India"
-            ],
-            "title": "PCB withholds PSL 11 broadcast rights in India",
-            "desc": "The Pakistan Cricket Board has sold the international broadcasting rights for the Pakistan Super League 11, while withholding media rights for the Indian market.Preparations for PSL 11 are progressing steadily, with the...",
-            "url": "https://www.geo.tv/latest/648835-pcb-withholds-psl-11-broadcast-rights-in-india",
-            "image": "https://www.geo.tv/assets/uploads/updates/2026-02-03/l_648835_092232_updates.jpg",
-            "source": "Geo News",
-            "score": 3,
-            "added_time": "2026-02-04T12:32:14.239654+00:00"
-        },
-        {
-            "story_id": "e50ee5447437455a3d5a34fa509c9e2e",
-            "topic": "Nifty50",
-            "subtopics": [
-                "SENSEX, NIFTY50 trade on a subdued note; IT shares plunge on Anthropic's new AI tool"
-            ],
-            "title": "SENSEX, NIFTY50 trade on a subdued note; IT shares plunge on Anthropic's new AI tool",
-            "desc": "IT shares came under heavy selling pressure as investors reacted sharply to new developments around Anthropic\u2019s new AI products.",
-            "url": "https://upstox.com/news/market-news/stocks/sensex-nifty-50-trade-on-a-subdued-note-it-shares-plunge-on-anthropic-s-new-ai-tool/article-188897/",
-            "image": "https://assets.upstox.com/content/assets/images/news/stockmarkettrade1111.webp",
-            "source": "Upstox",
-            "score": 3,
-            "added_time": "2026-02-04T16:32:29.488922+00:00"
-        },
-        {
-            "story_id": "6ac78549c9c96cff5bf4eee5d0459965",
-            "topic": "Nikkei Inc.",
-            "subtopics": [
-                "Entries open for 5th Nikkei Asia Award"
-            ],
-            "title": "Entries open for 5th Nikkei Asia Award",
-            "desc": "Deadline: 14-Jun-2026 The 5th Nikkei Asia Award recognizes outstanding innovation originating in Asia that drives social and economic transformation across the region. Sponsored by Nikkei Inc., the award honors individuals or groups whose work contributes to a free, prosperous, and future-oriented Asian society, with a prize of 5,000,000 yen. Overview The Nikkei Asia Award is",
-            "url": "https://www2.fundsforngos.org/community-development/entries-open-for-5th-nikkei-asia-award/",
-            "image": "https://fundsforngosmedia.s3.amazonaws.com/wp-content/uploads/2023/12/19141120/icon.png",
-            "source": "fundsforNGOs",
-            "score": 3,
-            "added_time": "2026-02-04T16:32:29.488967+00:00"
-        },
-        {
-            "story_id": "b5c189458157affa32a666dc339d2a8b",
-            "topic": "Viksit Bharat",
-            "subtopics": [
-                "Budget 2026 to benefit common man, US deal a \u2018big relief\u2019 to Indian exporters, says Sitharaman | Exclusive"
-            ],
-            "title": "Budget 2026 to benefit common man, US deal a \u2018big relief\u2019 to Indian exporters, says Sitharaman | Exclusive",
-            "desc": "The Union Budget aims for Viksit Bharat by 2047, emphasizing stability in policies and ongoing reforms, particularly for MSMEs, benefiting the common man.| India News",
-            "url": "https://www.hindustantimes.com/india-news/india-us-trade-deal-tariffs-reduction-nirmala-sitharaman-interview-donald-trump-china-pm-modi-union-budget-101770161394988.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/03/550x309/FM_Sitharaman_says_Budget_lays_roadmap_for_Viksit_1770161650813_1770161650996.jpg",
-            "source": "Hindustan Times",
-            "score": 3,
-            "added_time": "2026-02-04T16:32:29.488978+00:00"
-        },
-        {
-            "story_id": "0bb396ace9adc6133cf0e485e9a7404e",
-            "topic": "United States",
-            "subtopics": [
-                "Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption"
-            ],
-            "title": "Asian software stocks plunge after U.S. peers decline on fears over AI-led disruption",
-            "desc": "Wall Street's fears around artificial intelligence-driven disruption affecting software companies have made their way into Asia.",
-            "url": "https://www.cnbc.com/2026/02/04/software-stocks-plunge-us-ai-disruption.html",
-            "image": "https://image.cnbcfm.com/api/v1/image/108246307-1767025794257-gettyimages-2236521867-syn08393.jpeg?v=1767025847&w=1920&h=1080",
-            "source": "CNBC",
-            "score": 3,
-            "added_time": "2026-02-04T17:39:06.935975+00:00"
-        },
-        {
-            "story_id": "4aab0f4f3e154eacaa1208a4a16e1ca0",
-            "topic": "Software",
-            "subtopics": [
-                "Software sell-off over AI fears hits global stock markets, but FTSE 100 hits record on \u00a38bn insurance takeover - business live"
-            ],
-            "title": "Software sell-off over AI fears hits global stock markets, but FTSE 100 hits record on \u00a38bn insurance takeover - business live",
-            "desc": "Rolling coverage of the latest economic and financial news",
-            "url": "https://www.theguardian.com/business/live/2026/feb/04/software-stock-selloff-ai-led-disruption-jensen-huang-services-economy-business-live-news-updates",
-            "image": "https://i.guim.co.uk/img/media/cc21511a496ca3abf0d917fe5db08013f7607f6a/537_0_5800_4640/master/5800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=45e54a3559a0486d70540c03d40a3353",
-            "source": "The Guardian",
-            "score": 2,
-            "added_time": "2026-02-04T20:21:25.714010+00:00"
-        },
-        {
-            "story_id": "b5ef9dbef42fdc233f762027f36e42a3",
-            "topic": "Sudhir Srivastava",
-            "subtopics": [
-                "Dr. Sudhir Srivastava on Expanding Cancer Care Through Indigenous Robotics"
-            ],
-            "title": "Dr. Sudhir Srivastava on Expanding Cancer Care Through Indigenous Robotics",
-            "desc": "On the occasion of World Cancer Day, Dr. Sudhir Srivastava highlighted the growing impact of indigenous surgical robotics in transforming cancer care in India. He emphasised that by improving surgical [\u2026]",
-            "url": "https://theindianpractitioner.com/dr-sudhir-srivastava-on-expanding-cancer-care-through-indigenous-robotics/",
-            "image": "https://theindianpractitioner.com/wp-content/uploads/2026/02/Dr.-Sudhir-Srivastava-on-Expanding-Cancer-Care-Through-Indigenous-Robotics-1-1-scaled.jpg",
-            "source": "The Indian Practitioner",
-            "score": 3,
-            "added_time": "2026-02-05T01:02:18.135521+00:00"
-        },
-        {
-            "story_id": "cdeb56facb946d5aa2b37c4817aad773",
-            "topic": "Malaysia",
-            "subtopics": [
-                "Indian PM Modi to arrive in M'sia for two-day official visit on Feb 7"
-            ],
-            "title": "Indian PM Modi to arrive in M'sia for two-day official visit on Feb 7",
-            "desc": "PETALING JAYA: Indian Prime Minister Narendra Modi will be coming to Malaysia on an official visit this weekend as part of efforts to build greater bilateral ties and trade between the two countries.",
-            "url": "https://www.thestar.com.my/news/nation/2026/02/04/indian-pm-modi-to-arrive-in-m039sia-for-two-day-official-visit-on-feb-7",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/02/04/3754181.jpg",
-            "source": "thestar.com.my",
-            "score": 3,
-            "added_time": "2026-02-05T01:02:18.135530+00:00"
-        },
-        {
-            "story_id": "c502bb62bd94774b1349d36eb669a7c8",
-            "topic": "Blackrock",
-            "subtopics": [
-                "'I don't believe there is an AI bubble. China will win if we don't invest in AI,' says BlackRock CEO Larry Fink"
-            ],
-            "title": "'I don't believe there is an AI bubble. China will win if we don't invest in AI,' says BlackRock CEO Larry Fink",
-            "desc": "AI is going to be a powerful growth engine in the world, says Fink",
-            "url": "https://www.moneycontrol.com/news/business/i-don-t-believe-there-is-an-ai-bubble-china-will-win-if-we-don-t-invest-in-ai-says-blackrock-ceo-larry-fink-13811093.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260204110151_jioblackrock.jpg",
-            "source": "Moneycontrol",
-            "score": 2,
-            "added_time": "2026-02-05T01:02:18.135537+00:00"
-        },
-        {
-            "story_id": "4719c204982c582d4552799448f55323",
-            "topic": "Blackrock",
-            "subtopics": [
-                "BlackRock CEO Larry Fink backs 'era of India' for long-term wealth creation; asks investors to look beyond noise"
-            ],
-            "title": "BlackRock CEO Larry Fink backs 'era of India' for long-term wealth creation; asks investors to look beyond noise",
-            "desc": "Larry Fink said that excessive focus on near-term market movements, headlines and capital flows often distracts investors from the real opportunity -- investing alongside the long-term growth of an economy. India\u2019s growth story presents a compelling opportunity for investors willing to adopt a patient approach.",
-            "url": "https://www.moneycontrol.com/news/business/markets/blackrock-ceo-larry-fink-backs-era-of-india-for-long-term-wealth-creation-asks-investors-to-look-beyond-noise-13810978.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260204092640_Mukesh-Ambani-Larry-Fink-conversation-LIVE-updates.jpg",
-            "source": "Moneycontrol",
-            "score": 3,
-            "added_time": "2026-02-05T01:02:18.135553+00:00"
-        },
-        {
-            "story_id": "c5fd81feaf6cdcce623343abeefc7c82",
-            "topic": "Upsc",
-            "subtopics": [
-                "UPSC CURRENT AFFAIRS \u2013 4 February 2026"
-            ],
-            "title": "UPSC CURRENT AFFAIRS \u2013 4 February 2026",
-            "desc": "INSIGHTS Daily Current Affairs 4 February 2026 covering GS I, II, III, mapping, environment, polity, defence, science & tech, and prelim facts for UPSC.",
-            "url": "https://www.insightsonindia.com/2026/02/04/upsc-current-affairs-4-february-2026/",
-            "image": "https://www.insightsonindia.com/wp-content/uploads/2026/02/IOM-Global.png",
-            "source": "INSIGHTS IAS",
-            "score": 3,
-            "added_time": "2026-02-05T01:02:18.135568+00:00"
-        },
-        {
-            "story_id": "3a04876f5dc00c8c77e708df3d5275fe",
-            "topic": "Singapore",
-            "subtopics": [
-                "Cooperation, responsibility critical in space race as orbits grow more crowded, say industry players"
-            ],
-            "title": "Cooperation, responsibility critical in space race as orbits grow more crowded, say industry players",
-            "desc": "With space underpinning everything from connectivity to climate monitoring, leaders at the inaugural Space Summit in Singapore told CNA that nations must work together to preserve it as a shared global resource.",
-            "url": "https://www.channelnewsasia.com/singapore/space-summit-cooperation-responsibility-orbits-crowded-5906391",
-            "image": "https://dam.mediacorp.sg/image/upload/s--y2ZsHQiP--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-02-02T062546Z_1_LYNXMPEM110B2_RTROPTP_3_SINGAPORE-AIRSHOW-SPACE.JPG?itok=J8NXSs9F",
-            "source": "CNA",
-            "score": 3,
-            "added_time": "2026-02-05T01:02:18.135575+00:00"
-        },
-        {
-            "story_id": "285517fa9f7c0674aac580c43f98ee7d",
-            "topic": "Prof Dr Khalid Mahmood",
-            "subtopics": [
-                "Pakistan\u2019s stability a must to resolve Kashmir I"
-            ],
-            "title": "Pakistan\u2019s stability a must to resolve Kashmir I",
-            "desc": "LAHORE: (Wednesday, February 04, 2026): Punjab University Vice Chancellor Prof Dr Muhammad Ali has said that Pakistan\u2019s stability is a must to resolve the Kashmir Issue which is not possible without development in the education sector. He expressed these views while addressing a seminar on \u201cEchoes of the Battle for Truth, the Contemporary Global World and the Kashmir Issue\u201d organized by the Punjab University Faculty of Arts and Humanities. On this occasion, Pro-Vice Chancellor Prof Dr Khalid Mahmood, senior journalist Salman Ghani, Dean Faculty of Arts and Humanities Prof Dr Mehboob Hussain, Chairman Department of Kashmir Studies Dr Khawaja Zahid Aziz, faculty members and a large number of students were present. In his address, Prof Dr Muhammad Ali said that every year Pakistan renews its pledge that the hearts of Pakistanis beat with Kashmir and that the entire nation stands with the Kashmiris until they achieve their right to self-determination. He said that the \u2018Battle for Truth\u2019 has given Pakistan remarkable diplomatic successes and international recognition. He added that this is the best opportunity to become the voice of the Kashmiris, but unity in thought and ideas is essential. He said that just as Pakistan defeated India in war through technology; it must also strengthen itself in science and technology for the cause of Kashmir. He emphasized that Pakistan\u2019s stance on Kashmir is rightful, while India is making illegitimate demands. He further stated that Kashmiris and Palestinians are among the most oppressed people in the world. Prof Dr Khalid Mahmood stressed that nations are heard at the global level only when they strengthen themselves in education and technology. He said that in the present era, academic and technological progress forms the basis of national dignity and an effective global role. He said that PU is fully expressing solidarity with its Kashmiri brothers and sisters, and that the university has always played a responsible role at national and international levels by consistently supporting the Kashmiri people\u2019s right to self-determination. Senior journalist Salman Ghani said that from 1990 to the present day, all political leaders of Pakistan have played an active role in highlighting the importance of the Kashmir issue. He said that Kashmiris know that Pakistan\u2019s strength is essential to free them from Indian oppression. He remarked that the martyrdom of Burhan Muzaffar Wani instilled fear among Indians, who began seeing Burhan Wani in every Kashmiri youth. He described the Pahalgam incident as an Indian conspiracy, stating that India became trapped in its own plot. He said that when the nation stood united with the Pakistan Army; a power six times stronger was pushed back, resulting in a clear victory. He added that the Pakistan Air Force was declared the \u201cQueen of the Skies,\u201d which was made possible through unity and harmony. He emphasized that the entire nation must remain united to resolve the Kashmir issue and to confront enemies like India and Israel. He said that PU is not only an educational institution but also an excellent platform for highlighting national issues. Prof Dr Mehboob Hussain said that the Kashmir issue is a national matter on which not only all political parties of Pakistan but the entire nation is united and in agreement, with no differences whatsoever. He said that all political parties are aligned on the point that joint and organized efforts must be made for the Kashmiri people\u2019s right to self-determination. He stated that national unity on the Kashmir issue is Pakistan\u2019s greatest strength. He added that Pakistan has now emerged on the global stage with a new and positive image, and the world is listening to Pakistan\u2019s voice. He reaffirmed Pakistan\u2019s commitment to continue playing an effective and responsible role at international forums for a just resolution of the Kashmir issue. Dr Khawaja Zahid Aziz highlighted the historical importance of the Kashmir issue. He exposed India\u2019s reprehensible role on the Kashmir issue at the United Nations. He said that Pakistan and India have already fought four wars over Kashmir. He added that the Kashmiri people have made immense and unforgettable sacrifices for their right to self-determination. He said that the purpose of organizing the seminar was to convey that Kashmir remains a living and unresolved issue.",
-            "url": "https://www.pu.edu.pk/home/section/press/16854",
-            "image": "https://pu.edu.pk/new/images/1.jpg",
-            "source": "University of the Punjab",
-            "score": 3,
-            "added_time": "2026-02-05T05:12:17.027222+00:00"
-        },
-        {
-            "story_id": "a0c81e83f2d5e3ab24d964d88135a46a",
-            "topic": "General",
-            "subtopics": [
-                "Learning about longevity from long"
-            ],
-            "title": "Learning about longevity from long",
-            "desc": "The secrets to extending human lifespans might lie in the animals that can already live for centuries.",
-            "url": "https://worksinprogress.co/issue/the-perks-of-being-a-mole-rat/",
-            "image": "https://wip.gatspress.com/wp-content/uploads/2026/02/WIP_Tiger_HQ2-1-AWK-1-scaled.jpg",
-            "source": "Works in Progress Magazine",
-            "score": 2,
-            "added_time": "2026-02-05T05:12:17.027251+00:00"
-        },
-        {
-            "story_id": "30fa1db0296284a3cb8e9bbfbbcb0b7a",
-            "topic": "United States",
-            "subtopics": [
-                "India's Modi praised for US trade deal as opposition questions impact on agriculture"
-            ],
-            "title": "India's Modi praised for US trade deal as opposition questions impact on agriculture",
-            "desc": "NEW DELHI (AP) \u2014 Indian lawmakers from the ruling coalition praised Prime Minister Narendra Modi on Tuesday for striking a deal with the U.S. that seeks to...",
-            "url": "https://mb.com.ph/2026/02/04/indias-modi-praised-for-us-trade-deal-as-opposition-questions-impact-on-agriculture",
-            "image": "https://mb.com.ph/manilabulletin/uploads/images/2026/02/04/76865.webp",
-            "source": "Manila Bulletin",
-            "score": 3,
-            "added_time": "2026-02-05T05:12:17.027263+00:00"
-        },
-        {
-            "story_id": "ca8be906eaa4377b135a2b46929360fd",
-            "topic": "Myanmar",
-            "subtopics": [
-                "Myanmar elections draw attention to its digital surveillance record"
-            ],
-            "title": "Myanmar elections draw attention to its digital surveillance record",
-            "desc": "The country\u2019s digital surveillance systems, which rely on digital ID technology and facial recognition products supplied by Chinese and Indian companies.",
-            "url": "https://www.biometricupdate.com/202602/myanmar-elections-draw-attention-to-its-digital-surveillance-record",
-            "image": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/16135058/cctv-surveillance-scaled.jpg",
-            "source": "Biometric Update",
-            "score": 3,
-            "added_time": "2026-02-05T05:12:17.027270+00:00"
-        },
-        {
-            "story_id": "c5fbeda9f055efdd62fb8a469ee22e0b",
-            "topic": "Ethiopia",
-            "subtopics": [
-                "Ethio telecom, Djibouti Telecom, and Sudatel Group Sign Tripartite Agreement for the Horizon Fiber Initiative"
-            ],
-            "title": "Ethio telecom, Djibouti Telecom, and Sudatel Group Sign Tripartite Agreement for the Horizon Fiber Initiative",
-            "desc": "We are Africa's Pioneer telecom provider, offering reliable connectivity, advanced technology, and financial services to simplify life as we drive Ethiopia's digital transformation and empower communities with innovative solutions.",
-            "url": "https://www.ethiotelecom.et/ethio-telecom-djibouti-telecom-and-sudatel-group-sign/",
-            "image": "https://www.ethiotelecom.et/wp-content/uploads/2026/02/Djibouti-Ethio-telecom.jpeg",
-            "source": "Ethio telecom",
-            "score": 3,
-            "added_time": "2026-02-05T08:29:32.452813+00:00"
-        },
-        {
-            "story_id": "ac934c7ff97f10881f3091ff9cf04421",
-            "topic": "U.S. Rome",
-            "subtopics": [
-                "Italy signals full alignment with U.S."
-            ],
-            "title": "Italy signals full alignment with U.S.",
-            "desc": "Rome positions itself as a core transatlantic partner in reshaping supply chains, industrial policy, and economic security\u2014away from Chinese dominance and toward a coordinated Western response.",
-            "url": "https://decode39.com/13357/italy-signals-full-alignment-with-u-s-led-critical-minerals-strategy/",
-            "image": "https://decode39.com/wp-content/uploads/2026/02/Imagoeconomica_2615053.jpg",
-            "source": "Decode39",
-            "score": 3,
-            "added_time": "2026-02-05T16:32:50.366735+00:00"
-        },
-        {
-            "story_id": "15586465d13d36955fd751017cbcb0c2",
-            "topic": "Review Q3Fy26 Financial Results&Nbsp;&Nbsp;Scanx.Tradekaynes Technology Board Meeting",
-            "subtopics": [
-                "Kaynes Technology Board Approves Unaudited Financial Results for Q3 2026 - InvestyWise"
-            ],
-            "title": "Kaynes Technology Board Approves Unaudited Financial Results for Q3 2026 - InvestyWise",
-            "desc": "Kaynes Technology Board Approves Unaudited Financial Results for Q3 2026&nbsp;&nbsp;InvestyWiseKaynes Tech Faces Q3 Forecast Miss Amid Margin Fears&nbsp;&nbsp;WhalesbookKaynes Technology India Limited Schedules Board Meeting for February 05, 2026 to Review Q3FY26 Financial Results&nbsp;&nbsp;scanx.tradeKaynes Technology Board Meeting to Approve Q3 Results on February 5, 2026&nbsp;&nbsp;InvestyWise",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOU5uREdON0dFbEpybUxSTXZpaFY2WENsYk5xLWJYQ0tZMk1CUUxSbXhWdkJzVktmMVJNVlU4bEpmQmx0eXkzYzZkaldSUFBoQWd3WTJjdzhiUHlYTk5LVXQzbnFDU2VXOFZtV0ZOM29LNUtuMzJhWGFLdkdWUTNIcmI1bUFoYkw1WHF6b2loRnNPaDE4UlpFZm5DOXlUTTRUdFhUd09tdlRUR3pwcExHQW5R?oc=5",
-            "image": null,
-            "source": "Google News Business IN",
-            "score": 1,
-            "added_time": "2026-02-05T16:32:50.366761+00:00"
-        },
-        {
-            "story_id": "8c25b38e42a8d3bfa143da1f97358900",
-            "topic": "India",
-            "subtopics": [
-                "Vivo V70 and Vivo V70 Elite to launch in India on February 19: Camera and key features revealed",
-                "Tecno Pova Curve 2 5G launching in India on February 13: Design and key features revealed"
-            ],
-            "title": "Vivo V70 and Vivo V70 Elite to launch in India on February 19: Camera and key features revealed",
-            "desc": "Vivo V70 and Vivo V70 Elite camera-centric smartphones are launching in India on February 19. Here\u2019s everything we know so far.\u00a0| Technology News",
-            "url": "https://www.hindustantimes.com/technology/vivo-v70-and-vivo-v70-elite-to-launch-in-india-on-february-19-camera-and-key-features-revealed-101770278805546.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/05/550x309/Vivo_V70_Elite_1770279211237_1770279211386.jpg",
-            "source": "Hindustan Times",
-            "score": 4,
-            "added_time": "2026-02-05T20:20:51.274635+00:00"
-        },
-        {
-            "story_id": "215d9d771356ab3b32f3b24290815741",
-            "topic": "Milan",
-            "subtopics": [
-                "Vance heads overseas for the Winter Olympics. Then he'll stop in Armenia, Azerbaijan",
-                "Vance is in Milan for the Winter Olympics"
-            ],
-            "title": "Vance heads overseas for the Winter Olympics. Then he'll stop in Armenia, Azerbaijan",
-            "desc": "Vice President JD Vance is in Milan leading President Donald Trump\u2019s delegation to the 2026 Winter Olympics",
-            "url": "https://abcnews.go.com/Sports/wireStory/vance-heads-overseas-winter-olympics-hell-stop-armenia-129872694",
-            "image": "https://i.abcnewsfe.com/a/3c910610-9669-4539-b74d-586a5f3a74d1/wirestory_c3bd416df3afa3e64a5c29d9c438e8e5_16x9.jpg?w=1600",
-            "source": "ABC News",
-            "score": 2,
-            "added_time": "2026-02-05T20:20:51.274654+00:00"
-        },
-        {
-            "story_id": "6959823438488a9218f69d30a3e051f1",
-            "topic": "Malaysia",
-            "subtopics": [
-                "Global investors betting on 'rising star' Malaysia as foreign cash piles in"
-            ],
-            "title": "Global investors betting on 'rising star' Malaysia as foreign cash piles in",
-            "desc": "Malaysian assets are drawing global investors as a soft US dollar and rising geopolitical tensions spur diversification and the country's stability and growth are seen as an attractive alternative to stuttering regional rivals.",
-            "url": "https://theedgemalaysia.com/node/791879",
-            "image": "https://assets.theedgemarkets.com/20240805 bursa SY_20240806091800_theedgemalaysia_10.jpg",
-            "source": "The Edge Malaysia",
-            "score": 3,
-            "added_time": "2026-02-05T20:20:51.274663+00:00"
-        },
-        {
-            "story_id": "56d419413fd764659bbeafa9803fe267",
-            "topic": "Infosys",
-            "subtopics": [
-                "AI disrupts Indian IT: Why TCS & Infosys face pain while niche players surge"
-            ],
-            "title": "AI disrupts Indian IT: Why TCS & Infosys face pain while niche players surge",
-            "desc": "India's top IT companies are not leading the AI revolution. Market expert Sudip Bandyopadhyay warns of restructuring and margin pressure for giants like TCS and Infosys. Newer, specialized IT firms are succeeding by focusing on high-growth areas like travel and electric vehicles. Investors should look to these niche players for future growth opportunities.",
-            "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-disrupts-indian-it-why-tcs-infosys-face-pain-while-niche-players-surge/articleshow/127927743.cms?from=mdr",
-            "image": "https://img.etimg.com/thumb/msid-127927779,width-1200,height-630,imgsize-21126,overlay-etmarkets/articleshow.jpg",
+            "title": "India can no longer rely on IT service exports; need to move focus to deeptech, hardware: Nithin Kamath",
+            "desc": "The Zerodha founder said the shift is essential to build long-term economic resilience and reduce dependence on global outsourcing cycles. He said that there is adequate talent in India, but it is hobbled by an \"ecosystem gap.\"",
+            "url": "https://economictimes.indiatimes.com/tech/technology/india-can-no-longer-rely-on-it-service-exports-need-to-move-focus-to-deeptech-hardware-nithin-kamath/articleshow/128120292.cms?from=mdr",
+            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-18740,resizemode-75,msid-128120292/tech/technology/india-can-no-longer-rely-on-it-service-exports-need-to-move-focus-to-deeptech-hardware-nithin-kamath.jpg",
             "source": "The Economic Times",
             "score": 4,
-            "added_time": "2026-02-05T20:20:51.274670+00:00"
+            "added_time": "2026-02-10T06:54:29.553801+00:00"
         },
         {
-            "story_id": "c3cd9a8f2e47c240a5ba2fa14faffce6",
-            "topic": "H5N1",
+            "story_id": "f1b51d0c3a5d5bc78434de4e7c48f14e",
+            "topic": "Bcci",
             "subtopics": [
-                "New nasal vaccine shows strong protection against H5N1 bird flu"
+                "BCCI invites applications for Coaching and Performance Staff positions at the Centre of Excellence"
             ],
-            "title": "New nasal vaccine shows strong protection against H5N1 bird flu",
-            "desc": "As bird flu continues to circulate in animals and spill over into humans, researchers are racing to stop it before it adapts to spread widely between people. A new nasal spray vaccine showed strong protection against H5N1 in animal tests, outperforming traditional flu shots. Because it targets the nose and lungs, it may prevent infection at the earliest stage.",
-            "url": "https://www.sciencedaily.com/releases/2026/02/260204114343.htm",
-            "image": "https://www.sciencedaily.com/images/1920/intranasal-or-nasal-spray-vaccine.webp",
-            "source": "ScienceDaily",
-            "score": 3,
-            "added_time": "2026-02-05T20:20:51.274688+00:00"
-        },
-        {
-            "story_id": "e61e839c9d748b27575ff6495a959707",
-            "topic": "Shifaa",
-            "subtopics": [
-                "Cancer is curable if early detected, Dar Hospital experts insist"
-            ],
-            "title": "Cancer is curable if early detected, Dar Hospital experts insist",
-            "desc": "DAR ES SALAAM: TANZANIAN citizens have been urged to abandon the belief that cancer is incurable and instead seek medical testing as soon as they notice unusual symptoms, as early detection significantly increases the chances of successful treatment. The call was made today in Dar es Salaam by a cancer specialist at the Kinondoni-based Shifaa",
-            "url": "https://dailynews.co.tz/cancer-is-curable-if-early-detected-dar-hospital-experts-insist/",
-            "image": "https://dailynews.co.tz/wp-content/uploads/2026/02/WhatsApp-Image-2026-02-04-at-16.28.12.jpeg",
-            "source": "dailynews.co.tz",
-            "score": 3,
-            "added_time": "2026-02-06T01:00:22.865248+00:00"
-        },
-        {
-            "story_id": "1e638577d5b1571c44a745c65a313734",
-            "topic": "The Shipping Technicality Holding Back Circular Fashion Circular",
-            "subtopics": [
-                "The Shipping Technicality Holding Back Circular Fashion"
-            ],
-            "title": "The Shipping Technicality Holding Back Circular Fashion",
-            "desc": "Circular fashion innovators are struggling with shipping codes designed for a linear system. The outdated system is stalling progress on upcycling and recycling.",
-            "url": "https://www.vogue.com/article/the-shipping-technicality-holding-back-circular-fashion",
-            "image": "https://assets.vogue.com/photos/69836276f89e2eeef05ed8c9/16:9/w_1280,c_limit/shipping-vogue-business-social-newsletter.jpg",
-            "source": "Vogue",
-            "score": 3,
-            "added_time": "2026-02-06T01:00:22.865269+00:00"
-        },
-        {
-            "story_id": "405b6e5c84dff3ced5ed389c34f5673f",
-            "topic": "The Galaxy S26 Ultra",
-            "subtopics": [
-                "Samsung teases camera upgrades for Galaxy S26 Ultra in latest videos: Here\u2019s what's coming"
-            ],
-            "title": "Samsung teases camera upgrades for Galaxy S26 Ultra in latest videos: Here\u2019s what's coming",
-            "desc": "Samsung has released short teaser videos that hint at camera changes coming to the Galaxy S26 Ultra ahead of its official launch globally.| Technology News",
-            "url": "https://www.hindustantimes.com/technology/samsung-teases-camera-upgrades-for-galaxy-s26-ultra-in-latest-videos-here-s-whats-coming-101770279660681.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/05/550x309/Samsung_Galaxy_S26_Ultra_1770279877281_1770279877420.png",
-            "source": "Hindustan Times",
-            "score": 4,
-            "added_time": "2026-02-06T01:00:22.865285+00:00"
-        },
-        {
-            "story_id": "4d18107d4d0f7d9f9a9464fa6693e02a",
-            "topic": "Donald Trump",
-            "subtopics": [
-                "Vance says the Olympics are 'one of the few things' that unite Americans"
-            ],
-            "title": "Vance says the Olympics are 'one of the few things' that unite Americans",
-            "desc": "Vice President JD Vance is leading President Donald Trump's delegation to the 2026 Winter Olympics and later stopping in Armenia and Azerbaijan in a show of support for a peace agreement brokered by the White House last year.",
-            "url": "https://www.pbs.org/newshour/world/vance-says-the-olympics-are-one-of-the-few-things-that-unite-americans",
-            "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/02/2026-02-05T105302Z_1785051919_RC2MFJANHJW3_RTRMADP_3_OLYMPICS-2026-USA-VANCE-ARRIVAL-1024x683.jpg",
-            "source": "PBS",
-            "score": 3,
-            "added_time": "2026-02-06T12:31:17.163674+00:00"
-        },
-        {
-            "story_id": "0c57def43b00539e9543fd9c8064091d",
-            "topic": "India",
-            "subtopics": [
-                "India resets startup definition to include deep tech companies, cooperative societies"
-            ],
-            "title": "India resets startup definition to include deep tech companies, cooperative societies",
-            "desc": "India has revised its startup framework, increasing turnover limits, extending eligibility for deep-tech firms, and including cooperative societies in the Startup India programme. Startups can now be recognised up to 10 years, while deep-tech firms have a 20-year window. The changes aim to support innovation, R&D, and long-term growth.",
-            "url": "https://economictimes.indiatimes.com/tech/startups/govt-expands-definition-of-startup-turnover-limit-doubled-to-rs-200-crore/articleshow/127943157.cms?from=mdr",
-            "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-15070,resizemode-75,msid-127943157/tech/startups/govt-expands-definition-of-startup-turnover-limit-doubled-to-rs-200-crore.jpg",
-            "source": "The Economic Times",
-            "score": 3,
-            "added_time": "2026-02-06T12:31:17.163711+00:00"
-        },
-        {
-            "story_id": "28f4572035c769cba001e55d1869e315",
-            "topic": "Amazon",
-            "subtopics": [
-                "AWS India layoffs deepen as Amazon targets 30,000 job cuts"
-            ],
-            "title": "AWS India layoffs deepen as Amazon targets 30,000 job cuts",
-            "desc": "AWS India faces significant layoffs as Amazon aims to cut 30,000 jobs globally, impacting 400 Bedrock employees.",
-            "url": "https://www.thehindubusinessline.com/news/aws-india-layoffs-deepen-as-amazon-targets-30000-job-cuts/article70596395.ece",
-            "image": "https://bl-i.thgim.com/public/incoming/6dz73e/article70596472.ece/alternates/LANDSCAPE_1200/2026-01-15T070019Z_1570997051_RC2J7HAFD7Q9_RTRMADP_3_AMAZON-EUROPE-CLOUD.JPG",
-            "source": "BusinessLine",
+            "title": "BCCI invites applications for Coaching and Performance Staff positions at the Centre of Excellence",
+            "desc": "BCCI invites applications for Coaching and Performance Staff positions at the Centre of Excellence",
+            "url": "https://www.bcci.tv/articles/2026/news/55556318/bcci-invites-applications-for-coaching-and-performance-staff-positions-at-the-centre-of-excellence",
+            "image": "https://assets.bcci.tv/bcci/articles/1770537973_BCCI_Thumbnail.png",
+            "source": "BCCI",
             "score": 2,
-            "added_time": "2026-02-06T12:31:17.163719+00:00"
+            "added_time": "2026-02-10T06:54:29.553822+00:00"
         },
         {
-            "story_id": "93be7ff3b12d204b27bed204a7e912ec",
-            "topic": "India",
+            "story_id": "d070f0a1a110f1961cc50d50c9afed9b",
+            "topic": "Vikram Misri",
             "subtopics": [
-                "SaaSpocalypse hits when plumbers are outearning Indian techies"
+                "Now foreign secretary Vikram Misri asked about Russian oil imports. He explains"
             ],
-            "title": "SaaSpocalypse hits when plumbers are outearning Indian techies",
-            "desc": "India's entry-level tech jobs face a stark reality as home service workers reportedly now earn more. A recent AI release has intensified fears of widespread job displacement, with experts predicting significant disruption to white-collar roles within months. While some industry leaders foresee a transformation of work, others warn of unprecedented automation impacting numerous sectors.",
-            "url": "https://economictimes.indiatimes.com/jobs/hr-policies-trends/saaspocalypse-hits-when-plumbers-are-outearning-indian-techies/articleshow/127930946.cms?from=mdr",
-            "image": "https://img.etimg.com/thumb/msid-127934081,width-1200,height-630,imgsize-51180,overlay-etcareers/articleshow.jpg",
-            "source": "The Economic Times",
-            "score": 3,
-            "added_time": "2026-02-06T12:31:17.163729+00:00"
-        },
-        {
-            "story_id": "3c95994d36d0da45895be357b86899bc",
-            "topic": "Ai",
-            "subtopics": [
-                "Israeli-founded 'SpaceX of weather' raises $175m to send next-gen satellites into orbit"
-            ],
-            "title": "Israeli-founded 'SpaceX of weather' raises $175m to send next-gen satellites into orbit",
-            "desc": "Tomorrow.io is the developer of an AI weather satellite network to help forecast fast-evolving extreme weather events, as well as improve emergency preparedness and disaster response",
-            "url": "https://www.timesofisrael.com/israeli-founded-spacex-of-weather-raises-175m-to-send-next-gen-satellites-into-orbit/",
-            "image": "https://static-cdn.toi-media.com/www/uploads/2022/09/AP22271434061284-e1664367680651.jpg",
-            "source": "The Times of Israel",
-            "score": 3,
-            "added_time": "2026-02-06T12:31:17.163739+00:00"
-        },
-        {
-            "story_id": "43e0aff6e6be9f66223d4170daee6261",
-            "topic": "United States",
-            "subtopics": [
-                "India-U.S. trade deal: Likely to finalise and sign joint statement in \u2018four to five days\u2019, Piyush Goyal says"
-            ],
-            "title": "India-U.S. trade deal: Likely to finalise and sign joint statement in \u2018four to five days\u2019, Piyush Goyal says",
-            "desc": "India and the U.S. are set to finalize a trade deal within days, reducing tariffs on Indian goods to 18%.",
-            "url": "https://www.thehindu.com/business/india-us-trade-deal-piyush-goyal-tariffs-joint-statement-legal-agreement/article70594904.ece",
-            "image": "https://th-i.thgim.com/public/incoming/vrpuaq/article70594910.ece/alternates/LANDSCAPE_1200/PTI02_03_2026_000374B.jpg",
-            "source": "thehindu.com",
-            "score": 3,
-            "added_time": "2026-02-06T12:31:17.163749+00:00"
-        },
-        {
-            "story_id": "fe5274803848b908d7521a27218283b6",
-            "topic": "India",
-            "subtopics": [
-                "MediaTek Unveils Dimensity 9500s and Dimensity 8500 to Propel Performance, Gaming and Efficiency in Flagship and Premium Smartphones at MediaTek Tech Day",
-                "Google, Amazon, Meta, Microsoft spending more on AI in 2026 than India will spend on entire country",
-                "Oppo, Poco to launch smartphones powered by Dimensity 9500s flagship chipset: MediaTek"
-            ],
-            "title": "Oppo, Poco to launch smartphones powered by Dimensity 9500s flagship chipset: MediaTek",
-            "desc": "Oppo and Poco are poised to launch new smartphones featuring MediaTek's flagship Dimensity 9500s chipset, promising exceptional performance and power efficiency for high-end mobile experiences.",
-            "url": "https://telecom.economictimes.indiatimes.com/news/devices/oppo-and-poco-set-to-unveil-smartphones-with-mediateks-dimensity-9500s-chipset/127983673",
-            "image": "https://etimg.etb2bimg.com/thumb/msid-127983673,imgsize-94590,width-1200,height=627,overlay-ettelecom,resizemode-75/devices/oppo-and-poco-set-to-unveil-smartphones-with-mediateks-dimensity-9500s-chipset.jpg",
-            "source": "ET Telecom",
-            "score": 4,
-            "added_time": "2026-02-07T01:00:08.141575+00:00"
-        },
-        {
-            "story_id": "cb26acf3549891b48d551d56c5f445e6",
-            "topic": "Bitcoin",
-            "subtopics": [
-                "Bitcoin crash stuns markets. Decoding biggest crypto slump since Trump election"
-            ],
-            "title": "Bitcoin crash stuns markets. Decoding biggest crypto slump since Trump election",
-            "desc": "Bitcoin has witnessed one of its sharpest corrections in recent years, wiping out more than $2 trillion from the global cryptocurrency market in a single day. The fall is the steepest since Donald Trump\u2019s election. It comes amid rising global risk aversion, weakness in technology and AI stocks, and sustained institutional selling pressure.",
-            "url": "https://www.indiatoday.in/business/story/bitcoin-crash-wipes-2-trillion-what-triggered-biggest-crypto-slump-since-trumps-election-2864179-2026-02-06",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/bitcoin-063408101-16x9_0.jpeg?VersionId=VbZ3A59vJyngme.KBWouaM4QR7O8CzAx",
-            "source": "indiatoday.in",
-            "score": 3,
-            "added_time": "2026-02-07T01:00:08.141599+00:00"
-        },
-        {
-            "story_id": "a879f50ae39421bc4b77b3c1e5f419d8",
-            "topic": "Apple",
-            "subtopics": [
-                "Apple may launch iPhone 17e this month; report reveals key changes"
-            ],
-            "title": "Apple may launch iPhone 17e this month; report reveals key changes",
-            "desc": "Apple may soon introduce its next affordable iPhone, with reports pointing to a February launch and several changes planned for the new model.| Technology News",
-            "url": "https://www.hindustantimes.com/technology/apple-may-launch-iphone-17e-this-month-report-reveals-key-changes-101770366931598.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/06/550x309/iPhone_17e_1770367511063_1770367511194.png",
+            "title": "Now foreign secretary Vikram Misri asked about Russian oil imports. He explains",
+            "desc": "The external affairs ministry has long maintained that national interest and ensuring the country\u2019s energy security are the main factors of energy sourcing| India News",
+            "url": "https://www.hindustantimes.com/india-news/now-foreign-secretary-vikram-misri-asked-about-russian-oil-imports-he-explains-101770648713452.html",
+            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/09/550x309/Foreign-secretary-Vikram-Misri--ANI-_1770648707582.jpg",
             "source": "Hindustan Times",
             "score": 3,
-            "added_time": "2026-02-07T01:00:08.141616+00:00"
+            "added_time": "2026-02-10T06:54:29.553831+00:00"
         },
         {
-            "story_id": "0bffdf3f4f7dd363d2804756e1215cb8",
-            "topic": "Bitcoin",
+            "story_id": "a143571885196c01538c7201f58daa31",
+            "topic": "Pwc",
             "subtopics": [
-                "Bitcoin falls 8% and Asian shares mostly slip after Wall Street is hit by tech stock losses"
+                "Indian family biz thrived on instinct. Now it needs something more"
             ],
-            "title": "Bitcoin falls 8% and Asian shares mostly slip after Wall Street is hit by tech stock losses",
-            "desc": "Asian shares are mostly lower after Wall Street extended losses driven by technology stocks",
-            "url": "https://abcnews.go.com/Business/wireStory/bitcoin-falls-8-asian-shares-slip-after-wall-129907971",
-            "image": "https://i.abcnewsfe.com/a/e0b238bf-dd5a-4b81-86ee-48da273e8c56/wirestory_199d4d65b7596d7c34f3a5d9a77c2326_16x9.jpg?w=1600",
-            "source": "ABC News",
-            "score": 2,
-            "added_time": "2026-02-07T01:00:08.141623+00:00"
-        },
-        {
-            "story_id": "71bf3c2ec05e87c6adbccfa1c74d9c83",
-            "topic": "India & Asia Pacific",
-            "subtopics": [
-                "Stellantis Reports Q4 2025 Estimated Consolidated Shipments of 1.5 Million Units, +9% y-o-y"
-            ],
-            "title": "Stellantis Reports Q4 2025 Estimated Consolidated Shipments of 1.5 Million Units, +9% y-o-y",
-            "desc": "North America Shipments Up 43%, with South America, Middle East & Africa and China and India & Asia Pacific Also Reporting Growth",
-            "url": "https://www.stellantis.com/en/news/press-releases/2026/february/stellantis-reports-q4-2025-estimated-consolidated-shipments-of-1-5-million-units-9-percent-y-o-y",
-            "image": "https://www.stellantis.com/content/dam/stellantis-corporate/news/press-releases/share-icons/share-icons-v1.png",
-            "source": "Stellantis.com",
+            "title": "Indian family biz thrived on instinct. Now it needs something more",
+            "desc": "Indian family businesses are confident and resilient amidst global uncertainty. However, they are not adopting new technologies as quickly as international competitors. This gap in technology, governance, and succession planning could impact future growth. PwC's survey highlights the need for these businesses to embrace innovation and structured reforms to maintain their competitive edge.",
+            "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indian-family-biz-thrived-on-instinct-now-it-needs-something-more/articleshow/128116330.cms?from=mdr",
+            "image": "https://img.etimg.com/thumb/msid-128119420,width-1200,height-630,imgsize-48500,overlay-economictimes/articleshow.jpg",
+            "source": "The Economic Times",
             "score": 3,
-            "added_time": "2026-02-07T01:00:08.141630+00:00"
+            "added_time": "2026-02-10T06:54:29.553839+00:00"
         },
         {
-            "story_id": "4bb0353344ccc7a9546c8cc1962e1822",
-            "topic": "The 'Sahyog Portal'",
+            "story_id": "68ac27a677ec1f9047c3fc88dac80285",
+            "topic": "Roberts",
             "subtopics": [
-                "Kunal Kamra Moves Bombay High Court Challenging 'Sahyog Portal' & 2025 Amendment To IT Rules Allowing Blocking Of Social Media Content"
+                "A Military Analysis of Israel's War in Gaza (with Andrew Fox)"
             ],
-            "title": "Kunal Kamra Moves Bombay High Court Challenging 'Sahyog Portal' & 2025 Amendment To IT Rules Allowing Blocking Of Social Media Content",
-            "desc": "Satirist Kunal Kamra has approached the Bombay High Court challenging the constitutional validity of the 'Sahyog Portal' and the 2025 amendment to Rule 3(1)(d) of the Information Technology...",
-            "url": "https://www.livelaw.in/high-court/bombay-high-court/kunal-kamra-moves-bombay-high-court-challenging-sahyog-portal-2025-amendment-to-it-rules-allowing-blocking-of-social-media-content-522136",
-            "image": "https://www.livelaw.in/h-upload/2025/04/25/597214-kunal-kamra-bombay-hc.jpg",
-            "source": "Live Law",
+            "title": "A Military Analysis of Israel's War in Gaza (with Andrew Fox)",
+            "desc": "What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk\u2019s Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few [\u2026]",
+            "url": "https://www.econtalk.org/a-military-analysis-of-israels-war-in-gaza-with-andrew-fox/",
+            "image": "https://www.econlib.org/wp-content/uploads/2026/02/Depositphotos_683617568_L.jpg",
+            "source": "The Library of Economics and Liberty",
             "score": 3,
-            "added_time": "2026-02-07T01:00:08.141637+00:00"
+            "added_time": "2026-02-10T06:54:29.553846+00:00"
         },
         {
-            "story_id": "70966edf9454e550b1113b705afe5dcd",
-            "topic": "General",
+            "story_id": "edb085cdcddb061818685b6e31135c4b",
+            "topic": "Hpv",
             "subtopics": [
-                "What went right this week: the good news that matters"
+                "Future of Human Papillomavirus (HPV) Vaccines Market Growth"
             ],
-            "title": "What went right this week: the good news that matters",
-            "desc": "A third of cancer cases are \u2018avoidable\u2019, Africa powers ahead on solar, and the push for global tax justice gathers pace, plus more good news",
-            "url": "https://www.positive.news/society/good-news-stories-from-week-6-of-2026/",
-            "image": "https://positivenews.kinsta.cloud/wp-content/uploads/2026/02/shutterstock_2725443743.jpeg",
-            "source": "Positive News",
-            "score": 4,
-            "added_time": "2026-02-07T01:00:08.141651+00:00"
-        },
-        {
-            "story_id": "0c50e0f1f71794798746fbfdeb67d012",
-            "topic": "United States",
-            "subtopics": [
-                "China Secretly Testing Nuclear Weapons And Covering Its Tracks, U.S. Alleges (Updated)"
-            ],
-            "title": "China Secretly Testing Nuclear Weapons And Covering Its Tracks, U.S. Alleges (Updated)",
-            "desc": "The new U.S. accusations about China come at a turbulent moment for nuclear arms control globally.",
-            "url": "https://www.twz.com/nuclear/china-secretly-testing-nuclear-weapons-and-covering-its-tracks-u-s-alleges",
-            "image": "https://www.twz.com/wp-content/uploads/2026/02/Nuclear-China.jpg?w=1200",
-            "source": "The War Zone",
-            "score": 2,
-            "added_time": "2026-02-07T08:17:42.380591+00:00"
-        },
-        {
-            "story_id": "b3f799a5b23c7edd79a28ac62e71bbd1",
-            "topic": "Rf-Based Vru Safety Platforms Positioned For Institutional-Scale Growth",
-            "subtopics": [
-                "RF-Based VRU Safety Platforms Positioned for Institutional-Scale Growth"
-            ],
-            "title": "RF-Based VRU Safety Platforms Positioned for Institutional-Scale Growth",
-            "desc": "/PRNewswire/ -- Market News Updates News Commentary - The Vulnerable Road User (VRU) RF sensing platform market focuses on technology that helps vehicles and...",
-            "url": "https://www.prnewswire.com/news-releases/rf-based-vru-safety-platforms-positioned-for-institutional-scale-growth-302680721.html",
-            "image": "https://mma.prnewswire.com/media/2852558/Market_News_Updates_Logo.jpg?p=facebook",
-            "source": "PR Newswire",
+            "title": "Future of Human Papillomavirus (HPV) Vaccines Market Growth",
+            "desc": "Press release - DataM Intelligence 4 Market Research LLP - Future of Human Papillomavirus (HPV) Vaccines Market Growth (2025-2033) | Global Cervical Cancer Prevention Dosage, Supply, Production - published on openPR.com",
+            "url": "https://www.openpr.com/news/4382500/future-of-human-papillomavirus-hpv-vaccines-market-growth",
+            "image": "https://cdn.open-pr.com/L/2/L209562270_g.jpg",
+            "source": "openPR.com",
             "score": 3,
-            "added_time": "2026-02-07T08:17:42.380599+00:00"
+            "added_time": "2026-02-10T06:54:29.553852+00:00"
         },
         {
-            "story_id": "2f59df94f0d850b56c23435e89d8d272",
-            "topic": "Lunar Explo",
+            "story_id": "0d282a002f746ec5ce53b6377c74105d",
+            "topic": "Sustainable Development Goals",
             "subtopics": [
-                "bound again: 4 astronauts will fly farther than anyone since 1970s"
+                "The roles of women in cookstove intervention studies"
             ],
-            "title": "bound again: 4 astronauts will fly farther than anyone since 1970s",
-            "desc": "Science News: Four Artemis-II astronauts will return for a 10-day deep-space mission that\u2019ll test new spacecraft, new partnerships and a new approach to lunar explo.",
-            "url": "https://timesofindia.indiatimes.com/science/moonbound-again-4-astronauts-will-fly-farther-than-anyone-since-1970s/articleshow/127982304.cms",
-            "image": "https://static.toiimg.com/thumb/msid-127988641,width-1280,height-720,imgsize-1331804,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "source": "Times of India",
-            "score": 4,
-            "added_time": "2026-02-07T08:17:42.380606+00:00"
-        },
-        {
-            "story_id": "784b5a0c266cf3414feb7ff86cd46c77",
-            "topic": "Google",
-            "subtopics": [
-                "Google, Amazon, Meta, Microsoft spending more on AI in 2026 than India will spend on entire country"
-            ],
-            "title": "Google, Amazon, Meta, Microsoft spending more on AI in 2026 than India will spend on entire country",
-            "desc": "Whether AI is a boom or bust is something we don\u2019t know yet. But what has become clear is that tech companies are going all in on AI. Only four of them \u2014 Google, Meta, Amazon and Microsoft \u2014 are set to spend nearly $650 billion on AI in 2026. It is almost as much as the Indian government will spend on the entire country this year!",
-            "url": "https://www.indiatoday.in/technology/news/story/google-amazon-meta-microsoft-spending-more-on-ai-in-2026-than-india-will-spend-on-entire-country-2864194-2026-02-06",
-            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/meta--amazon--google--ai-065416286-16x9_0.jpg?VersionId=d5rSijDoMqWFvooQ7tN1pbFIrW13bkQP",
-            "source": "India Today",
-            "score": 3,
-            "added_time": "2026-02-07T08:17:42.380614+00:00"
-        },
-        {
-            "story_id": "1b28364417028879d94b583521585b76",
-            "topic": "Herbal",
-            "subtopics": [
-                "CDMMM: a comprehensive platform of traditional Indian medicinal plant DNA barcodes and metabolite fingerprints database"
-            ],
-            "title": "CDMMM: a comprehensive platform of traditional Indian medicinal plant DNA barcodes and metabolite fingerprints database",
-            "desc": "Herbal medicines, derived from medicinal plants, are in high demand due to global population growth and the increasing prevalence of chronic diseases; however, the use of substitutes or adulterants can compromise the quality of these medicines. DNA barcoding and metabolite fingerprinting are used to identify plants and ensure the safety of drugs. The effectiveness of authentication methods depends on the availability and coverage of the reference library. However, reference DNA barcodes and metabolite fingerprint libraries for traditional Indian medicinal plants are lacking, which hinders the authentication of herbal drugs and the elucidation of the therapeutic effects of secondary metabolites. In the present study, we developed a user-friendly \u2018Comprehensive Database of Medicinal Plants, Molecular Markers, and Metabolite Fingerprinting (CDMMM)\u2019 that provides extensive details on traditional Indian medicinal plants used in drug formulations, DNA barcode sequences, metabolites, and their therapeutic targets associated with diseases. CDMMM is an expandable data resource comprising 89 experimentally obtained DNA barcode accessions from 67 plant species, 3033 annotated plant metabolites, and 1414 therapeutic targets associated with 441 diseases from 20 plant species. The ever-expanding CDMMM resource is available at https://slsdb.manipal.edu/cdmmm/. Overall, it is a powerful platform for taxonomy, systematics, species identification, and drug discovery, promoting knowledge and addressing taxonomic uncertainties.",
-            "url": "https://www.nature.com/articles/s41598-026-37812-4?error=cookies_not_supported&code=274743d4-f69a-4c71-ae60-19df05edab38",
-            "image": "https://www.nature.com/static/images/favicons/nature/favicon-48x48-b52890008c.png",
+            "title": "The roles of women in cookstove intervention studies",
+            "desc": "Clean cooking fuel interventions can substantially advance Sustainable Development Goals related to health, poverty, gender equality and (possibly) climate change. Here we systematically review gender roles within cookstove randomized control trials (RCTs) with respect to (1) health and exposure; (2) time, labour, finance and behaviour; (3) climate; and (4) the research activities. We focus on RCTs because public health scholarship considers RCTs, despite limitations, to provide the highest-quality evidence to guide policy and widescale programming. Across our 123 included studies, women are frequently targeted but then not acknowledged in time, labour, finances and even health outcomes. Acknowledgement of gender norms is scarce. Using WHO gender-responsiveness categories, we find that 37% of studies were gender-unequal or gender-unaware. Women are often monitored only as proxies for their unborn children, our category of gender-unaware but sex-aware (26%). Twenty-nine percent are gender-sensitive, with only 6% gender-specific and two gender-transformative studies. We present recommendations for the field to shift to more gender-sensitive research designs, without which the field risks leaning into existing inequalities and basing future interventions on spuriously gender-neutral premises. This systematic review explores the gender dimensions of cookstove randomized control trials in low- and middle-income countries, published between 2000 and 2024, and highlights the importance of shifting towards more gender-sensitive research designs.",
+            "url": "https://www.nature.com/articles/s41893-026-01769-z?error=cookies_not_supported&code=c9398b55-df36-418d-939e-8521e97dab9e",
+            "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41893-026-01769-z/MediaObjects/41893_2026_1769_Fig1_HTML.png",
             "source": "Nature",
-            "score": 4,
-            "added_time": "2026-02-08T07:57:45.882563+00:00"
-        },
-        {
-            "story_id": "3313a9172abb8c63fbdc2646eab2db23",
-            "topic": "Wrist\u2011Worn",
-            "subtopics": [
-                "Doctors Welcome WHO Focus On Wearables"
-            ],
-            "title": "Doctors Welcome WHO Focus On Wearables",
-            "desc": "Reacting to discussions at the WHO\u2019s Montreal meeting, physicians said wrist\u2011worn devices offered a more reliable alternative to traditional self\u2011reported surveys, which often underestimate physical inactivity.",
-            "url": "https://www.deccanchronicle.com/southern-states/telangana/doctors-welcome-who-focus-on-wearables-1935735",
-            "image": "https://www.deccanchronicle.com/h-upload/2026/02/07/2007864-dc-cover-oiomedap4i18l94k3gil8rehn5-20180929051401medi.jpg",
-            "source": "Deccan Chronicle",
             "score": 3,
-            "added_time": "2026-02-08T07:57:45.882585+00:00"
+            "added_time": "2026-02-10T06:54:29.553859+00:00"
         },
         {
-            "story_id": "4f966d52b1f707051f6e0615b9173d75",
-            "topic": "Samsung Galaxy M36",
+            "story_id": "8ffa872b2f1ae7267f656f40f4422d00",
+            "topic": "India",
             "subtopics": [
-                "Samsung Galaxy M36 vs iQOO Z10R: Which is the better smartphone?"
+                "Accelerating corporate climate transition planning and disclosures in India"
             ],
-            "title": "Samsung Galaxy M36 vs iQOO Z10R: Which is the better smartphone?",
-            "desc": "The competition in the sub-\u20b920,000 smartphone market intensifies as both the Samsung Galaxy M36 and the iQOO Z10R arrive with robust chipsets, decent battery capacity, vlog-ready cameras, and more.",
-            "url": "https://tech.sportskeeda.com/mobiles/galaxy-m36-vs-iqoo-z10r-which-better-smartphone",
-            "image": "https://staticg.sportskeeda.com/editor/2026/02/1bcdc-17704653651149-1920.jpg",
-            "source": "Sportskeeda Tech",
-            "score": 4,
-            "added_time": "2026-02-08T07:57:45.882594+00:00"
-        },
-        {
-            "story_id": "e4ed87af38357a512f5ccacc10a68d72",
-            "topic": "Islamabad",
-            "subtopics": [
-                "Thousands mourn victims of suicide bombing in Islamabad, as four arrests made"
-            ],
-            "title": "Thousands mourn victims of suicide bombing in Islamabad, as four arrests made",
-            "desc": "ISLAMABAD - Thousands of mourners gathered in Islamabad on Saturday to start burying the 32 people killed in a suicide bombing at a Shi'ite Muslim mosque during Friday prayers, as the city tightened security and authorities arrested four people believed to have helped the bomber.",
-            "url": "https://www.gmanetwork.com/news/topstories/world/975775/thousands-mourn-victims-of-suicide-bombing-in-islamabad-as-four-arrests-made/story/",
-            "image": "https://images.gmanews.tv/webpics/2026/02/islamabad_bombing_funeral_2026_02_07_23_53_39.jpg",
-            "source": "GMA Network",
-            "score": 3,
-            "added_time": "2026-02-08T07:57:45.882602+00:00"
-        },
-        {
-            "story_id": "869335644e269a1e36281aeb594bc8ad",
-            "topic": "Andhra Pradesh",
-            "subtopics": [
-                "AP Quantum Valley: 1st Step In History!"
-            ],
-            "title": "AP Quantum Valley: 1st Step In History!",
-            "desc": "Andhra Pradesh has taken a significant step towards quantum computing and its future prospects. Chief Minister Chandrababu Naidu and Union Minister",
-            "url": "https://www.gulte.com/featured/395133/ap-quantum-valley-1st-step-in-history",
-            "image": "https://cdn.gulte.com/wp-content/uploads/2026/02/chandrababu-quantum-valley-.jpg",
-            "source": "Gulte",
-            "score": 4,
-            "added_time": "2026-02-08T07:57:45.882608+00:00"
-        },
-        {
-            "story_id": "37c7ac0dd0df8abdf8c85c8bc95db2e1",
-            "topic": "Zanzibar",
-            "subtopics": [
-                "Why Zanzibar\u2019s executives can not ignore Artificial Intelligence in real life"
-            ],
-            "title": "Why Zanzibar\u2019s executives can not ignore Artificial Intelligence in real life",
-            "desc": "ZANZIBAR: AT around 9.30am local time, in the morning, inside a quiet conference hall at Madinat al Bahri Hotel in Zanzibar, senior government officials-Principal Secretaries (PS) sat not to discuss budgets or policies, but to confront a different kind of future, one shaped by algorithms, data, and machines that can learn. For many of them,",
-            "url": "https://dailynews.co.tz/why-zanzibars-executives-can-not-ignore-artificial-intelligence-in-real-life/",
-            "image": "https://dailynews.co.tz/wp-content/uploads/2026/02/ZENAA.png",
-            "source": "dailynews.co.tz",
-            "score": 3,
-            "added_time": "2026-02-08T07:57:45.882617+00:00"
-        },
-        {
-            "story_id": "3f96c6b67d7a119dae4655df455545e9",
-            "topic": "Malaysia",
-            "subtopics": [
-                "'Our Ties With Malaysia Scaling New Heights': PM Modi Highlights Shared Values In Kuala Lumpur"
-            ],
-            "title": "'Our Ties With Malaysia Scaling New Heights': PM Modi Highlights Shared Values In Kuala Lumpur",
-            "desc": "PM Modi highlighted that Malaysia had the second-highest Indian community in the world and placed a particular emphasis on Tamil linkages between the two nations.",
-            "url": "https://www.news18.com/india/our-ties-with-malaysia-scaling-new-heights-pm-modi-highlights-shared-values-in-kuala-lumpur-9886745.html",
-            "image": "https://images.news18.com/ibnlive/uploads/2026/02/modi-1-2026-02-b5ab6c2300a032a900f3ca1ceab4a195-16x9.jpg",
-            "source": "News18",
-            "score": 4,
-            "added_time": "2026-02-08T07:57:45.882624+00:00"
-        },
-        {
-            "story_id": "15583fbd73a63ffaf8b391253058f87d",
-            "topic": "New Delhi",
-            "subtopics": [
-                "Trump wants India to stop buying Russian oil - what if New Delhi says no? What the interim trade pact says"
-            ],
-            "title": "Trump wants India to stop buying Russian oil - what if New Delhi says no? What the interim trade pact says",
-            "desc": "India Business News: US President Donald Trump has lifted the additional 25 per cent tariff imposed on Indian imports over New Delhi\u2019s purchases of Russian oil. The move f.",
-            "url": "https://timesofindia.indiatimes.com/business/india-business/trump-wants-india-to-stop-buying-russian-oil-what-if-new-delhi-says-no-what-the-interim-trade-pact-says/articleshow/128029143.cms",
-            "image": "https://static.toiimg.com/thumb/msid-128029191,width-1280,height-720,imgsize-609603,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "source": "Times of India",
-            "score": 3,
-            "added_time": "2026-02-08T07:57:45.882630+00:00"
-        },
-        {
-            "story_id": "b86854a4316d32784adf2fe00919a735",
-            "topic": "New Iit Bombay Research Improves Recovery Of T",
-            "subtopics": [
-                "New IIT Bombay Research Improves Recovery of T"
-            ],
-            "title": "New IIT Bombay Research Improves Recovery of T",
-            "desc": "Immunotherapy is transforming cancer care by mobilising the body\u2019s own immune system to eliminate tumours. Among the most promising advances is CAR T-cell therapy, which involves genetically engineering a patient\u2019s [\u2026]",
-            "url": "https://theindianpractitioner.com/new-iit-bombay-research-improves-recovery-of-t-cells-for-advanced-cancer-care/",
-            "image": "https://theindianpractitioner.com/wp-content/uploads/2026/02/New-IIT-Bombay-Research-Improves-Recovery-of-T-Cells-for-Advanced-Cancer-Care.png",
-            "source": "The Indian Practitioner",
-            "score": 3,
-            "added_time": "2026-02-08T07:57:45.882637+00:00"
-        },
-        {
-            "story_id": "bf7ddd35f5fb1350d6870b229c3416b2",
-            "topic": "General",
-            "subtopics": [
-                "Degrees without debt: 10 countries redefining affordable education in 2026"
-            ],
-            "title": "Degrees without debt: 10 countries redefining affordable education in 2026",
-            "desc": "Studying abroad remains a major goal for many students around the world. However, high tuition fees and the cost of living in popular...",
-            "url": "https://businessday.ng/bd-weekender/article/degrees-without-debt-10-countries-redefining-affordable-education-in-2026/",
-            "image": "https://cdn.businessday.ng/wp-content/uploads/2026/02/Students-can-study-abroad-without-debt-Top-10-countries-for-2026.png",
-            "source": "Businessday NG",
-            "score": 4,
-            "added_time": "2026-02-08T07:57:45.882643+00:00"
-        },
-        {
-            "story_id": "020759b832179ebb31322ab163f14725",
-            "topic": "Hollywood",
-            "subtopics": [
-                "Chris Hemsworth and Elsa Pataky open up about raising their three children in Australia"
-            ],
-            "title": "Chris Hemsworth and Elsa Pataky open up about raising their three children in Australia",
-            "desc": "Chris Hemsworth and Elsa Pataky say raising their family in Australia has been a positive experience.The Hollywood couple recently shared rare details about life with their three children, including...",
-            "url": "https://www.thenews.com.pk/latest/1391465-chris-hemsworth-and-elsa-pataky-open-up-about-raising-their-three-children-in-australia",
-            "image": "https://www.thenews.com.pk/assets/uploads/2026-02-08/1391465_052439_updates.jpg",
-            "source": "The News International",
-            "score": 3,
-            "added_time": "2026-02-08T12:22:57.955995+00:00"
-        },
-        {
-            "story_id": "b0666adf17271a4ea3fb29febaa789dc",
-            "topic": "Bill Gates",
-            "subtopics": [
-                "Nuclear sees tipping point as Meta makes deals with Bill Gates\u2019 TerraPower, Sam Altman-backed Oklo"
-            ],
-            "title": "Nuclear sees tipping point as Meta makes deals with Bill Gates\u2019 TerraPower, Sam Altman-backed Oklo",
-            "desc": "Meta, Google, Amazon, and more all hope to lean on a nuclear construction boom to power AI.",
-            "url": "https://fortune.com/2026/02/07/next-gen-nuclear-tipping-point-meta-hyperscalers-bill-gates-terrapower-sam-altman-oklo/",
-            "image": "https://fortune.com/img-assets/wp-content/uploads/2026/02/GettyImages-2215966935-e1770338435600.jpg?resize=1200,600",
-            "source": "Fortune",
+            "title": "Accelerating corporate climate transition planning and disclosures in India",
+            "desc": "Transition planning must account for affordability and development priorities in a growing economy.",
+            "url": "https://ieefa.org/resources/accelerating-corporate-climate-transition-planning-and-disclosures-india",
+            "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-02/ESG.jpg?itok=t6uDn4YR",
+            "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
             "score": 2,
-            "added_time": "2026-02-08T12:22:57.956023+00:00"
+            "added_time": "2026-02-10T06:54:29.553866+00:00"
         },
         {
-            "story_id": "fa738d2f0d9cedbdd805f6f8cd2d0914",
-            "topic": "United States",
+            "story_id": "506ac1d355b974f791943de65acb861e",
+            "topic": "Invensense",
             "subtopics": [
-                "Disproportionately Strong Air Force! Tiny Nation \u2014 6M People & 280 Sq Miles Area \u2014 To Become First With F-35 STOVL Jets"
+                "Wearables Inertial Measurement Unit Market Set"
             ],
-            "title": "Disproportionately Strong Air Force! Tiny Nation \u2014 6M People & 280 Sq Miles Area \u2014 To Become First With F-35 STOVL Jets",
-            "desc": "Singapore is set to receive its first four F-35B short take-off and vertical landing (STOVL) jets before the end of 2026.\u00a0 With the acquisition, Singapore will become the first country in the world, apart from the US, to operate the F-35B fighters from land bases rather than aircraft carriers. Singapore, with a total land area [\u2026]",
-            "url": "https://www.eurasiantimes.com/disproportionately-strong-air-force-tiny-nation-6m-people-280-sq-miles-area-to-become-first-with-f-35-stovl-jets/",
-            "image": "https://www.eurasiantimes.com/wp-content/uploads/2026/02/F-35b-e1770521698341.jpg",
-            "source": "EurAsian Times",
+            "title": "Wearables Inertial Measurement Unit Market Set",
+            "desc": "Press release - Coherent Market Insights Pvt. Ltd - Wearables Inertial Measurement Unit Market Set for Transformation Through 2033 | Bosch Sensortec ? STMicroelectronics ? InvenSense - published on openPR.com",
+            "url": "https://www.openpr.com/news/4382175/wearables-inertial-measurement-unit-market-set",
+            "image": "https://cdn.open-pr.com/L/2/L209761705_g.jpg",
+            "source": "openPR.com",
             "score": 3,
-            "added_time": "2026-02-08T16:17:12.881510+00:00"
-        },
-        {
-            "story_id": "7bc1b53406bb95c6ccd38ca230c32f10",
-            "topic": "Ethiopia",
-            "subtopics": [
-                "A Broken World Order Leaves AI as Multilateralism's Last Test"
-            ],
-            "title": "A Broken World Order Leaves AI as Multilateralism's Last Test",
-            "desc": "Addisfortune - Ethiopian Business News from the largest english weekly in ethiopia.",
-            "url": "https://addisfortune.news/a-broken-world-order-leaves-ai-as-multilateralisms-last-test",
-            "image": "https://addisfortune.news/wp-content/themes/addis-fortune/images/defaultPhots/opinion.jpg",
-            "source": "Addis Fortune News",
-            "score": 2,
-            "added_time": "2026-02-08T16:17:12.881533+00:00"
-        },
-        {
-            "story_id": "375fecb9a0f999cd51554b10818da956",
-            "topic": "Uk",
-            "subtopics": [
-                "UK Firms Spend N556bn on Visas for 84,000 Nigerians"
-            ],
-            "title": "UK Firms Spend N556bn on Visas for 84,000 Nigerians",
-            "desc": "UK firms spent N556bn on UK work visas for 84,000 Nigerians in 2024, mainly in healthcare and IT. Discover the costs and impact of this brain drain.",
-            "url": "https://punchng.com/uk-firms-spent-n556bn-on-permits-for-84000-nigerians-report/",
-            "image": "https://cdn.punchng.com/wp-content/uploads/2022/11/15101721/United-Kingdom.png",
-            "source": "Punch Newspapers",
-            "score": 3,
-            "added_time": "2026-02-08T16:17:12.881547+00:00"
-        },
-        {
-            "story_id": "44dca2fd9f189800668f2944854f39ac",
-            "topic": "Titan",
-            "subtopics": [
-                "Titan sharpens premium watch strategy with chess prodigy Gukesh-led \u2018Titan of the Year\u2019 push"
-            ],
-            "title": "Titan sharpens premium watch strategy with chess prodigy Gukesh-led \u2018Titan of the Year\u2019 push",
-            "desc": "The Tata Group company institutionalises Titan of the Year as a long-term brand platform, using limited-edition mechanical watches to push deeper into high-value segments.",
-            "url": "https://www.fortuneindia.com/business-news/titan-sharpens-premium-watch-strategy-with-chess-prodigy-gukesh-led-titan-of-the-year-push/130201",
-            "image": "https://media.fortuneindia.com/fortune-india/2026-02-08/dhemotsz/Titan-hero-image.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-            "source": "Fortune India",
-            "score": 3,
-            "added_time": "2026-02-08T18:35:14.894057+00:00"
+            "added_time": "2026-02-10T06:54:29.553880+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "7ee3353c6eae49b55e4999db298a06f7",
-            "topic": "NASA",
-            "subtopics": [
-                "Meet Vandi Verma: Indian-origin NASA scientist behind the first-ever AI-planned rover drive on Mars"
-            ],
-            "title": "Meet Vandi Verma: Indian-origin NASA scientist behind the first-ever AI-planned rover drive on Mars",
-            "desc": "Science News: Vandi Verma has emerged as one of the key figures behind a landmark moment in planetary exploration. On December 8 and 10, 2025, NASA\u2019s Perseverance s.",
-            "url": "https://timesofindia.indiatimes.com/science/meet-vandi-verma-indian-origin-nasa-scientist-behind-the-first-ever-ai-planned-rover-drive-on-mars/articleshow/127842512.cms",
-            "image": "https://static.toiimg.com/thumb/msid-127842534,width-1280,height-720,imgsize-978256,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-            "source": "Times of India",
-            "score": 4,
-            "added_time": "2026-02-02T12:20:27.326358+00:00"
-        },
         {
             "story_id": "b476ee8ccc00d0e7843beaf2e861b28c",
             "topic": "India News",
@@ -1756,15 +824,23 @@
             "source": "The New Indian Express",
             "score": 5,
             "added_time": "2026-02-08T16:17:12.881553+00:00"
+        },
+        {
+            "story_id": "a357d68a84b83cc7887dd35cd7725adc",
+            "topic": "India",
+            "subtopics": [
+                "Oil, tariffs and farming: What we still don't know about US-India trade deal"
+            ],
+            "title": "Oil, tariffs and farming: What we still don't know about US-India trade deal",
+            "desc": "Opposition leaders, farmers and trade experts have raised concerns over the interim agreement.",
+            "url": "https://www.bbc.com/news/articles/c62036e10d9o",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f835/live/35250d50-0596-11f1-a104-c5356659c263.jpg",
+            "source": "BBC",
+            "score": 6,
+            "added_time": "2026-02-10T06:54:29.553872+00:00"
         }
     ],
     "recent_topics": {
-        "Mediatek": "2026-02-07T08:17:42.380649+00:00",
-        "Apa Psycarticles": "2026-02-08T07:57:45.882679+00:00",
-        "Blackrock Blackrock": "2026-02-08T08:09:25.633531+00:00",
-        "Mukesh Ambani": "2026-02-08T08:19:24.020486+00:00",
-        "Kumar Sanu": "2026-02-08T12:22:57.956059+00:00",
-        "General": "2026-02-08T16:17:12.881591+00:00",
-        "Sujata Bajaj\u2019S": "2026-02-08T18:35:14.894120+00:00"
+        "India": "2026-02-10T06:54:29.553896+00:00"
     }
 }
