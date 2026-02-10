@@ -15,20 +15,6 @@
             "added_time": "2026-02-10T06:54:29.553822+00:00"
         },
         {
-            "story_id": "68ac27a677ec1f9047c3fc88dac80285",
-            "topic": "Roberts",
-            "subtopics": [
-                "A Military Analysis of Israel's War in Gaza (with Andrew Fox)"
-            ],
-            "title": "A Military Analysis of Israel's War in Gaza (with Andrew Fox)",
-            "desc": "What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk\u2019s Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few [\u2026]",
-            "url": "https://www.econtalk.org/a-military-analysis-of-israels-war-in-gaza-with-andrew-fox/",
-            "image": "https://www.econlib.org/wp-content/uploads/2026/02/Depositphotos_683617568_L.jpg",
-            "source": "The Library of Economics and Liberty",
-            "score": 3,
-            "added_time": "2026-02-10T06:54:29.553846+00:00"
-        },
-        {
             "story_id": "edb085cdcddb061818685b6e31135c4b",
             "topic": "Hpv",
             "subtopics": [
@@ -100,20 +86,6 @@
         }
     ],
     "posted": [
-        {
-            "story_id": "c91b86c31c27704f9d5b93adf4d1eaaa",
-            "topic": "India",
-            "subtopics": [
-                "BUDGET 2026: India's Renewable Energy Sector Leaders Respond To Budget"
-            ],
-            "title": "BUDGET 2026: India's Renewable Energy Sector Leaders Respond To Budget",
-            "desc": "Hours after the Union Finance Minister Nirmala Sitharaman presented the Union Budget for 2026-27, several leaders from the Indian renewable and clean tech sector responded. Excerpts:",
-            "url": "https://www.saurenergy.com/solar-energy-news/budget-2026-indias-renewable-energy-sector-leaders-respond-to-budget-11064157",
-            "image": "https://img-cdn.publive.online/fit-in/1200x675/saur-energy/media/media_files/2026/01/07/solar-plus-storage-2-2026-01-07-12-54-11.jpg",
-            "source": "Saur Energy",
-            "score": 4,
-            "added_time": "2026-02-02T12:20:27.326380+00:00"
-        },
         {
             "story_id": "4f0cb80fc36c177194094837920f096b",
             "topic": "Technology & Science, Times",
@@ -810,6 +782,20 @@
             "source": "The Economic Times",
             "score": 3,
             "added_time": "2026-02-10T06:54:29.553839+00:00"
+        },
+        {
+            "story_id": "68ac27a677ec1f9047c3fc88dac80285",
+            "topic": "Roberts",
+            "subtopics": [
+                "A Military Analysis of Israel's War in Gaza (with Andrew Fox)"
+            ],
+            "title": "A Military Analysis of Israel's War in Gaza (with Andrew Fox)",
+            "desc": "What does war look like when fought under the harshest scrutiny? Veteran soldier and military researcher Andrew Fox talks about his first-hand experience in Gaza with EconTalk\u2019s Russ Roberts. He and Roberts explore the challenges of reporting and understanding the war amid the challenges of disinformation, and why Fox believes that the IDF had few [\u2026]",
+            "url": "https://www.econtalk.org/a-military-analysis-of-israels-war-in-gaza-with-andrew-fox/",
+            "image": "https://www.econlib.org/wp-content/uploads/2026/02/Depositphotos_683617568_L.jpg",
+            "source": "The Library of Economics and Liberty",
+            "score": 3,
+            "added_time": "2026-02-10T06:54:29.553846+00:00"
         }
     ],
     "recent_topics": {
@@ -817,6 +803,7 @@
         "Deeptech": "2026-02-10T07:04:43.483789+00:00",
         "Vikram Misri": "2026-02-10T08:39:25.419196+00:00",
         "Toi": "2026-02-10T10:54:22.816628+00:00",
-        "Pwc": "2026-02-10T11:05:52.628898+00:00"
+        "Pwc": "2026-02-10T11:05:52.628898+00:00",
+        "Roberts": "2026-02-10T11:40:05.197683+00:00"
     }
 }
