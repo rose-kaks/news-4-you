@@ -125,23 +125,69 @@
             "source": "The Times of India",
             "score": 3,
             "added_time": "2026-02-10T20:35:55.533033+00:00"
+        },
+        {
+            "story_id": "b8bebed16c65cbde4f68bfbc3f537457",
+            "topic": "Ai",
+            "subtopics": [
+                "Government\u2019s new IT rules make AI content labelling mandatory; give Facebook, Instagram and other platforms 3 hours for takedowns",
+                "India Cooperation Across Trade, Tech, and Health",
+                "Telstra to axe more than 200 jobs amid AI rollout"
+            ],
+            "title": ": Government\u2019s new IT rules make AI content labelling mandatory; give Facebook, Instagram and other platforms 3 hours for takedowns; give Facebook, Instagram and other platforms 3 hours for take",
+            "desc": "Tech News News: The government has brought AI-generated content\u2014deepfake videos, synthetic audio, altered visuals\u2014under a formal regulatory framework for the first ti.",
+            "url": "https://timesofindia.indiatimes.com/technology/tech-news/governments-new-it-rules-make-ai-content-labelling-mandatory-give-google-youtube-instagram-and-other-platforms-3-hours-for-takedowns/articleshow/128157496.cms",
+            "image": "https://static.toiimg.com/thumb/msid-128157496,width-1280,height-720,imgsize-51100,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 3,
+            "added_time": "2026-02-11T01:27:16.614413+00:00"
+        },
+        {
+            "story_id": "a9cfebf2704073816ced24abb07730e1",
+            "topic": "Cfo",
+            "subtopics": [
+                "WESCO International, Inc. Announces Upcoming Retirement of Dave Schulz, EVP and CFO, and Appointment of Indraneel Dev as EVP and CFO",
+                "Fractal Analytics IPO: Onida's Gulu Mirchandani's Rs 2.75-crore investment turned into Rs 2,400 crore in 22 years",
+                "SEBI stalls entry of NCDEX, Metropolitan Stock Exchange into options market: Report"
+            ],
+            "title": "WESCO International, Inc. Announces Upcoming Retirement of Dave Schulz, EVP and CFO, and Appointment of Indraneel Dev as EVP and",
+            "desc": "/PRNewswire/ -- WESCO International, Inc. (NYSE: WCC), a leading provider of business-to-business distribution, logistics services and supply chain solutions,...",
+            "url": "https://www.prnewswire.com/news-releases/wesco-international-inc-announces-upcoming-retirement-of-dave-schulz-evp-and-cfo-and-appointment-of-indraneel-dev-as-evp-and-cfo-302683193.html",
+            "image": "https://mma.prnewswire.com/media/2069279/WESCO_Logo.jpg?p=facebook",
+            "source": "PR Newswire",
+            "score": 5,
+            "added_time": "2026-02-11T01:27:17.688814+00:00"
+        },
+        {
+            "story_id": "57a22ef88fd934dc042c3e9f8cc8ea18",
+            "topic": "Budget",
+            "subtopics": [
+                "Valentine\u2019s Day smartphone offers: Budget, mid-range and premium picks"
+            ],
+            "title": ": Valentine\u2019s Day smartphone offers: Budget, mid-range and premium picks: Budget, mid-range and premium picks.",
+            "desc": "Looking for the perfect Valentine\u2019s Day gift? Discover the best smartphone deals in India with huge discounts on budget, mid-range and premium mobiles across top online stores.\nsmartphones",
+            "url": "https://www.pcquest.com/smartphones/valentines-day-smartphone-offers-budget-mid-range-and-premium-picks-11091399",
+            "image": "https://img-cdn.publive.online/fit-in/1200x675/pcq/media/media_files/2026/02/10/valentines-day-smartphone-offers-budget-mid-range-and-premium-picks-2026-02-10-09-32-38.jpg",
+            "source": "PCQuest",
+            "score": 4,
+            "added_time": "2026-02-11T01:27:19.224799+00:00"
+        },
+        {
+            "story_id": "b49db52dee9f6c6ff31e217d834888be",
+            "topic": "Rezum Water",
+            "subtopics": [
+                "Tanzania's medical tourism agenda gets major boost with KCMC's steam surgery"
+            ],
+            "title": "Tanzania's medical tourism agenda gets major boost with KCMC's steam surgery. Tanzania's medical tourism agenda gets major boost with KCMC's steam surgery.",
+            "desc": "Tanzania has taken a major step in medical tourism after the Kilimanjaro Christian Medical Centre (KCMC) successfully treated 11 patients with prostate problems using Rezum Water Vapor Therapy, a...",
+            "url": "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-medical-tourism-agenda-gets-major-boost-with-kcmc-s-steam-surgery-5354524",
+            "image": "https://www.thecitizen.co.tz/resource/image/5354552/landscape_ratio3x2/1200/800/1320f844ed32166183965d7eac4a9436/ig/tourism-pic.jpg",
+            "source": "thecitizen.co.tz",
+            "score": 3,
+            "added_time": "2026-02-11T01:27:20.271318+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "7876cc7457a83ea7ba699af89cf5bed5",
-            "topic": "Singapore",
-            "subtopics": [
-                "Singapore to set up new national space agency on Apr 1"
-            ],
-            "title": "Singapore to set up new national space agency on Apr 1",
-            "desc": "The agency will let Singapore maximise space technology applications for national and regional needs, says Minister-in-charge of Energy and Science and Technology Tan See Leng.",
-            "url": "https://www.channelnewsasia.com/singapore/national-space-agency-singapore-technology-legislation-5899941",
-            "image": "https://dam.mediacorp.sg/image/upload/s--9hhADuya--/c_crop,h_900,w_1600,x_0,y_0/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/02/wwz_4793.jpg?itok=3q0Tgqme",
-            "source": "CNA",
-            "score": 3,
-            "added_time": "2026-02-02T14:47:50.698993+00:00"
-        },
         {
             "story_id": "a71e03f0a68778eec09c69d25707b767",
             "topic": "India",
@@ -838,6 +884,20 @@
             "source": "Moneycontrol",
             "score": 4,
             "added_time": "2026-02-10T20:35:53.456633+00:00"
+        },
+        {
+            "story_id": "79eaf6981a4b845a895c87a6fbde3027",
+            "topic": "Anatoliy Polyanker",
+            "subtopics": [
+                "The making of MX Master 4: How Logitech designed a premium wireless mouse with haptic vibrations"
+            ],
+            "title": "MX Master 4: How Logitech designed a premium wireless mouse with haptic vibrations.",
+            "desc": "In an interview with indianexpress.com, Logitech\u2019s Anatoliy Polyanker opened up about how the Swiss company designed the MX Master 4, a high-end premium wireless mouse with haptic feedback.",
+            "url": "https://indianexpress.com/article/technology/tech-news-technology/the-making-of-mx-master-4-how-logitech-designed-a-premium-wireless-mouse-with-haptic-vibrations-10524437/",
+            "image": "https://images.indianexpress.com/2026/02/IE-2026-02-10T174546.261.jpg",
+            "source": "The Indian Express",
+            "score": 7,
+            "added_time": "2026-02-11T01:27:18.394199+00:00"
         }
     ],
     "recent_topics": {
@@ -850,6 +910,7 @@
         "Hpv": "2026-02-10T12:02:06.111948+00:00",
         "Sustainable Development Goals": "2026-02-10T12:46:09.798995+00:00",
         "Invensense": "2026-02-10T16:53:37.184287+00:00",
-        "Ncdex, Metropolitan Stock Exchange": "2026-02-10T20:35:55.533062+00:00"
+        "Ncdex, Metropolitan Stock Exchange": "2026-02-10T20:35:55.533062+00:00",
+        "Anatoliy Polyanker": "2026-02-11T01:27:20.271374+00:00"
     }
 }
