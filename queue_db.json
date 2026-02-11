@@ -143,22 +143,6 @@
             "added_time": "2026-02-11T01:27:16.614413+00:00"
         },
         {
-            "story_id": "a9cfebf2704073816ced24abb07730e1",
-            "topic": "Cfo",
-            "subtopics": [
-                "WESCO International, Inc. Announces Upcoming Retirement of Dave Schulz, EVP and CFO, and Appointment of Indraneel Dev as EVP and CFO",
-                "Fractal Analytics IPO: Onida's Gulu Mirchandani's Rs 2.75-crore investment turned into Rs 2,400 crore in 22 years",
-                "SEBI stalls entry of NCDEX, Metropolitan Stock Exchange into options market: Report"
-            ],
-            "title": "WESCO International, Inc. Announces Upcoming Retirement of Dave Schulz, EVP and CFO, and Appointment of Indraneel Dev as EVP and",
-            "desc": "/PRNewswire/ -- WESCO International, Inc. (NYSE: WCC), a leading provider of business-to-business distribution, logistics services and supply chain solutions,...",
-            "url": "https://www.prnewswire.com/news-releases/wesco-international-inc-announces-upcoming-retirement-of-dave-schulz-evp-and-cfo-and-appointment-of-indraneel-dev-as-evp-and-cfo-302683193.html",
-            "image": "https://mma.prnewswire.com/media/2069279/WESCO_Logo.jpg?p=facebook",
-            "source": "PR Newswire",
-            "score": 5,
-            "added_time": "2026-02-11T01:27:17.688814+00:00"
-        },
-        {
             "story_id": "57a22ef88fd934dc042c3e9f8cc8ea18",
             "topic": "Budget",
             "subtopics": [
@@ -185,26 +169,23 @@
             "source": "thecitizen.co.tz",
             "score": 3,
             "added_time": "2026-02-11T01:27:20.271318+00:00"
+        },
+        {
+            "story_id": "ff81c6da330d7ce203bf2f5523be0025",
+            "topic": "General",
+            "subtopics": [
+                "Basic habits that may block your weight loss despite regular workout"
+            ],
+            "title": "Basic habits that may block your weight loss despite regular workout",
+            "desc": "Working out regularly but still seeing the same number on the weighing scale? It may be time to dig a little deeper and take a closer look at your everyday habits.",
+            "url": "https://www.indiatoday.in/lifestyle/wellness/story/basic-habits-that-may-block-your-weight-loss-despite-regular-workout-2865999-2026-02-10",
+            "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202602/the-answer-to-why-you-are-unable-to-lose-weight-may-lie-in-your-daily-habits--photo-pexelsketut-s-103147609-16x9_0.png?VersionId=tl7KSpOiPzRdPmdBXbQUwtXo8wH3i5YD",
+            "source": "India Today",
+            "score": 3,
+            "added_time": "2026-02-11T05:24:33.854907+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "a71e03f0a68778eec09c69d25707b767",
-            "topic": "India",
-            "subtopics": [
-                "Donald Trump announces trade deal between US and India with tariffs slashed",
-                "US will lower India tariffs to 18% after Modi agrees to stop buying Russian oil, says Trump",
-                "US agrees to drop tariffs after India stops Russian oil purchases",
-                "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil"
-            ],
-            "title": "Donald Trump announces trade deal between US and India with tariffs slashed",
-            "desc": "The US president says his social media platform that a deal had been struck, which includes a reduction of tariffs on Indian products in exchange for New Delhi no longer buying oil from Russia.",
-            "url": "https://www.abc.net.au/news/2026-02-03/trump-says-us-india-trade-deal-agreed-to-with-modi/106298034",
-            "image": "https://live-production.wcms.abc-cdn.net.au/dbc50267783d5984bc87a0acad8e265d?impolicy=wcms_watermark_news&cropH=1601&cropW=2846&xPos=0&yPos=151&width=862&height=485&imformat=generic",
-            "source": "Australian Broadcasting Corporation",
-            "score": 5,
-            "added_time": "2026-02-03T08:46:38.078523+00:00"
-        },
         {
             "story_id": "f0d706ad03052022f204462533ec38ac",
             "topic": "Nirmala Sitharaman'S",
@@ -898,6 +879,22 @@
             "source": "The Indian Express",
             "score": 7,
             "added_time": "2026-02-11T01:27:18.394199+00:00"
+        },
+        {
+            "story_id": "a9cfebf2704073816ced24abb07730e1",
+            "topic": "Cfo",
+            "subtopics": [
+                "WESCO International, Inc. Announces Upcoming Retirement of Dave Schulz, EVP and CFO, and Appointment of Indraneel Dev as EVP and CFO",
+                "Fractal Analytics IPO: Onida's Gulu Mirchandani's Rs 2.75-crore investment turned into Rs 2,400 crore in 22 years",
+                "SEBI stalls entry of NCDEX, Metropolitan Stock Exchange into options market: Report"
+            ],
+            "title": "WESCO International, Inc. Announces Upcoming Retirement of Dave Schulz, EVP and CFO, and Appointment of Indraneel Dev as EVP and",
+            "desc": "/PRNewswire/ -- WESCO International, Inc. (NYSE: WCC), a leading provider of business-to-business distribution, logistics services and supply chain solutions,...",
+            "url": "https://www.prnewswire.com/news-releases/wesco-international-inc-announces-upcoming-retirement-of-dave-schulz-evp-and-cfo-and-appointment-of-indraneel-dev-as-evp-and-cfo-302683193.html",
+            "image": "https://mma.prnewswire.com/media/2069279/WESCO_Logo.jpg?p=facebook",
+            "source": "PR Newswire",
+            "score": 5,
+            "added_time": "2026-02-11T01:27:17.688814+00:00"
         }
     ],
     "recent_topics": {
@@ -911,6 +908,7 @@
         "Sustainable Development Goals": "2026-02-10T12:46:09.798995+00:00",
         "Invensense": "2026-02-10T16:53:37.184287+00:00",
         "Ncdex, Metropolitan Stock Exchange": "2026-02-10T20:35:55.533062+00:00",
-        "Anatoliy Polyanker": "2026-02-11T01:27:20.271374+00:00"
+        "Anatoliy Polyanker": "2026-02-11T01:27:20.271374+00:00",
+        "Cfo": "2026-02-11T05:24:33.854944+00:00"
     }
 }
