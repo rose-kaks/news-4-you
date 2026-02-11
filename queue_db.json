@@ -1,34 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "f1b51d0c3a5d5bc78434de4e7c48f14e",
-            "topic": "Bcci",
-            "subtopics": [
-                "BCCI invites applications for Coaching and Performance Staff positions at the Centre of Excellence"
-            ],
-            "title": "BCCI invites applications for Coaching and Performance Staff positions at the Centre of Excellence",
-            "desc": "BCCI invites applications for Coaching and Performance Staff positions at the Centre of Excellence",
-            "url": "https://www.bcci.tv/articles/2026/news/55556318/bcci-invites-applications-for-coaching-and-performance-staff-positions-at-the-centre-of-excellence",
-            "image": "https://assets.bcci.tv/bcci/articles/1770537973_BCCI_Thumbnail.png",
-            "source": "BCCI",
-            "score": 2,
-            "added_time": "2026-02-10T06:54:29.553822+00:00"
-        },
-        {
-            "story_id": "8ffa872b2f1ae7267f656f40f4422d00",
-            "topic": "India",
-            "subtopics": [
-                "Accelerating corporate climate transition planning and disclosures in India"
-            ],
-            "title": "Accelerating corporate climate transition planning and disclosures in India",
-            "desc": "Transition planning must account for affordability and development priorities in a growing economy.",
-            "url": "https://ieefa.org/resources/accelerating-corporate-climate-transition-planning-and-disclosures-india",
-            "image": "https://ieefa.org/sites/default/files/styles/wide/public/2026-02/ESG.jpg?itok=t6uDn4YR",
-            "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-            "score": 2,
-            "added_time": "2026-02-10T06:54:29.553866+00:00"
-        },
-        {
             "story_id": "20e1d820872ecc40c322e9662dcec0b3",
             "topic": "Insights Daily Current Affairs Insights Daily Current Affairs",
             "subtopics": [
@@ -69,20 +41,6 @@
             "source": "Tribune India",
             "score": 3,
             "added_time": "2026-02-10T20:35:53.456667+00:00"
-        },
-        {
-            "story_id": "25fa35286c109d59fc1137836ff25217",
-            "topic": "Discover",
-            "subtopics": [
-                "No more, no less: how the conversation around cancer surgery has changed"
-            ],
-            "title": ": No more, no less: how the conversation around cancer surgery has changed",
-            "desc": "Discover how advancements in cancer surgery prioritize tailored treatments, preserving patient quality of life while effectively targeting tumors.",
-            "url": "https://www.thehindu.com/sci-tech/health/no-more-no-less-how-the-conversation-around-cancer-surgery-has-changed/article70599658.ece",
-            "image": "https://th-i.thgim.com/public/incoming/2rhw0v/article70613973.ece/alternates/LANDSCAPE_1200/IMG_iStock-1375287155_2_1_VBCGUHCS.jpg",
-            "source": "thehindu.com",
-            "score": 4,
-            "added_time": "2026-02-10T20:35:53.944650+00:00"
         },
         {
             "story_id": "778704d4a376cdfff946a0a0cb43e9e8",
@@ -183,23 +141,37 @@
             "source": "India Today",
             "score": 3,
             "added_time": "2026-02-11T05:24:33.854907+00:00"
+        },
+        {
+            "story_id": "6b6f64136ee5318c69913387add570da",
+            "topic": "India Cooperation Across Trade",
+            "subtopics": [
+                "India Cooperation Across Trade, Tech, and Health"
+            ],
+            "title": "India Cooperation Across Trade, Tech, and Health",
+            "desc": "A new report calls a reimagining of Africa-India relations charting a path to deeper cooperation on infrastructure, AI, green energy, and health, with a 50-year strategic vision.",
+            "url": "https://shega.co/news/new-report-charts-future-of-africa-india-cooperation-across-tech-trade-and-health",
+            "image": "https://shegastrpool.blob.core.windows.net/media-prod/media-prod/large_photo_2026_02_10_13_18_49_75018511c6.jpg",
+            "source": "Shega Media and Technology PLC",
+            "score": 3,
+            "added_time": "2026-02-11T08:36:42.555590+00:00"
+        },
+        {
+            "story_id": "fa9bff6de2c2505ccfdd1951a817fb64",
+            "topic": "Fractal Analytics",
+            "subtopics": [
+                "Fractal Analytics IPO: Onida's Gulu Mirchandani's Rs 2.75-crore investment turned into Rs 2,400 crore in 22 years"
+            ],
+            "title": "Fractal Analytics IPO: Onida's Gulu Mirchandani's Rs 2,75-crore investment turned into Rs 2,400 crore in 22 years.",
+            "desc": "Fractal Analytics shares are scheduled to make its stock market debut on February 16.",
+            "url": "https://www.moneycontrol.com/news/business/ipo/fractal-analytics-ipo-onida-s-gulu-mirchandani-s-rs-2-75-crore-investment-turned-into-rs-2-400-crore-in-22-years-13821640.html",
+            "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260204100622_Fractal-Analytics.jpg",
+            "source": "moneycontrol.com",
+            "score": 3,
+            "added_time": "2026-02-11T08:36:43.689655+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "f0d706ad03052022f204462533ec38ac",
-            "topic": "Nirmala Sitharaman'S",
-            "subtopics": [
-                "Did Union Budget not focus on poll-bound states enough? Nirmala Sitharaman's clarification"
-            ],
-            "title": "Did Union Budget not focus on poll-bound states enough? Nirmala Sitharaman's clarification",
-            "desc": "Nirmala Sitharaman, in a press briefing, said the government has focused on both election and non-election states in the Union Budget.| India News",
-            "url": "https://www.hindustantimes.com/india-news/did-union-budget-not-focus-on-poll-bound-states-enough-nirmala-sitharamans-clarification-101769943979328.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/01/550x309/PTI02-01-2026-000373B-0_1769944120725_1769944134460.jpg",
-            "source": "Hindustan Times",
-            "score": 3,
-            "added_time": "2026-02-02T14:47:50.699019+00:00"
-        },
         {
             "story_id": "d593c82c2e139e323d0fda5b1d162766",
             "topic": "Uzbekistan",
@@ -895,6 +867,20 @@
             "source": "PR Newswire",
             "score": 5,
             "added_time": "2026-02-11T01:27:17.688814+00:00"
+        },
+        {
+            "story_id": "25fa35286c109d59fc1137836ff25217",
+            "topic": "Discover",
+            "subtopics": [
+                "No more, no less: how the conversation around cancer surgery has changed"
+            ],
+            "title": ": No more, no less: how the conversation around cancer surgery has changed",
+            "desc": "Discover how advancements in cancer surgery prioritize tailored treatments, preserving patient quality of life while effectively targeting tumors.",
+            "url": "https://www.thehindu.com/sci-tech/health/no-more-no-less-how-the-conversation-around-cancer-surgery-has-changed/article70599658.ece",
+            "image": "https://th-i.thgim.com/public/incoming/2rhw0v/article70613973.ece/alternates/LANDSCAPE_1200/IMG_iStock-1375287155_2_1_VBCGUHCS.jpg",
+            "source": "thehindu.com",
+            "score": 4,
+            "added_time": "2026-02-10T20:35:53.944650+00:00"
         }
     ],
     "recent_topics": {
@@ -909,6 +895,7 @@
         "Invensense": "2026-02-10T16:53:37.184287+00:00",
         "Ncdex, Metropolitan Stock Exchange": "2026-02-10T20:35:55.533062+00:00",
         "Anatoliy Polyanker": "2026-02-11T01:27:20.271374+00:00",
-        "Cfo": "2026-02-11T05:24:33.854944+00:00"
+        "Cfo": "2026-02-11T05:24:33.854944+00:00",
+        "Discover": "2026-02-11T08:36:43.689709+00:00"
     }
 }
