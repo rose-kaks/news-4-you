@@ -1,34 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "6b6f64136ee5318c69913387add570da",
-            "topic": "India Cooperation Across Trade",
-            "subtopics": [
-                "India Cooperation Across Trade, Tech, and Health"
-            ],
-            "title": "India Cooperation Across Trade, Tech, and Health",
-            "desc": "A new report calls a reimagining of Africa-India relations charting a path to deeper cooperation on infrastructure, AI, green energy, and health, with a 50-year strategic vision.",
-            "url": "https://shega.co/news/new-report-charts-future-of-africa-india-cooperation-across-tech-trade-and-health",
-            "image": "https://shegastrpool.blob.core.windows.net/media-prod/media-prod/large_photo_2026_02_10_13_18_49_75018511c6.jpg",
-            "source": "Shega Media and Technology PLC",
-            "score": 3,
-            "added_time": "2026-02-11T08:36:42.555590+00:00"
-        },
-        {
-            "story_id": "fa9bff6de2c2505ccfdd1951a817fb64",
-            "topic": "Fractal Analytics",
-            "subtopics": [
-                "Fractal Analytics IPO: Onida's Gulu Mirchandani's Rs 2.75-crore investment turned into Rs 2,400 crore in 22 years"
-            ],
-            "title": "Fractal Analytics IPO: Onida's Gulu Mirchandani's Rs 2,75-crore investment turned into Rs 2,400 crore in 22 years.",
-            "desc": "Fractal Analytics shares are scheduled to make its stock market debut on February 16.",
-            "url": "https://www.moneycontrol.com/news/business/ipo/fractal-analytics-ipo-onida-s-gulu-mirchandani-s-rs-2-75-crore-investment-turned-into-rs-2-400-crore-in-22-years-13821640.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260204100622_Fractal-Analytics.jpg",
-            "source": "moneycontrol.com",
-            "score": 3,
-            "added_time": "2026-02-11T08:36:43.689655+00:00"
-        },
-        {
             "story_id": "2fbc1413c4eb3369b071b4c25cc9e85f",
             "topic": "Bloomberg Opinion",
             "subtopics": [
@@ -69,20 +41,6 @@
             "source": "The Economic Times",
             "score": 3,
             "added_time": "2026-02-11T16:53:39.721384+00:00"
-        },
-        {
-            "story_id": "b50111a9af1a850f22dc6574874805f2",
-            "topic": "United States",
-            "subtopics": [
-                "Asian Stocks Edge Up Before Jobs Data, Gold Rises: Markets Wrap"
-            ],
-            "title": "Asian Stocks Edge Up Before Jobs Data, Gold Rises: Markets Wrap",
-            "desc": "(Bloomberg) -- Asian stocks posted a modest gain at the open as traders braced for US jobs data on Wednesday after weak retail sales reinforced bets that the Federal Reserve will cut interest rates later this year.",
-            "url": "https://www.swissinfo.ch/eng/asian-stocks-edge-up-before-jobs-data%2C-gold-rises%3A-markets-wrap/90923756",
-            "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1768386618",
-            "source": "SWI swissinfo.ch",
-            "score": 4,
-            "added_time": "2026-02-11T16:53:39.721393+00:00"
         },
         {
             "story_id": "8da34d46f3013509aee9a280682ae213",
@@ -377,23 +335,38 @@
             "source": "Daily Maverick",
             "score": 3,
             "added_time": "2026-02-12T08:34:59.836653+00:00"
+        },
+        {
+            "story_id": "28af82d4d60eaecbdc2411906fa84d90",
+            "topic": "Gavin Mcpaul",
+            "subtopics": [
+                "Donegal man's cybersecurity career at TCS driven by curiosity and collaboration",
+                "Letter to Merck CEO Robert M. Davis on Global Access to MK"
+            ],
+            "title": "Donegal man's cybersecurity career at TCS driven by curiosity and collaboration at TCS driven by curiosity and collaboration.",
+            "desc": "FacebookTweetLinkedInPrint Sponsored Content From a childhood curiosity about gadgets to leading enterprise-level cybersecurity programmes, Donegal man Gavin McPaul has found\u2026",
+            "url": "https://www.donegaldaily.com/2026/02/11/donegal-mans-cybersecurity-career-at-tcs-driven-by-curiosity-and-collaboration/",
+            "image": "https://www.donegaldaily.com/wp-content/uploads/2026/02/IMG_7227.jpg",
+            "source": "Donegal Daily",
+            "score": 3,
+            "added_time": "2026-02-12T12:38:23.394999+00:00"
+        },
+        {
+            "story_id": "362ec3519b8766326a3de0ea63f7fca2",
+            "topic": "Instagram",
+            "subtopics": [
+                "Instagram chief denies social media can be \u2018clinically addictive\u2019 in landmark case"
+            ],
+            "title": "Instagram chief denies social media can be \u2018clinically addictive\u2019 in landmark case.",
+            "desc": "Adam Mosseri, the head of Instagram, testified on Wednesday that he does not think users can be \u201cclinically addicted\u201d to the social media app.",
+            "url": "https://www.cnn.com/2026/02/11/tech/instagram-chief-trial-social-media-addiction",
+            "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1237125169.jpg?c=16x9&q=w_800,c_fill",
+            "source": "CNN",
+            "score": 3,
+            "added_time": "2026-02-12T12:38:24.476494+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "8d08d03c5ff66c237ac8bb3c2ed851a4",
-            "topic": "Meta",
-            "subtopics": [
-                "Meta Oakley Vanguard smart glasses with built-In AI features launched in India: Price and features"
-            ],
-            "title": "Meta Oakley Vanguard smart glasses with built-In AI features launched in India: Price and features",
-            "desc": "Meta has launched Oakley Meta Vanguard smart glasses in India, bringing AI-powered eyewear with cameras, voice controls, and an athlete-focused design.| Technology News",
-            "url": "https://www.hindustantimes.com/technology/meta-oakley-vanguard-smart-glasses-with-built-in-ai-features-launched-in-india-price-and-features-101770105262559.html",
-            "image": "https://www.hindustantimes.com/ht-img/img/2026/02/03/550x309/Meta_Oakley_Vanguard_smart_glasses_1770105527026_1770105527204.png",
-            "source": "Hindustan Times",
-            "score": 4,
-            "added_time": "2026-02-03T20:23:32.987356+00:00"
-        },
         {
             "story_id": "4ebc39773a2c6cc1ef2f4ab2dd3a779f",
             "topic": "India",
@@ -1087,17 +1060,30 @@
             "source": "Times of India",
             "score": 4,
             "added_time": "2026-02-11T16:53:39.721365+00:00"
+        },
+        {
+            "story_id": "b50111a9af1a850f22dc6574874805f2",
+            "topic": "United States",
+            "subtopics": [
+                "Asian Stocks Edge Up Before Jobs Data, Gold Rises: Markets Wrap"
+            ],
+            "title": "Asian Stocks Edge Up Before Jobs Data, Gold Rises: Markets Wrap",
+            "desc": "(Bloomberg) -- Asian stocks posted a modest gain at the open as traders braced for US jobs data on Wednesday after weak retail sales reinforced bets that the Federal Reserve will cut interest rates later this year.",
+            "url": "https://www.swissinfo.ch/eng/asian-stocks-edge-up-before-jobs-data%2C-gold-rises%3A-markets-wrap/90923756",
+            "image": "https://www.swissinfo.ch/eng/wp-content/uploads/swissinfo-theme/swi-fallback-featured-image.jpg?ver=1768386618",
+            "source": "SWI swissinfo.ch",
+            "score": 4,
+            "added_time": "2026-02-11T16:53:39.721393+00:00"
         }
     ],
     "recent_topics": {
-        "Ncdex, Metropolitan Stock Exchange": "2026-02-10T20:35:55.533062+00:00",
         "Anatoliy Polyanker": "2026-02-11T01:27:20.271374+00:00",
         "Cfo": "2026-02-11T05:24:33.854944+00:00",
         "Discover": "2026-02-11T08:36:43.689709+00:00",
         "Budget": "2026-02-11T12:41:33.730592+00:00",
         "Supreme Court": "2026-02-11T16:53:41.879348+00:00",
         "India": "2026-02-12T05:22:18.502365+00:00",
-        "United States": "2026-02-12T01:07:36.107492+00:00",
+        "United States": "2026-02-12T12:38:24.476567+00:00",
         "White House": "2026-02-12T08:34:59.836698+00:00"
     }
 }
