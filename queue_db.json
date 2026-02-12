@@ -1,48 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "5e5f63956bdbb0915dff409207ad6719",
-            "topic": "Raymond James",
-            "subtopics": [
-                "US wealth manager stocks sink as traders flee next AI casualty"
-            ],
-            "title": "US wealth manager stocks sink as traders flee next AI casualty",
-            "desc": "Wealth management stocks in US experienced a sharp decline Tuesday following the introduction of an AI tool designed for tax strategies. Investors are concerned about the potential impact of automated advice on the industry, mirroring recent selloffs in software, private credit, and insurance brokerage sectors. Major firms like Raymond James, Charles Schwab, and LPL Financial saw significant drops, highlighting widespread investor apprehension.",
-            "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wealth-manager-stocks-sink-as-traders-flee-next-ai-casualty/articleshow/128184168.cms?from=mdr",
-            "image": "https://img.etimg.com/thumb/msid-128184157,width-1200,height-630,imgsize-91392,overlay-etmarkets/articleshow.jpg",
-            "source": "The Economic Times",
-            "score": 3,
-            "added_time": "2026-02-11T16:53:39.721343+00:00"
-        },
-        {
-            "story_id": "90959c84921304dfba9eb290132a2c8f",
-            "topic": "India",
-            "subtopics": [
-                "Goldman Sachs' India push bears fruit in crowded Wall Street field"
-            ],
-            "title": "Goldman Sachs' India push bears fruit in crowded Wall Street field",
-            "desc": "Goldman Sachs is significantly increasing its investment in India, shifting from a \"future growth story\" to a present opportunity. This strategic pivot has already boosted its rankings in Indian equity offerings and mergers, demonstrating a commitment to capturing market share in the world's fastest-growing developing economy.",
-            "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/goldman-sachs-india-push-bears-fruit-in-crowded-wall-street-field/articleshow/128182804.cms?from=mdr",
-            "image": "https://img.etimg.com/thumb/msid-128183304,width-1200,height-630,imgsize-71766,overlay-economictimes/articleshow.jpg",
-            "source": "The Economic Times",
-            "score": 3,
-            "added_time": "2026-02-11T16:53:39.721384+00:00"
-        },
-        {
-            "story_id": "ed284f1923c82ab0b8895b4f06a8b190",
-            "topic": "Worli",
-            "subtopics": [
-                "Mumbai Coastal Road to become India\u2019s first musical road, playing \u2018Jai Ho\u2019 for motorists"
-            ],
-            "title": "Mumbai Coastal Road to become India\u2019s first musical road, playing \u2018Jai Ho\u2019 for motorists, playing \u2018Jai Ho\u2019 for motorists.",
-            "desc": "A section of the Mumbai Coastal Road will become India\u2019s first musical road, with vehicles traveling from Nariman Point to Worli hearing the song \u2018Jai Ho\u2019 from Slumdog Millionaire when passing over specially installed musical strips at a minimum speed of 60 kmph.",
-            "url": "https://www.cnbctv18.com/india/mumbai-coastal-road-to-become-indias-first-musical-road-playing-jai-ho-for-motorists-19847154.htm",
-            "image": "https://images.cnbctv18.com/uploads/2026/02/mumbai-coastal-road-2026-02-4da4f3681c60e9fba73ed25613da73d8.jpeg?im=FitAndFill,width=500,height=300",
-            "source": "CNBC TV18",
-            "score": 3,
-            "added_time": "2026-02-11T16:53:41.879271+00:00"
-        },
-        {
             "story_id": "9e5a5f2cb4baa1aea85e1c7fb577b560",
             "topic": "Artificial Intelligence (Ai",
             "subtopics": [
@@ -392,23 +350,51 @@
             "source": "The Verge",
             "score": 2,
             "added_time": "2026-02-12T16:46:32.209501+00:00"
+        },
+        {
+            "story_id": "6701dda3865ebf347c15cf57cd6cd4be",
+            "topic": "Moon",
+            "subtopics": [
+                "Why are we going back to the Moon?"
+            ],
+            "title": "Why are we going back to the Moon?",
+            "desc": "Roughly 384 400 km from the pale blue dot we call Earth hangs an orb that has fascinated humanity for millennia. The Moon is our planet\u2019s only natural satellite and is about a quarter of Earth\u2019s size. Only 12 people set foot on it between 1969 and 1972, but more than 50 years later the Artemis programme aims to add to that number. In early March, NASA\u2019s Artemis II mission will carry four astronauts on a lunar flyby during a 10-day trip, with later missions set to put feet back on the Moon\u2019s surface.",
+            "url": "https://news.nwu.ac.za/why-are-we-going-back-moon",
+            "image": "http://news.nwu.ac.za/sites/news.nwu.ac.za/files/styles/news_photo_attached/public/files/attach/2026-02/pexels-izafi-18547959.jpg?itok=lWBwfeAa",
+            "source": "NWU News",
+            "score": 3,
+            "added_time": "2026-02-12T20:24:29.877184+00:00"
+        },
+        {
+            "story_id": "a19f93e3d599621c6a0220ccc963b7e2",
+            "topic": "The High Commission Of India",
+            "subtopics": [
+                "India inaugurates book corner at CFR"
+            ],
+            "title": "India inaugurates book corner at CFR",
+            "desc": "DAR ES SALAAM: THE High Commission of India in Tanzania has inaugurated an India Book Corner at the Tanzania Centre for Foreign Relations (CFR) in Dar es Salaam, marking a significant milestone in strengthening academic and people-topeople ties between the two countries. Speaking at the inauguration ceremony yesterday, the High Commissioner of India to Tanzania,",
+            "url": "https://dailynews.co.tz/india-inaugurates-book-corner-at-cfr/",
+            "image": "https://dailynews.co.tz/wp-content/uploads/2026/02/The-High-Commission-of-India-inaugurated-the-India-Book-Corner-at-the-Salim-Ahmed-Salim-Centre-.webp",
+            "source": "dailynews.co.tz",
+            "score": 3,
+            "added_time": "2026-02-12T20:24:29.877206+00:00"
+        },
+        {
+            "story_id": "d717e05a94dc1e4993a051904d387cfc",
+            "topic": "Japan",
+            "subtopics": [
+                "Japan\u2019s Strategic Pivot: Popular Leadership, Public Signalling And The China Question"
+            ],
+            "title": ": Japan\u2019s Strategic Pivot: Popular Leadership, Public Signalling And The China Question: Japan\u2019s Strategic Pivot: Popular Leadership, Public Signalling And The China Question:",
+            "desc": "PM Sanae Takaichi, often described by commentators as charismatic and media-savvy, represents a departure from the restrained leadership archetype long associated with Japan",
+            "url": "https://www.news18.com/explainers/japans-strategic-pivot-popular-leadership-public-signalling-and-the-china-question-shil-ws-l-9897490.html",
+            "image": "https://images.news18.com/ibnlive/uploads/2026/02/japan-pm-2026-02-85f1f2a8d554d81261cdfb77eb5fe504-16x9.jpg",
+            "source": "News18",
+            "score": 4,
+            "added_time": "2026-02-12T20:24:31.878131+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "0233ede946105c6984c2185ea71ee297",
-            "topic": "The Interface: Integrating Electronics",
-            "subtopics": [
-                "Engineering the Interface: Integrating Electronics into Biocompatible Materials for Next-Generation Medical Devices"
-            ],
-            "title": "Engineering the Interface: Integrating Electronics into Biocompatible Materials for Next-Generation Medical Devices",
-            "desc": "The Global Bioelectronics Market size was estimated at USD 10.10 billion in 2025 and expected to reach USD 11.27 billion in 2026, at a CAGR of 12.31% to reach USD 22.78 billion by 2032",
-            "url": "https://www.eletimes.ai/engineering-the-interface-integrating-electronics-into-biocompatible-materials-for-next-generation-medical-devices",
-            "image": "https://www.eletimes.ai/wp-content/uploads/2026/02/Medtech.png",
-            "source": "ELE Times",
-            "score": 4,
-            "added_time": "2026-02-03T20:23:32.987363+00:00"
-        },
         {
             "story_id": "6b355a7a35891b869d43fd1640a4aba1",
             "topic": "Nii",
@@ -1102,15 +1088,29 @@
             "source": "Business Standard",
             "score": 4,
             "added_time": "2026-02-11T16:53:40.830734+00:00"
+        },
+        {
+            "story_id": "476fe01a6e187a69b9098b85bde79dc8",
+            "topic": "Files Notice",
+            "subtopics": [
+                "Parliament Budget Session Day 12 Live Updates: BJP MP Files Notice To Terminate Rahul Gandhi's Parliament Membership"
+            ],
+            "title": "Budget Session Day 12 Live Updates: BJP MP Files Notice To Terminate Rahul Gandhi's Parliament Membership",
+            "desc": "Parliament Budget Session LIVE Updates, Day 12: The BJP has filed a notice to terminate Congress MP Rahul Gandhi's Parliament membership, whole no privilege motion against the leader will be fined.",
+            "url": "https://www.ndtv.com/india-news/parliament-budget-session-live-updates-day-11-rahul-gandhi-to-address-lok-sabha-10986058",
+            "image": "https://c.ndtvimg.com/2026-02/kcjds1co_nishikant-dubey-rahul-gandhi_625x300_12_February_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+            "source": "NDTV",
+            "score": 7,
+            "added_time": "2026-02-12T20:24:30.754610+00:00"
         }
     ],
     "recent_topics": {
-        "Cfo": "2026-02-11T05:24:33.854944+00:00",
         "Discover": "2026-02-11T08:36:43.689709+00:00",
         "Budget": "2026-02-11T12:41:33.730592+00:00",
         "Supreme Court": "2026-02-11T16:53:41.879348+00:00",
         "India": "2026-02-12T16:46:32.209547+00:00",
         "United States": "2026-02-12T12:38:24.476567+00:00",
-        "White House": "2026-02-12T08:34:59.836698+00:00"
+        "White House": "2026-02-12T08:34:59.836698+00:00",
+        "Files Notice": "2026-02-12T20:24:31.878208+00:00"
     }
 }
