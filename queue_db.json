@@ -1,76 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "307073046dffe146f6c0bd0f1bac31c2",
-            "topic": "Sabah",
-            "subtopics": [
-                "India's decision to open consulate in Sabah receives mixed reaction"
-            ],
-            "title": "India's decision to open consulate in Sabah receives mixed reaction",
-            "desc": "KOTA KINABALU: The government of India's decision to open a consulate of India here has stirred up a mix of positive and negative reactions among Sabahans.",
-            "url": "https://www.thestar.com.my/news/nation/2026/02/12/india039s-decision-to-open-consulate-in-sabah-receives-mixed-reaction",
-            "image": "https://apicms.thestar.com.my/uploads/images/2026/02/12/3766876.jpg",
-            "source": "The Star | Malaysia",
-            "score": 3,
-            "added_time": "2026-02-12T16:46:32.209465+00:00"
-        },
-        {
-            "story_id": "b085b432020bb258c89bdc4073a9a3d2",
-            "topic": "India",
-            "subtopics": [
-                "Adani Power steps into nuclear energy sector with new atomic unit"
-            ],
-            "title": "Adani Power steps into nuclear energy sector with new atomic unit",
-            "desc": "Adani Power has established Adani Atomic Energy Limited, a wholly owned subsidiary, to generate, transmit, and distribute nuclear power. This move follows the recent passage of the SHANTI Bill, allowing private sector participation in India's nuclear energy sector. The company plans to replace its entire thermal capacity with nuclear power in the coming years.",
-            "url": "https://economictimes.indiatimes.com/industry/energy/power/gautam-adani-power-to-ramp-up-nuclear-energy-production-under-new-atomic-unit/articleshow/128234442.cms?from=mdr",
-            "image": "https://img.etimg.com/thumb/msid-128234609,width-1200,height-630,imgsize-1431922,overlay-economictimes/articleshow.jpg",
-            "source": "The Economic Times",
-            "score": 3,
-            "added_time": "2026-02-12T16:46:32.209487+00:00"
-        },
-        {
-            "story_id": "391a129876ce90d087f82577c3a897b8",
-            "topic": "General",
-            "subtopics": [
-                "Instagram and X have an impossible deepfake detection deadline"
-            ],
-            "title": "Instagram and X have an impossible deepfake detection deadline",
-            "desc": "The best methods we currently have for detecting and labelling deepfakes online are about to get a stress test.",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/877206/youtube-instagram-x-india-deepfake-detection-deadline",
-            "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "source": "The Verge",
-            "score": 2,
-            "added_time": "2026-02-12T16:46:32.209501+00:00"
-        },
-        {
-            "story_id": "6701dda3865ebf347c15cf57cd6cd4be",
-            "topic": "Moon",
-            "subtopics": [
-                "Why are we going back to the Moon?"
-            ],
-            "title": "Why are we going back to the Moon?",
-            "desc": "Roughly 384 400 km from the pale blue dot we call Earth hangs an orb that has fascinated humanity for millennia. The Moon is our planet\u2019s only natural satellite and is about a quarter of Earth\u2019s size. Only 12 people set foot on it between 1969 and 1972, but more than 50 years later the Artemis programme aims to add to that number. In early March, NASA\u2019s Artemis II mission will carry four astronauts on a lunar flyby during a 10-day trip, with later missions set to put feet back on the Moon\u2019s surface.",
-            "url": "https://news.nwu.ac.za/why-are-we-going-back-moon",
-            "image": "http://news.nwu.ac.za/sites/news.nwu.ac.za/files/styles/news_photo_attached/public/files/attach/2026-02/pexels-izafi-18547959.jpg?itok=lWBwfeAa",
-            "source": "NWU News",
-            "score": 3,
-            "added_time": "2026-02-12T20:24:29.877184+00:00"
-        },
-        {
-            "story_id": "a19f93e3d599621c6a0220ccc963b7e2",
-            "topic": "The High Commission Of India",
-            "subtopics": [
-                "India inaugurates book corner at CFR"
-            ],
-            "title": "India inaugurates book corner at CFR",
-            "desc": "DAR ES SALAAM: THE High Commission of India in Tanzania has inaugurated an India Book Corner at the Tanzania Centre for Foreign Relations (CFR) in Dar es Salaam, marking a significant milestone in strengthening academic and people-topeople ties between the two countries. Speaking at the inauguration ceremony yesterday, the High Commissioner of India to Tanzania,",
-            "url": "https://dailynews.co.tz/india-inaugurates-book-corner-at-cfr/",
-            "image": "https://dailynews.co.tz/wp-content/uploads/2026/02/The-High-Commission-of-India-inaugurated-the-India-Book-Corner-at-the-Salim-Ahmed-Salim-Centre-.webp",
-            "source": "dailynews.co.tz",
-            "score": 3,
-            "added_time": "2026-02-12T20:24:29.877206+00:00"
-        },
-        {
             "story_id": "70af5039f56a934186792b845f2ba0e1",
             "topic": "Gogoro Inc.",
             "subtopics": [
@@ -225,20 +155,6 @@
             "added_time": "2026-02-13T16:33:28.033288+00:00"
         },
         {
-            "story_id": "ae5e8fa06f66b50c2410650273cbdf82",
-            "topic": "Pova",
-            "subtopics": [
-                "TECNO Launches POVA Curve 2 5G: Ultra-Slim 7.42mm Design Meets 8000mAh Mega Battery"
-            ],
-            "title": ": TECNO Launches POVA Curve 2 5G: Ultra-Slim 7.42mm Design Meets 8000mAh Mega Battery",
-            "desc": "/PRNewswire/ -- TECNO, the AI-driven innovation technology brand, today unveiled POVA Curve 2 5G, the latest addition to its POVA smartphone lineup. It...",
-            "url": "https://www.prnewswire.com/news-releases/tecno-launches-pova-curve-2-5g-ultra-slim-7-42mm-design-meets-8000mah-mega-battery-302686316.html",
-            "image": "https://mma.prnewswire.com/media/2902873/image_5003493_31138921.jpg?p=facebook",
-            "source": "PR Newswire",
-            "score": 6,
-            "added_time": "2026-02-13T16:33:29.116566+00:00"
-        },
-        {
             "story_id": "78e0b4c5f65c3ae3b47f28d084f3a5fe",
             "topic": "United States",
             "subtopics": [
@@ -251,23 +167,23 @@
             "source": "Mint",
             "score": 4,
             "added_time": "2026-02-13T16:33:29.876441+00:00"
+        },
+        {
+            "story_id": "43dd0352d6914ae771dbcb6d19771c0e",
+            "topic": "Biological E. Secures Phase Ii Who Pre Biological E. Limited",
+            "subtopics": [
+                "Biological E. Secures Phase II WHO Pre"
+            ],
+            "title": "Biological E. Secures Phase II WHO Pre",
+            "desc": "Biological E. Limited (BE) has reached a significant milestone in the global fight against polio. The World Health Organization (WHO) has granted Phase II Pre-Qualification (PQ) for BE\u2019s Novel Oral [\u2026]",
+            "url": "https://theindianpractitioner.com/biological-e-secures-phase-ii-who-pre-qualification-for-nopv2/",
+            "image": "https://theindianpractitioner.com/wp-content/uploads/2026/02/Biological-E.-Secures-Phase-II-WHO-Pre-Qualification-for-nOPV2.jpeg",
+            "source": "The Indian Practitioner",
+            "score": 3,
+            "added_time": "2026-02-13T20:26:05.545481+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "93e3bdccfb81604b9c50045aa38e99c2",
-            "topic": "World",
-            "subtopics": [
-                "The Black Wind: How India is becoming the World's Waste Tyre Furnace"
-            ],
-            "title": "The Black Wind: How India is becoming the World's Waste Tyre Furnace",
-            "desc": "India has witnessed a fivefold surge in waste tyre imports from developed countries over the past few years. Despite strict regulations for controlled imports and scientific disposal, enforcement gaps remain stark. Large quantities of imported tyres are processed in plants with inadequate safeguards resulting in adverse impact on the environment and communities.",
-            "url": "https://www.reporters-collective.in/trc/india-is-becoming-worlds-waste-tyre-furnace",
-            "image": "https://cdn.prod.website-files.com/600865f0dc1db856edc28cd0/6982b2ab9c9ad22fc9a47525_Tyre%20import%20HERO%202_1_11zon.webp",
-            "source": "The Reporters' Collective",
-            "score": 4,
-            "added_time": "2026-02-04T16:32:29.488959+00:00"
-        },
         {
             "story_id": "b99ba9ca638155a1682139131d5aba61",
             "topic": "Dixon",
@@ -960,6 +876,20 @@
             "source": "NDTV Profit",
             "score": 7,
             "added_time": "2026-02-13T16:33:30.948650+00:00"
+        },
+        {
+            "story_id": "ae5e8fa06f66b50c2410650273cbdf82",
+            "topic": "Pova",
+            "subtopics": [
+                "TECNO Launches POVA Curve 2 5G: Ultra-Slim 7.42mm Design Meets 8000mAh Mega Battery"
+            ],
+            "title": ": TECNO Launches POVA Curve 2 5G: Ultra-Slim 7.42mm Design Meets 8000mAh Mega Battery",
+            "desc": "/PRNewswire/ -- TECNO, the AI-driven innovation technology brand, today unveiled POVA Curve 2 5G, the latest addition to its POVA smartphone lineup. It...",
+            "url": "https://www.prnewswire.com/news-releases/tecno-launches-pova-curve-2-5g-ultra-slim-7-42mm-design-meets-8000mah-mega-battery-302686316.html",
+            "image": "https://mma.prnewswire.com/media/2902873/image_5003493_31138921.jpg?p=facebook",
+            "source": "PR Newswire",
+            "score": 6,
+            "added_time": "2026-02-13T16:33:29.116566+00:00"
         }
     ],
     "recent_topics": {
@@ -971,6 +901,7 @@
         "Japan": "2026-02-13T05:18:37.824507+00:00",
         "Ajcon Global": "2026-02-13T08:32:21.789297+00:00",
         "James Clerk Maxwell Telescope": "2026-02-13T12:38:04.944629+00:00",
-        "Niti Aayog'S": "2026-02-13T16:33:30.948726+00:00"
+        "Niti Aayog'S": "2026-02-13T16:33:30.948726+00:00",
+        "Pova": "2026-02-13T20:26:05.545516+00:00"
     }
 }
