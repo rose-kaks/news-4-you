@@ -1,35 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "28af82d4d60eaecbdc2411906fa84d90",
-            "topic": "Gavin Mcpaul",
-            "subtopics": [
-                "Donegal man's cybersecurity career at TCS driven by curiosity and collaboration",
-                "Letter to Merck CEO Robert M. Davis on Global Access to MK"
-            ],
-            "title": "Donegal man's cybersecurity career at TCS driven by curiosity and collaboration at TCS driven by curiosity and collaboration.",
-            "desc": "FacebookTweetLinkedInPrint Sponsored Content From a childhood curiosity about gadgets to leading enterprise-level cybersecurity programmes, Donegal man Gavin McPaul has found\u2026",
-            "url": "https://www.donegaldaily.com/2026/02/11/donegal-mans-cybersecurity-career-at-tcs-driven-by-curiosity-and-collaboration/",
-            "image": "https://www.donegaldaily.com/wp-content/uploads/2026/02/IMG_7227.jpg",
-            "source": "Donegal Daily",
-            "score": 3,
-            "added_time": "2026-02-12T12:38:23.394999+00:00"
-        },
-        {
-            "story_id": "362ec3519b8766326a3de0ea63f7fca2",
-            "topic": "Instagram",
-            "subtopics": [
-                "Instagram chief denies social media can be \u2018clinically addictive\u2019 in landmark case"
-            ],
-            "title": "Instagram chief denies social media can be \u2018clinically addictive\u2019 in landmark case.",
-            "desc": "Adam Mosseri, the head of Instagram, testified on Wednesday that he does not think users can be \u201cclinically addicted\u201d to the social media app.",
-            "url": "https://www.cnn.com/2026/02/11/tech/instagram-chief-trial-social-media-addiction",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1237125169.jpg?c=16x9&q=w_800,c_fill",
-            "source": "CNN",
-            "score": 3,
-            "added_time": "2026-02-12T12:38:24.476494+00:00"
-        },
-        {
             "story_id": "307073046dffe146f6c0bd0f1bac31c2",
             "topic": "Sabah",
             "subtopics": [
@@ -210,24 +181,79 @@
             "source": "Moneycontrol",
             "score": 2,
             "added_time": "2026-02-13T12:38:04.944575+00:00"
+        },
+        {
+            "story_id": "a71386cc5dcc3b0e027ae15715caad7e",
+            "topic": "Artificial Intelligence",
+            "subtopics": [
+                "Friday the 13th effect? D-St investors suffer Rs 7 lakh crore shock as Sensex sinks over 1,000 points"
+            ],
+            "title": ": Friday the 13th effect? D-St investors suffer Rs 7 lakh crore shock as Sensex sinks over 1,000 points as Sensex sinks over 1,000 points.",
+            "desc": "Indian stock markets ended sharply lower on Friday. The Sensex and Nifty saw significant drops. This decline was driven by a major selloff in IT stocks. Investor sentiment was rattled by fears of Artificial Intelligence disruption. Major IT companies experienced substantial losses. This led to a significant erosion of investor wealth on the BSE. The Nifty IT index slumped considerably.",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-stock-market-falling-friday-the-13th-effect-d-street-investors-suffer-over-rs-4-lakh-crore-shock-as-sensex-nifty-fall-1/articleshow/128287282.cms?from=mdr",
+            "image": "https://img.etimg.com/thumb/msid-128287572,width-1200,height-630,imgsize-2538731,overlay-etmarkets/articleshow.jpg",
+            "source": "The Economic Times",
+            "score": 3,
+            "added_time": "2026-02-13T16:33:25.825626+00:00"
+        },
+        {
+            "story_id": "e5ff80fc029b284400eaf2147a137cc0",
+            "topic": "Pova",
+            "subtopics": [
+                "TECNO unveils POVA Curve 2 5G with 8000mAh battery and curved AMOLED display"
+            ],
+            "title": "TECNO unveils POVA Curve 2 5G with 8000mAh battery and curved AMOLED display.",
+            "desc": "TECNO has introduced the POVA Curve 2 5G, the latest addition to its POVA smartphone series. The device combines an ultra-slim design with what the company",
+            "url": "https://walastech.com/news/tecno-unveils-pova-curve-2-5g-with-8000mah-battery-and-curved-amoled-display/",
+            "image": "https://walastech.com/wp-content/uploads/2026/02/image_5003493_31138921.jpg",
+            "source": "WalasTech",
+            "score": 3,
+            "added_time": "2026-02-13T16:33:26.936500+00:00"
+        },
+        {
+            "story_id": "415ab1ccd3bb53b438be4460a4c69af9",
+            "topic": "Krishana Phoschem",
+            "subtopics": [
+                "Stock market today: Trade setup for Nifty 50, gold, silver rate, FII-DII data to USD vs INR - 8 stocks to buy or sell"
+            ],
+            "title": "Stock market today: Trade setup for Nifty 50, gold, silver rate, FII-DII data to USD vs INR - 8 stocks to buy or sell ",
+            "desc": "Stock market today: Experts have recommended these eight stocks to buy today \u2014 Honasa Consumer, Krishana Phoschem, Delhivery, BDL, Oberoi Realty, Cummins India, LT Foods, Sharda Cropchem",
+            "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-gold-silver-rate-fii-dii-data-to-usd-vs-inr-8-stocks-to-buy-or-sell-11770946936566.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/02/13/1600x900/logo/Stock_market_today_Silver_Rate_Today_FII-DII_data_1770952897789_1770952897993.JPG",
+            "source": "Mint",
+            "score": 4,
+            "added_time": "2026-02-13T16:33:28.033288+00:00"
+        },
+        {
+            "story_id": "ae5e8fa06f66b50c2410650273cbdf82",
+            "topic": "Pova",
+            "subtopics": [
+                "TECNO Launches POVA Curve 2 5G: Ultra-Slim 7.42mm Design Meets 8000mAh Mega Battery"
+            ],
+            "title": ": TECNO Launches POVA Curve 2 5G: Ultra-Slim 7.42mm Design Meets 8000mAh Mega Battery",
+            "desc": "/PRNewswire/ -- TECNO, the AI-driven innovation technology brand, today unveiled POVA Curve 2 5G, the latest addition to its POVA smartphone lineup. It...",
+            "url": "https://www.prnewswire.com/news-releases/tecno-launches-pova-curve-2-5g-ultra-slim-7-42mm-design-meets-8000mah-mega-battery-302686316.html",
+            "image": "https://mma.prnewswire.com/media/2902873/image_5003493_31138921.jpg?p=facebook",
+            "source": "PR Newswire",
+            "score": 6,
+            "added_time": "2026-02-13T16:33:29.116566+00:00"
+        },
+        {
+            "story_id": "78e0b4c5f65c3ae3b47f28d084f3a5fe",
+            "topic": "United States",
+            "subtopics": [
+                "Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices"
+            ],
+            "title": "Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices",
+            "desc": "Gift Nifty was trading around 25,716 level, a discount of nearly 142 points from the Nifty futures' previous close, indicating a gap-down start for the Indian stock market indices.",
+            "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-tech-stocks-selloff-to-gold-prices-11770915139295.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/02/12/1600x900/logo/JAPAN-ECONOMY-STOCKS-7_1770915162476_1770915172559.jpg",
+            "source": "Mint",
+            "score": 4,
+            "added_time": "2026-02-13T16:33:29.876441+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "05d555add01dc8bb1458ad0aa2545156",
-            "topic": "United States",
-            "subtopics": [
-                "India committed to no longer purchasing Russian oil, $500 billion of investments into U.S.: White House",
-                "ChrysCapital acquires minority stake in Bengaluru-based Nash Industries"
-            ],
-            "title": "India committed to no longer purchasing Russian oil, $500 billion of investments into U.S.: White House",
-            "desc": "India pledges to stop buying Russian oil and invest $500 billion in U.S. sectors under a new trade agreement.",
-            "url": "https://www.thehindu.com/news/international/india-committed-to-no-longer-purchasing-russian-oil-500-billion-of-investments-into-us-white-house/article70590252.ece",
-            "image": "https://th-i.thgim.com/public/incoming/sud1w2/article70590264.ece/alternates/LANDSCAPE_1200/Trump_26314.jpg",
-            "source": "The Hindu",
-            "score": 6,
-            "added_time": "2026-02-04T17:39:06.935954+00:00"
-        },
         {
             "story_id": "93e3bdccfb81604b9c50045aa38e99c2",
             "topic": "World",
@@ -920,6 +946,20 @@
             "source": "Research Matters",
             "score": 4,
             "added_time": "2026-02-13T12:38:03.879306+00:00"
+        },
+        {
+            "story_id": "6f7f6991176193c8e8c00032b99392c3",
+            "topic": "Niti Aayog'S",
+            "subtopics": [
+                "'A Good Time To Pick': Piyush Goyal Recommends IT Stocks, Urges Investors To 'Have Faith In System'"
+            ],
+            "title": ": 'A Good Time To Pick': Piyush Goyal recommands IT Stocks, urges Investors to 'Have Faith In System':",
+            "desc": "Speaking at the launch of NITI Aayog's report on India's technology services, 'Reimagination Ahead', Goyal suggested that people should ''have faith in our IT services ecosystem as this sector will never die''.",
+            "url": "https://www.ndtvprofit.com/markets/it-sector-will-never-die-a-good-time-to-pick-up-it-stocks-comm-minister-piyush-goyal-10995076",
+            "image": "https://c.ndtvimg.com/2026-02/tbirssm8_piyush-goyal_625x300_07_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1080,height=607",
+            "source": "NDTV Profit",
+            "score": 7,
+            "added_time": "2026-02-13T16:33:30.948650+00:00"
         }
     ],
     "recent_topics": {
@@ -930,6 +970,7 @@
         "Tcs": "2026-02-13T01:11:14.919060+00:00",
         "Japan": "2026-02-13T05:18:37.824507+00:00",
         "Ajcon Global": "2026-02-13T08:32:21.789297+00:00",
-        "James Clerk Maxwell Telescope": "2026-02-13T12:38:04.944629+00:00"
+        "James Clerk Maxwell Telescope": "2026-02-13T12:38:04.944629+00:00",
+        "Niti Aayog'S": "2026-02-13T16:33:30.948726+00:00"
     }
 }
