@@ -1,34 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "70af5039f56a934186792b845f2ba0e1",
-            "topic": "Gogoro Inc.",
-            "subtopics": [
-                "Gogoro Releases Fourth Quarter and Full Year 2025 Financial Results"
-            ],
-            "title": "Gogoro Releases Fourth Quarter and Full Year 2025 Financial Results",
-            "desc": "/PRNewswire/ -- Gogoro Inc. (\"Gogoro,\" \"the Company\" or \"We\") (Nasdaq: GGR), a global technology leader in battery swapping ecosystems that enable sustainable...",
-            "url": "https://www.prnewswire.com/news-releases/gogoro-releases-fourth-quarter-and-full-year-2025-financial-results-302686261.html",
-            "image": "https://mma.prnewswire.com/media/395232/Gogoro___Logo.jpg?p=facebook",
-            "source": "PR Newswire",
-            "score": 3,
-            "added_time": "2026-02-13T01:11:12.985260+00:00"
-        },
-        {
-            "story_id": "11fc333482eceec9113c0c97b961e1fa",
-            "topic": "India",
-            "subtopics": [
-                "Indian GCCs cut over 6,000 jobs in 2025 as parent companies face macro pressure"
-            ],
-            "title": ": Indian GCCs cut over 6,000 jobs in 2025 as parent companies face macro pressure on parent companies.",
-            "desc": "This comes in a year when India also saw record numbers of new GCCs being set up in the country and net new jobs growing significantly to 135,000-150,000.",
-            "url": "https://www.moneycontrol.com/news/business/information-technology/indian-gccs-cut-over-6-000-jobs-in-2025-as-parent-companies-face-macro-pressure-13825047.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2024/08/20240813065244_GCCs-IT.jpg",
-            "source": "Moneycontrol",
-            "score": 3,
-            "added_time": "2026-02-13T01:11:14.919004+00:00"
-        },
-        {
             "story_id": "8ef409f0746c445085cd1edc87ee3bd5",
             "topic": "The European Union",
             "subtopics": [
@@ -141,20 +113,6 @@
             "added_time": "2026-02-13T16:33:26.936500+00:00"
         },
         {
-            "story_id": "78e0b4c5f65c3ae3b47f28d084f3a5fe",
-            "topic": "United States",
-            "subtopics": [
-                "Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices"
-            ],
-            "title": "Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices",
-            "desc": "Gift Nifty was trading around 25,716 level, a discount of nearly 142 points from the Nifty futures' previous close, indicating a gap-down start for the Indian stock market indices.",
-            "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-tech-stocks-selloff-to-gold-prices-11770915139295.html",
-            "image": "https://www.livemint.com/lm-img/img/2026/02/12/1600x900/logo/JAPAN-ECONOMY-STOCKS-7_1770915162476_1770915172559.jpg",
-            "source": "Mint",
-            "score": 4,
-            "added_time": "2026-02-13T16:33:29.876441+00:00"
-        },
-        {
             "story_id": "43dd0352d6914ae771dbcb6d19771c0e",
             "topic": "Biological E. Secures Phase Ii Who Pre Biological E. Limited",
             "subtopics": [
@@ -195,23 +153,28 @@
             "source": "The Economic Times",
             "score": 3,
             "added_time": "2026-02-14T01:04:33.605830+00:00"
+        },
+        {
+            "story_id": "821b7859e6b0870aa78c7f5a50b3324f",
+            "topic": "India",
+            "subtopics": [
+                "Stock market crash: Investors lose Rs 9.5 lakh crore in just two days! What\u2019s the outlook for Nifty, Sensex?",
+                "Heads of 20 nations, delegations from 45 countries: Who is attending India's mega AI Summit",
+                "After China, India & Japan, Indonesia Set to Become 4th Asian Country With Aircraft Carrier: Gamble or Good Bet?",
+                "Plumbers of the tech world! JP Morgan hunts deep value in India's IT bloodbath as stocks hit multi-year lows",
+                "Friday the 13th effect? D-St investors suffer Rs 7 lakh crore shock as Sensex sinks over 1,000 points",
+                "Stock market today: Trade setup for Nifty 50, gold, silver rate, FII-DII data to USD vs INR - 8 stocks to buy or sell"
+            ],
+            "title": ": Stock market crash: Investors lose Rs 9,5 lakh crore in just two days!",
+            "desc": "India Business News: Stock market crash: Nifty and Sensex saw a week of extremely volatile trade, with both benchmark indices giving up initial gains amidst the IT sector .",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-investors-lose-rs-9-5-lakh-crore-in-just-two-days-whats-the-outlook-for-nifty-sensex/articleshow/128312323.cms",
+            "image": "https://static.toiimg.com/thumb/msid-128312355,width-1280,height-720,imgsize-128926,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 4,
+            "added_time": "2026-02-14T05:05:37.640727+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "fe43ccbeb4f5838f3fbbfd383928825a",
-            "topic": "Soul",
-            "subtopics": [
-                "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food"
-            ],
-            "title": "IIHM's Young Chef Olympiad 2026 Opens in Bengaluru with Spectacle, Soul, and a Shared Heart for Food",
-            "desc": "/PRNewswire/ -- The 12th IIHM International Young Chef Olympiad (YCO) 2026 opened in Bengaluru with the kind of scale, theatre, and emotion that instantly...",
-            "url": "https://www.prnewswire.com/in/news-releases/iihms-young-chef-olympiad-2026-opens-in-bengaluru-with-spectacle-soul-and-a-shared-heart-for-food-302676395.html",
-            "image": "https://mma.prnewswire.com/media/2874623/IIHM_YCO_2026.jpg?p=facebook",
-            "source": "PR Newswire",
-            "score": 3,
-            "added_time": "2026-02-03T04:36:19.329443+00:00"
-        },
         {
             "story_id": "fdbbdc9c7d8cb5655da89d2e9ba0d8f7",
             "topic": "General",
@@ -904,10 +867,23 @@
             "source": "Mint",
             "score": 4,
             "added_time": "2026-02-13T16:33:28.033288+00:00"
+        },
+        {
+            "story_id": "78e0b4c5f65c3ae3b47f28d084f3a5fe",
+            "topic": "United States",
+            "subtopics": [
+                "Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices"
+            ],
+            "title": "Indian stock market: 8 key things that changed for market overnight - Gift Nifty, US tech stocks sell-off to gold prices",
+            "desc": "Gift Nifty was trading around 25,716 level, a discount of nearly 142 points from the Nifty futures' previous close, indicating a gap-down start for the Indian stock market indices.",
+            "url": "https://www.livemint.com/market/stock-market-news/indian-stock-market-8-key-things-that-changed-for-market-overnight-gift-nifty-us-tech-stocks-selloff-to-gold-prices-11770915139295.html",
+            "image": "https://www.livemint.com/lm-img/img/2026/02/12/1600x900/logo/JAPAN-ECONOMY-STOCKS-7_1770915162476_1770915172559.jpg",
+            "source": "Mint",
+            "score": 4,
+            "added_time": "2026-02-13T16:33:29.876441+00:00"
         }
     ],
     "recent_topics": {
-        "India": "2026-02-12T16:46:32.209547+00:00",
         "Files Notice": "2026-02-12T20:24:31.878208+00:00",
         "Tcs": "2026-02-13T01:11:14.919060+00:00",
         "Japan": "2026-02-13T05:18:37.824507+00:00",
@@ -915,6 +891,7 @@
         "James Clerk Maxwell Telescope": "2026-02-13T12:38:04.944629+00:00",
         "Niti Aayog'S": "2026-02-13T16:33:30.948726+00:00",
         "Pova": "2026-02-13T20:26:05.545516+00:00",
-        "Krishana Phoschem": "2026-02-14T01:04:33.605885+00:00"
+        "Krishana Phoschem": "2026-02-14T01:04:33.605885+00:00",
+        "United States": "2026-02-14T05:05:37.640786+00:00"
     }
 }
