@@ -1,62 +1,6 @@
 {
     "queue": [
         {
-            "story_id": "8ef409f0746c445085cd1edc87ee3bd5",
-            "topic": "The European Union",
-            "subtopics": [
-                "Europe and monetary sovereignty"
-            ],
-            "title": "Europe and monetary sovereignty",
-            "desc": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-            "url": "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260212~9fabe9baaa.en.html",
-            "image": "https://www.ecb.europa.eu/press/key/shared/img/socialmedia/social-default.jpg?0dbb2de262f4f1fcaeae410be132177a",
-            "source": "European Central Bank",
-            "score": 3,
-            "added_time": "2026-02-13T05:18:35.602469+00:00"
-        },
-        {
-            "story_id": "c38aedec5bd33c6eaf3ed7d0b1c90b32",
-            "topic": "Ai",
-            "subtopics": [
-                "\"Malicious AI Swarms\" Could Hijack Democracy-And May Even Go Unnoticed, Experts Say"
-            ],
-            "title": ": \"Malicious AI Swarms\" Could Hijack Democracy-And May Even Go Unnoticed, Experts Say, Experts Say.",
-            "desc": "A new breed of AI-controlled personas could pose an unprecedented threat to democratic societies, experts have recently warned.",
-            "url": "https://thedebrief.org/malicious-ai-swarms-could-hijack-democracy-and-may-even-go-unnoticed-experts-say/",
-            "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/02/robot.jpg",
-            "source": "The Debrief",
-            "score": 3,
-            "added_time": "2026-02-13T05:18:36.706729+00:00"
-        },
-        {
-            "story_id": "495e742e8a3603d3df94d198046c7d0a",
-            "topic": "General",
-            "subtopics": [
-                "From war zones to outer space, radio remains essential"
-            ],
-            "title": "From war zones to outer space, radio remains essential",
-            "desc": "Even as the world fixates on ever\u2011brighter screens and sprawling digital feeds, radio endures with a quiet resilience, shaping how we share experience and understand one another. Its waves travel where sight cannot, pairing with cutting\u2011edge innovation in some places and acting as a lone, indispensable lifeline in others when technology fails to keep pace.",
-            "url": "https://news.un.org/en/story/2026/02/1166947",
-            "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/15-05-2020-UNICEF-Rwanda.jpg/image770x420cropped.jpg",
-            "source": "UN News",
-            "score": 3,
-            "added_time": "2026-02-13T05:18:36.706763+00:00"
-        },
-        {
-            "story_id": "83fac6b51f54657b959187880334a81e",
-            "topic": "Softbank",
-            "subtopics": [
-                "SoftBank bags $7.4 billion from India exits; portfolio value stands at $13.7 billion"
-            ],
-            "title": "; portfolio value stands at $13.7 billion; portfolio value stands at $13.7 billion; portfolio value stands at $13.7 billion; portfolio value stands at $13.7 billion; portfolio value stands at $13.7",
-            "desc": "The Japanese investment major has made 24 investments in India through its Vision Funds, with eight portfolio companies listing on public markets and four full exits",
-            "url": "https://www.moneycontrol.com/news/business/startup/softbank-bags-7-4-billion-from-india-exits-portfolio-value-stands-at-13-7-billion-13825494.html",
-            "image": "https://images.moneycontrol.com/static-mcnews/2017/08/SoftBank.jpg",
-            "source": "Moneycontrol",
-            "score": 3,
-            "added_time": "2026-02-13T05:18:37.824447+00:00"
-        },
-        {
             "story_id": "52f17149e3bbfe1df93cafa0d6a3508d",
             "topic": "Npi",
             "subtopics": [
@@ -127,20 +71,6 @@
             "added_time": "2026-02-13T20:26:05.545481+00:00"
         },
         {
-            "story_id": "bcab89b0b1b02d457366305312f1a2f3",
-            "topic": "China",
-            "subtopics": [
-                "After China, India & Japan, Indonesia Set to Become 4th Asian Country With Aircraft Carrier: Gamble or Good Bet?"
-            ],
-            "title": "After China, India & Japan, Indonesia Set to Become 4th Asian Country With Aircraft Carrier: Gamble or Good Bet?",
-            "desc": "Currently, only a few Navies worldwide operate aircraft carriers, which are widely recognized symbols of a country\u2019s military might and its ability to project power far beyond its borders.\u00a0 The three countries in the Asian continent that operate aircraft carriers are India, which currently operates two carriers, INS Vikrant and INS Vikramaditya; China, which has [\u2026]",
-            "url": "https://www.eurasiantimes.com/after-china-india-japan-indonesia-set-to-become-4th-asian-country-with-aircraft-carrier-gamble-or-good-bet/",
-            "image": "https://www.eurasiantimes.com/wp-content/uploads/2025/03/ITS_Giuseppe_Garibaldi_C_551.jpg",
-            "source": "EurAsian Times",
-            "score": 4,
-            "added_time": "2026-02-14T01:04:32.493564+00:00"
-        },
-        {
             "story_id": "81e131fe16fb20d883c70f7fc70007ec",
             "topic": "Tcs",
             "subtopics": [
@@ -172,23 +102,51 @@
             "source": "Times of India",
             "score": 4,
             "added_time": "2026-02-14T05:05:37.640727+00:00"
+        },
+        {
+            "story_id": "cb40378704698e28522a0bf96ca47857",
+            "topic": "Karachi",
+            "subtopics": [
+                "KU seminar emphasises linking research with social issues"
+            ],
+            "title": "KU seminar emphasises linking research with social issues",
+            "desc": "KARACHI\u00a0 \u00a0-\u00a0 \u00a0Artificial Intelligence (AI) is not merely a technology of the future but has already become an unavoidable reality of the present,",
+            "url": "https://www.nation.com.pk/14-Feb-2026/ku-seminar-emphasises-linking-research-social-issues",
+            "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+            "source": "The Nation (Pakistan )",
+            "score": 3,
+            "added_time": "2026-02-14T08:19:57.689938+00:00"
+        },
+        {
+            "story_id": "b52d3bd5502e0e3a954996139e4c9db6",
+            "topic": "Ai Summit India News",
+            "subtopics": [
+                "Heads of 20 nations, delegations from 45 countries: Who is attending India's mega AI Summit"
+            ],
+            "title": "Heads of 20 nations, delegations from 45 countries: Who is attending India's mega AI Summit?",
+            "desc": "India News: NEW DELHI: The Ministry of External Affairs (MEA) on Friday released the list of countries whose leaders will attend the India\u2013AI Impact Summit 2026, .",
+            "url": "https://timesofindia.indiatimes.com/india/heads-of-20-nations-delegations-from-45-countries-who-is-attending-indias-mega-ai-summit/articleshow/128309896.cms",
+            "image": "https://static.toiimg.com/thumb/msid-128310069,width-1280,height-720,imgsize-1581091,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+            "source": "Times of India",
+            "score": 4,
+            "added_time": "2026-02-14T08:19:58.166708+00:00"
+        },
+        {
+            "story_id": "cd0aed05cb5fc334e8c20a908c601580",
+            "topic": "Slim",
+            "subtopics": [
+                "POVA Curve 2 Goes Official with Massive Battery Power in a Slim, Futuristic Design"
+            ],
+            "title": "POVA Curve 2 Goes Official with Massive Battery Power in a Slim, Futuristic Design: POVA Curve 2 Goes Official with Massive Battery Power in ",
+            "desc": "New Delhi [India], February 13: POVA has always treated the smartphone as a badge of identity, specifically crafted for the bold Indian spirit. While the original POVA Curve broke the mold with its innovative aesthetics, the POVA Curve 2 takes a quantum leap forward. Inspired by the sleek precision of spacecraft engineering, it evolves the 'cool' factor into something sharper and more sophisticated, a launchpad-ready design built to stand out in a crowd.",
+            "url": "https://www.aninews.in/news/business/pova-curve-2-goes-official-with-massive-battery-power-in-a-slim-futuristic-design20260213130531/",
+            "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260213073509.jpg",
+            "source": "ANI News",
+            "score": 3,
+            "added_time": "2026-02-14T08:19:58.909677+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "fdbbdc9c7d8cb5655da89d2e9ba0d8f7",
-            "topic": "General",
-            "subtopics": [
-                "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten"
-            ],
-            "title": "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten",
-            "desc": "Industrial Resurgence: Iron Ore Prices Surge 2.24% as Global Demand Forecasts Brighten",
-            "url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-2-2-industrial-resurgence-iron-ore-prices-surge-224-as-global-demand-forecasts-brighten",
-            "image": "https://images.financialcontent.com/investcenter/favicon.svg",
-            "source": "FinancialContent",
-            "score": 3,
-            "added_time": "2026-02-03T04:36:19.329468+00:00"
-        },
         {
             "story_id": "d111c64473733ef51b8be2ec79b2f9d0",
             "topic": "Narendra Modi",
@@ -881,6 +839,20 @@
             "source": "Mint",
             "score": 4,
             "added_time": "2026-02-13T16:33:29.876441+00:00"
+        },
+        {
+            "story_id": "bcab89b0b1b02d457366305312f1a2f3",
+            "topic": "China",
+            "subtopics": [
+                "After China, India & Japan, Indonesia Set to Become 4th Asian Country With Aircraft Carrier: Gamble or Good Bet?"
+            ],
+            "title": "After China, India & Japan, Indonesia Set to Become 4th Asian Country With Aircraft Carrier: Gamble or Good Bet?",
+            "desc": "Currently, only a few Navies worldwide operate aircraft carriers, which are widely recognized symbols of a country\u2019s military might and its ability to project power far beyond its borders.\u00a0 The three countries in the Asian continent that operate aircraft carriers are India, which currently operates two carriers, INS Vikrant and INS Vikramaditya; China, which has [\u2026]",
+            "url": "https://www.eurasiantimes.com/after-china-india-japan-indonesia-set-to-become-4th-asian-country-with-aircraft-carrier-gamble-or-good-bet/",
+            "image": "https://www.eurasiantimes.com/wp-content/uploads/2025/03/ITS_Giuseppe_Garibaldi_C_551.jpg",
+            "source": "EurAsian Times",
+            "score": 4,
+            "added_time": "2026-02-14T01:04:32.493564+00:00"
         }
     ],
     "recent_topics": {
@@ -892,6 +864,7 @@
         "Niti Aayog'S": "2026-02-13T16:33:30.948726+00:00",
         "Pova": "2026-02-13T20:26:05.545516+00:00",
         "Krishana Phoschem": "2026-02-14T01:04:33.605885+00:00",
-        "United States": "2026-02-14T05:05:37.640786+00:00"
+        "United States": "2026-02-14T05:05:37.640786+00:00",
+        "China": "2026-02-14T08:19:58.909728+00:00"
     }
 }
