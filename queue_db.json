@@ -144,23 +144,51 @@
             "source": "ANI News",
             "score": 3,
             "added_time": "2026-02-14T08:19:58.909677+00:00"
+        },
+        {
+            "story_id": "6906a70bbad04d8c3bbf6c78a9a700b8",
+            "topic": "Apk",
+            "subtopics": [
+                "Phishing on the Edge of the Web and Mobile Using QR Codes"
+            ],
+            "title": "Phishing on the Edge of the Web and Mobile Using QR Codes",
+            "desc": "We discuss the extensive use of malicious QR codes using URL shorteners, in-app deep links and direct APK downloads to bypass mobile security.",
+            "url": "https://unit42.paloaltonetworks.com/qr-codes-as-attack-vector/",
+            "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/02/01_Vulnerabilities_1920x900.jpg",
+            "source": "Unit 42",
+            "score": 3,
+            "added_time": "2026-02-14T12:23:58.333387+00:00"
+        },
+        {
+            "story_id": "b7501dedfcc13872951b7db989f1c1ee",
+            "topic": "Sulu",
+            "subtopics": [
+                "Asia\u2019s real masters of the sea, from Indonesia\u2019s forgotten kingdom to Vietnam\u2019s ancient empire"
+            ],
+            "title": ": Asia\u2019s real masters of the sea, from Indonesia\u2019s forgotten kingdom to Vietnam\u2019s ancient empire.",
+            "desc": "The Mark Of Empire follows the traces of Asia\u2019s maritime civilisations, from Srivijaya to Sulu, exploring how they continue to shape faith, identity and craft today. Here\u2019s why the series will grab you.",
+            "url": "https://www.channelnewsasia.com/cna-insider/asia-sea-kingdoms-mark-empire-indonesia-vietnam-ancient-history-5923636",
+            "image": "https://dam.mediacorp.sg/image/upload/s--bOhuiMd6--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/02/12/13.jpg?itok=QmG9noqU",
+            "source": "CNA",
+            "score": 3,
+            "added_time": "2026-02-14T12:23:59.419430+00:00"
+        },
+        {
+            "story_id": "b74aa9b264a87cba0308abb36ada26ff",
+            "topic": "Spain",
+            "subtopics": [
+                "ixigo to acquire 60% stake in Spain\u2019s Trenes for Rs 125 Cr, enters Europe"
+            ],
+            "title": "ixigo to acquire 60% stake in Spain\u2019s Trenes for Rs 125 Cr, enters Europe to acquire 60% stake in Spain\u2019s Trenes for Rs 125 Cr, enter",
+            "desc": "ixigo has approved the acquisition of a majority stake in Spain-based online train ticketing platform Trenes for a total investment of around Rs 125 crore.",
+            "url": "https://entrackr.com/news/ixigo-to-acquire-60-stake-in-spains-trenes-for-rs-125-cr-enters-europe-11104761",
+            "image": "https://img-cdn.publive.online/fit-in/1200x675/entrackr/media/media_files/2026/02/13/ixigo-trenes-2026-02-13-22-29-10.png",
+            "source": "Entrackr",
+            "score": 3,
+            "added_time": "2026-02-14T12:24:00.508503+00:00"
         }
     ],
     "posted": [
-        {
-            "story_id": "d111c64473733ef51b8be2ec79b2f9d0",
-            "topic": "Narendra Modi",
-            "subtopics": [
-                "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil"
-            ],
-            "title": "Trump slashes tariffs on India after Modi agrees to stop buying Russian oil",
-            "desc": "President Donald Trump on Monday announced he would reduce tariffs on Indian goods in exchange for, among other things, a promise to stop buying Russian oil.",
-            "url": "https://www.cnn.com/2026/02/02/business/india-russian-oil-trump-tariffs",
-            "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2239374060.jpg?c=16x9&q=w_800,c_fill",
-            "source": "CNN",
-            "score": 3,
-            "added_time": "2026-02-03T05:55:21.625642+00:00"
-        },
         {
             "story_id": "0847102c15d1c9aa3d87ae045b1e8f6a",
             "topic": "Rsv",
@@ -853,10 +881,23 @@
             "source": "EurAsian Times",
             "score": 4,
             "added_time": "2026-02-14T01:04:32.493564+00:00"
+        },
+        {
+            "story_id": "f20f26c77685fcdd121b1a91c146d181",
+            "topic": "The Ai Impact Summit",
+            "subtopics": [
+                "Major opportunities for AI in jobs and governance, says MeitY Secretary S. Krishnan"
+            ],
+            "title": ": Major opportunities for AI in jobs and governance, says MeitY Secretary S. Krishnan",
+            "desc": "India's AI opportunities in jobs and governance, focusing on infrastructure, reskilling, and international cooperation ahead of the AI Impact Summit.",
+            "url": "https://www.thehindu.com/sci-tech/technology/major-opportunities-for-ai-in-jobs-and-governance-says-meity-secretary-s-krishnan/article70630166.ece",
+            "image": "https://th-i.thgim.com/public/news/cities/Delhi/y7pv9b/article70630168.ece/alternates/LANDSCAPE_1200/GetImageContent.jpg",
+            "source": "The Hindu",
+            "score": 6,
+            "added_time": "2026-02-14T12:23:58.333352+00:00"
         }
     ],
     "recent_topics": {
-        "Files Notice": "2026-02-12T20:24:31.878208+00:00",
         "Tcs": "2026-02-13T01:11:14.919060+00:00",
         "Japan": "2026-02-13T05:18:37.824507+00:00",
         "Ajcon Global": "2026-02-13T08:32:21.789297+00:00",
@@ -865,6 +906,7 @@
         "Pova": "2026-02-13T20:26:05.545516+00:00",
         "Krishana Phoschem": "2026-02-14T01:04:33.605885+00:00",
         "United States": "2026-02-14T05:05:37.640786+00:00",
-        "China": "2026-02-14T08:19:58.909728+00:00"
+        "China": "2026-02-14T08:19:58.909728+00:00",
+        "The Ai Impact Summit": "2026-02-14T12:24:00.508558+00:00"
     }
 }
